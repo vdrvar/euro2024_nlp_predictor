@@ -20,7 +20,7 @@ Calendario Segunda División 2023- 2024 - LaLiga Hypermotion - Partidos por jorn
 
 
 
-Es noticia: Nadal - De MiñaurChelsea - BarcelonaAlmería - GetafeAlavés - CeltaJorge MartínCarrera sprint MotoGPMotoGP horario clasificación Nadal y AlcarazCuándo juega NadalAlineación AtléticoChelsea - Barcelona dónde verAlavés - Celta dónde verAtlético - Athletic dónde verCuándo juega AlcarazGabriela ArrocetCarlos RodríguezLotería Nacional hoyPedro SánchezNiño BecerraFirst DatesMaría del MonteGP España MotoGPMutua Madrid OpenPrecio luz hoyFútbol HoyClasificación LigaCalendario F1Portada de Marca
+Es noticia: Madrid - BayernDónde ver Real Madrid hoyAlonso Real MadridAlineación Real Madrid hoySocios Real MadridReal Madrid - Bayern árbitroBrujas - FiorentinaFinal ChampionsBarcelona - OlympiacosKipchogeCuando juega NadalEmbalses Catalunya hoyLaura EscanesRisto MejideMaría LeónIndycarCecilia Sopeña OnlyfansNiño BecerraNacho AbadPrecio luz hoyJorge JavierReal MadridBayernChampions LeagueMotoGP GP FranciaMasters RomaFútbol HoyCalendario F1Sans MbappéPortada de Marca
 
 Edición seleccionada
 ES 
@@ -7359,7 +7359,7 @@ Racing
 
 Burgos
 
-27/04 16:15
+2-2
 
 Amorebieta
 
@@ -7374,7 +7374,7 @@ Amorebieta
 
 Leganés
 
-27/04 16:15
+1-1
 
 Zaragoza
 
@@ -7389,7 +7389,7 @@ Zaragoza
 
 Elche
 
-27/04 18:30
+2-2
 
 Espanyol
 
@@ -7404,7 +7404,7 @@ Espanyol
 
 Sporting
 
-28/04 14:00
+0-3
 
 Villarreal B
 
@@ -7419,7 +7419,7 @@ Villarreal B
 
 Alcorcón
 
-28/04 16:15
+0-0
 
 Eldense
 
@@ -7434,7 +7434,7 @@ Eldense
 
 Oviedo
 
-28/04 16:15
+0-1
 
 Tenerife
 
@@ -7449,7 +7449,7 @@ Tenerife
 
 Levante
 
-28/04 18:30
+0-1
 
 FC Cartagena
 
@@ -7464,7 +7464,7 @@ FC Cartagena
 
 Valladolid
 
-28/04 18:30
+1-0
 
 Huesca
 
@@ -7479,7 +7479,7 @@ Huesca
 
 Albacete
 
-28/04 21:00
+2-1
 
 Eibar
 
@@ -7494,7 +7494,7 @@ Eibar
 
 Racing Ferrol
 
-29/04 20:30
+0-2
 
 Mirandés
 
@@ -7528,7 +7528,7 @@ Equipo visitante
 
 Villarreal B
 
-03/05 20:30
+0-3
 
 Levante
 
@@ -7543,7 +7543,7 @@ Levante
 
 Mirandés
 
-04/05 14:00
+0-1
 
 Valladolid
 
@@ -7558,7 +7558,7 @@ Valladolid
 
 Huesca
 
-04/05 16:15
+0-2
 
 Oviedo
 
@@ -7573,7 +7573,7 @@ Oviedo
 
 Racing
 
-04/05 18:30
+3-1
 
 Elche
 
@@ -7588,7 +7588,7 @@ Elche
 
 FC Cartagena
 
-04/05 21:00
+1-0
 
 Alcorcón
 
@@ -7603,7 +7603,7 @@ Alcorcón
 
 Eibar
 
-05/05 14:00
+5-0
 
 Amorebieta
 
@@ -7618,7 +7618,7 @@ Amorebieta
 
 Espanyol
 
-05/05 16:15
+0-0
 
 Sporting
 
@@ -7633,7 +7633,7 @@ Sporting
 
 FC Andorra
 
-05/05 16:15
+0-1
 
 Albacete
 
@@ -7648,7 +7648,7 @@ Albacete
 
 Eldense
 
-05/05 18:30
+1-2
 
 Leganés
 
@@ -7663,7 +7663,7 @@ Leganés
 
 Zaragoza
 
-05/05 18:30
+1-3
 
 Burgos
 
@@ -7678,7 +7678,7 @@ Burgos
 
 Tenerife
 
-05/05 21:00
+2-0
 
 Racing Ferrol
 
@@ -7894,56 +7894,11 @@ Equipo visitante
 
 
 
-Alcorcón
+Mirandés
 
-19/05 18:00
+17/05 20:30
 
-Valladolid
-
-
-
-
-
-
-
-
-
-
-Eibar
-
-19/05 18:00
-
-FC Cartagena
-
-
-
-
-
-
-
-
-
-
-Eldense
-
-19/05 18:00
-
-Levante
-
-
-
-
-
-
-
-
-
-
-Espanyol
-
-19/05 18:00
-
-Oviedo
+Elche
 
 
 
@@ -7956,7 +7911,7 @@ Oviedo
 
 FC Andorra
 
-19/05 18:00
+18/05 14:00
 
 Burgos
 
@@ -7971,7 +7926,7 @@ Burgos
 
 Huesca
 
-19/05 18:00
+18/05 16:15
 
 Racing
 
@@ -7986,7 +7941,7 @@ Racing
 
 Leganés
 
-19/05 18:00
+18/05 16:15
 
 Sporting
 
@@ -7999,26 +7954,11 @@ Sporting
 
 
 
-Mirandés
+Eldense
 
-19/05 18:00
+18/05 21:00
 
-Elche
-
-
-
-
-
-
-
-
-
-
-Zaragoza
-
-19/05 18:00
-
-Racing Ferrol
+Levante
 
 
 
@@ -8031,7 +7971,7 @@ Racing Ferrol
 
 Tenerife
 
-19/05 18:00
+18/05 21:00
 
 Amorebieta
 
@@ -8044,9 +7984,69 @@ Amorebieta
 
 
 
+Eibar
+
+19/05 14:00
+
+FC Cartagena
+
+
+
+
+
+
+
+
+
+
+Alcorcón
+
+19/05 16:15
+
+Valladolid
+
+
+
+
+
+
+
+
+
+
+Zaragoza
+
+19/05 21:00
+
+Racing Ferrol
+
+
+
+
+
+
+
+
+
+
+Espanyol
+
+20/05 20:30
+
+Oviedo
+
+
+
+
+
+
+
+
+
+
 Villarreal B
 
-19/05 18:00
+20/05 20:30
 
 Albacete
 
@@ -8080,7 +8080,7 @@ Equipo visitante
 
 Albacete
 
-26/05 18:00
+26/05 18:30
 
 Mirandés
 
@@ -8095,7 +8095,7 @@ Mirandés
 
 Amorebieta
 
-26/05 18:00
+26/05 18:30
 
 Espanyol
 
@@ -8110,7 +8110,7 @@ Espanyol
 
 Burgos
 
-26/05 18:00
+26/05 18:30
 
 Tenerife
 
@@ -8125,7 +8125,7 @@ Tenerife
 
 Elche
 
-26/05 18:00
+26/05 18:30
 
 Eldense
 
@@ -8140,7 +8140,7 @@ Eldense
 
 FC Cartagena
 
-26/05 18:00
+26/05 18:30
 
 Huesca
 
@@ -8155,7 +8155,7 @@ Huesca
 
 Levante
 
-26/05 18:00
+26/05 18:30
 
 Alcorcón
 
@@ -8170,7 +8170,7 @@ Alcorcón
 
 Racing Ferrol
 
-26/05 18:00
+26/05 18:30
 
 Leganés
 
@@ -8185,7 +8185,7 @@ Leganés
 
 Racing
 
-26/05 18:00
+26/05 18:30
 
 Zaragoza
 
@@ -8200,7 +8200,7 @@ Zaragoza
 
 Oviedo
 
-26/05 18:00
+26/05 18:30
 
 FC Andorra
 
@@ -8215,7 +8215,7 @@ FC Andorra
 
 Valladolid
 
-26/05 18:00
+26/05 18:30
 
 Villarreal B
 
@@ -8230,7 +8230,7 @@ Villarreal B
 
 Sporting
 
-26/05 18:00
+26/05 18:30
 
 Eibar
 
@@ -8452,21 +8452,22 @@ Más noticias
 
 
 
-Elche - Espanyol
+LALIGA Hypermotion
 
 
 
-Elche - Espanyol en directo
+Domingo 26 de mayo, a las 18.30, se jugará toda la jornada 41 en Segunda
 
 
 
 
+Redacción: MANUEL ÁNGEL SEGOVIA
 
 
-Elche - Espanyol en directo
 
 
 
+Domingo 26 de mayo, a las 18.30, se jugará toda la jornada 41 en Segunda
 
 
 
@@ -8481,19 +8482,19 @@ Elche - Espanyol en directo
 
 
 
-LaLiga Hypermotion
 
 
 
-Así está la clasificación de Segunda en lo que va de jornada 37
+LALIGA Hypermotion - Segunda División
 
 
 
+Cuatro candidatos para un 'ascensor' de sólo dos plazas
 
 
 
-Así está la clasificación de Segunda en lo que va de jornada 37
 
+Redacción: J. CARRASCO, J. P. BARAJA, A. BARROSO Y C. NAVARRO
 
 
 
@@ -8503,114 +8504,12 @@ Así está la clasificación de Segunda en lo que va de jornada 37
 
 
 
+63 comentarios
 
 
 
 
-
-
-
-Burgos CF - Amorebieta
-
-
-
-Burgos CF - Amorebieta en directo
-
-
-
-
-
-
-
-
-
-
-3 comentarios
-
-
-
-
-Burgos CF - Amorebieta en directo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Leganés - Zaragoza
-
-
-
-Leganés - Zaragoza en directo
-
-
-
-
-
-
-
-
-
-
-9 comentarios
-
-
-
-
-Leganés - Zaragoza en directo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Andorra 1-1 Racing de Santander
-
-
-
-Empatando bajo la lluvia
-
-
-
-
-Redacción: IVÁN MOURE
-
-
-
-
-
-
-
-
-
-19 comentarios
-
-
-
-
-Empatando bajo la lluvia
+Cuatro candidatos para un 'ascensor' de sólo dos plazas
 
 
 
@@ -8670,31 +8569,418 @@ Calculadora de Segunda división: qué necesita cada equipo para ascender a Prim
 
 
 
-Andorra - Racing
+LaLiga Hypermotion
 
 
 
-Andorra - Racing de Santander: resumen, resultado y goles del partido de LaLiga Hypermotion
-
-
-
-
-Redacción: PABLO LUCENA
+Así queda la clasificación de Segunda tras acabar la jornada 38
 
 
 
 
 
 
+Así queda la clasificación de Segunda tras acabar la jornada 38
 
 
 
-12 comentarios
 
 
 
 
-Andorra - Racing de Santander: resumen, resultado y goles del partido de LaLiga Hypermotion
+
+
+
+
+
+
+
+
+
+
+Tenerife 2 - 0 Racing de Ferrol
+
+
+
+El Tenerife marca al final y le salen las cuentas de los 'playoffs'
+
+
+
+
+Redacción: SEBASTIÁN CUTILLAS
+
+
+
+
+
+
+
+
+
+44 comentarios
+
+
+
+
+El Tenerife marca al final y le salen las cuentas de los 'playoffs'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tenerife - Racing Ferrol
+
+
+
+Tenerife - Racing Ferrol en directo
+
+
+
+
+
+
+
+
+
+
+9 comentarios
+
+
+
+
+Tenerife - Racing Ferrol en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eldense 1 - 2 Leganés
+
+
+
+El Leganés remonta 'in extremis' y se aferra al liderato
+
+
+
+
+Redacción: DAVID SÁNCHEZ
+
+
+
+
+
+
+
+
+
+53 comentarios
+
+
+
+
+El Leganés remonta 'in extremis' y se aferra al liderato
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zaragoza 1-3 Burgos
+
+
+
+El 'Curro' del Burgos mantiene vivo el sueño y complica al Zaragoza
+
+
+
+
+Redacción: CHRISTIAN ORTIZ
+
+
+
+
+
+
+
+
+
+59 comentarios
+
+
+
+
+El 'Curro' del Burgos mantiene vivo el sueño y complica al Zaragoza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zaragoza - Burgos
+
+
+
+Zaragoza - Burgos en directo
+
+
+
+
+
+
+
+
+
+
+32 comentarios
+
+
+
+
+Zaragoza - Burgos en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eldense - Leganés
+
+
+
+Eldense - Leganés en directo
+
+
+
+
+
+
+
+
+
+
+40 comentarios
+
+
+
+
+Eldense - Leganés en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Espanyol 0 - 0 Sporting
+
+
+
+Se les escapa el tren
+
+
+
+
+Redacción: PABLO GUISASOLA
+
+
+
+
+
+
+
+
+
+26 comentarios
+
+
+
+
+Se les escapa el tren
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Andorra 0-1 Albacete
+
+
+
+El Albacete acaricia la salvación en el Principado y hunde al Andorra
+
+
+
+
+Redacción: GREGORIO GARCÍA
+
+
+
+
+
+
+
+
+
+19 comentarios
+
+
+
+
+El Albacete acaricia la salvación en el Principado y hunde al Andorra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Espanyol - Sporting
+
+
+
+Espanyol - Sporting en directo
+
+
+
+
+
+
+
+
+
+
+34 comentarios
+
+
+
+
+Espanyol - Sporting en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Andorra - Albacete
+
+
+
+Andorra - Albacete en directo... la pelea por la salvación en vivo
+
+
+
+
+
+
+
+
+
+
+5 comentarios
+
+
+
+
+Andorra - Albacete en directo... la pelea por la salvación en vivo
 
 
 
@@ -8716,12 +9002,12 @@ LALIGA Hypermotion - Segunda División
 
 
 
-El ascenso y la permanencia... a 'cara de perro'
+Ya tenemos los horarios de la antepenúltima jornada en Segunda
 
 
 
 
-Redacción: JULIA DEL MAR Y GREGORIO GARCÍA
+Redacción: MANUEL ÁNGEL SEGOVIA
 
 
 
@@ -8731,12 +9017,12 @@ Redacción: JULIA DEL MAR Y GREGORIO GARCÍA
 
 
 
-31 comentarios
+4 comentarios
 
 
 
 
-El ascenso y la permanencia... a 'cara de perro'
+Ya tenemos los horarios de la antepenúltima jornada en Segunda
 
 
 
@@ -8754,175 +9040,11 @@ El ascenso y la permanencia... a 'cara de perro'
 
 
 
-Cartagena - Real Oviedo
+Eibar 5-0 Amorebieta
 
 
 
-Cartagena - Real Oviedo: resumen, resultado y goles del partido de LaLiga Hypermotion
-
-
-
-
-Redacción: FRANCISCO J. JURADO
-
-
-
-
-
-
-
-
-
-13 comentarios
-
-
-
-
-Cartagena - Real Oviedo: resumen, resultado y goles del partido de LaLiga Hypermotion
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Cartagena 2-0 Oviedo
-
-
-
-El Efesé se reencuentra, con polémica, en el regreso de Carrión
-
-
-
-
-Redacción: ÁLVARO PRIÁN
-
-
-
-
-
-
-
-
-
-26 comentarios
-
-
-
-
-El Efesé se reencuentra, con polémica, en el regreso de Carrión
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mirandés 2 -1 Burgos
-
-
-
-Una reacción jabata para ganar el derbi
-
-
-
-
-Redacción: AITOR CASTILLO
-
-
-
-
-
-
-
-
-
-13 comentarios
-
-
-
-
-Una reacción jabata para ganar el derbi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mirandés - Burgos CF
-
-
-
-Mirandés - Burgos CF en directo... descenso y 'playoffs' se juegan en Anduva
-
-
-
-
-
-
-
-
-
-
-13 comentarios
-
-
-
-
-Mirandés - Burgos CF en directo... descenso y 'playoffs' se juegan en Anduva
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Eibar 2-0 Alcorcón
-
-
-
-'Bautistuta' y Corpas doblegan al Alcor y mantienen al Eibar en ascenso directo
+El Eibar se hace fuerte en Ipurua y engulle al Amore con una 'manita' en el derbi
 
 
 
@@ -8937,17 +9059,12 @@ Redacción: ANDER BARROSO
 
 
 
-10 comentarios
+8 comentarios
 
 
 
 
-'Bautistuta' y Corpas doblegan al Alcor y mantienen al Eibar en ascenso directo
-
-
-
-
-
+El Eibar se hace fuerte en Ipurua y engulle al Amore con una 'manita' en el derbi
 
 
 
@@ -8960,11 +9077,134 @@ Redacción: ANDER BARROSO
 
 
 
-Eldense - Albacete
 
 
 
-Eldense - Albacete en directo... con tres puntos en juego para dar un paso hacia la permanencia
+
+
+Eibar - Amorebieta
+
+
+
+Eibar - Amorebieta en directo... en busca del ascenso directo y la salvación
+
+
+
+
+
+
+
+
+
+
+15 comentarios
+
+
+
+
+Eibar - Amorebieta en directo... en busca del ascenso directo y la salvación
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cartagena 1 - 0 Alcorcón
+
+
+
+El Cartagena da un paso de gigante para la salvación
+
+
+
+
+Redacción: ÁLVARO PRIÁN
+
+
+
+
+
+
+
+
+
+14 comentarios
+
+
+
+
+El Cartagena da un paso de gigante para la salvación
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cartagena-Alcorcón
+
+
+
+Cartagena - Alcorcón en directo
+
+
+
+
+
+
+
+
+
+
+3 comentarios
+
+
+
+
+Cartagena - Alcorcón en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Racing-Elche
+
+
+
+Racing Santander - Elche en directo
 
 
 
@@ -8980,247 +9220,7 @@ Eldense - Albacete en directo... con tres puntos en juego para dar un paso hacia
 
 
 
-Eldense - Albacete en directo... con tres puntos en juego para dar un paso hacia la permanencia
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Eldense 0 - 1 Albacete
-
-
-
-El Alba duerme fuera del descenso y mete en un lío al Eldense y a su técnico
-
-
-
-
-Redacción: DAVID SÁNCHEZ
-
-
-
-
-
-
-
-
-
-11 comentarios
-
-
-
-
-El Alba duerme fuera del descenso y mete en un lío al Eldense y a su técnico
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Eibar - Alcorcón
-
-
-
-Eibar - Alcorcón en directo... los armeros quieren recuperar la segunda plaza
-
-
-
-
-
-
-
-
-
-
-17 comentarios
-
-
-
-
-Eibar - Alcorcón en directo... los armeros quieren recuperar la segunda plaza
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Espanyol 1- 1Andorra
-
-
-
-El Andorra saca los colores al Espanyol... con Piqué en el palco
-
-
-
-
-Redacción: CRISTINA NAVARRO
-
-
-
-
-
-
-
-
-
-29 comentarios
-
-
-
-
-El Andorra saca los colores al Espanyol... con Piqué en el palco
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Espanyol - Andorra
-
-
-
-Espanyol - Andorra en directo... un duelo con objetivos bien distintos
-
-
-
-
-
-
-
-
-
-
-39 comentarios
-
-
-
-
-Espanyol - Andorra en directo... un duelo con objetivos bien distintos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Huesca 1-2 Zaragoza
-
-
-
-El Zaragoza rompe su racha fuera, se lleva el derbi y ata media salvación
-
-
-
-
-Redacción: CHRISTIAN ORTIZ
-
-
-
-
-
-
-
-
-
-68 comentarios
-
-
-
-
-El Zaragoza rompe su racha fuera, se lleva el derbi y ata media salvación
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Huesca - Zaragoza
-
-
-
-Huesca - Zaragoza, en directo... un dramático derbi aragonés por la salvación
-
-
-
-
-
-
-
-
-
-
-30 comentarios
-
-
-
-
-Huesca - Zaragoza, en directo... un dramático derbi aragonés por la salvación
+Racing Santander - Elche en directo
 
 
  

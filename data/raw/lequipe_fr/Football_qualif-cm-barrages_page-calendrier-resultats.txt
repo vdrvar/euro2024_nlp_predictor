@@ -23,6 +23,10 @@ Calendrier et résultats Qualif. CM Barrages 2022 : barrages cm - Football - L'�
                 voir les directs
               L'ÉQUIPE        réglages  accessibilité  
                         Paris 2024
+                    
+                        Giro
+                    
+                        PSG - Dortmund
                            
             lire le journal
                 
@@ -50,9 +54,9 @@ Calendrier et résultats Qualif. CM Barrages 2022 : barrages cm - Football - L'�
                
             Ligue des champions
                
-            Euro
-               
             Ligue Europa
+               
+            Euro
                
             Angleterre
                
@@ -253,7 +257,7 @@ Calendrier et résultats Qualif. CM Barrages 2022 : barrages cm - Football - L'�
             aide et contact
                 
             nous contacter
-                       
+                        
                 L'ÉQUIPE
              
       
@@ -286,193 +290,187 @@ Calendrier et résultats Qualif. CM Barrages 2022 : barrages cm - Football - L'�
    
                 chrono
                 filtrer :  football      
-                17:34
+                21:23
               
             Foot,
         
-            ALL
+            C4
           
-            Dortmund largement battu à Leipzig avant de recevoir le PSG
+            La Fiorentina retourne en finale
          
-                17:07
+                21:03
               
             Foot,
         
-            ANG,
-        
-            Liverpool
+            C1
           
-            Échange tendu entre Salah et Klopp
+            Les sept erreurs fatales du PSG
          
-                16:57
+                20:05
+              
+            Foot,
+        
+            D1 Arkema
+          
+            Reims chipe la quatrième place à Fleury et file en play-offs
+         
+                20:02
+              
+            Foot,
+        
+            C1,
+        
+            PSG
+          
+            Mbappé, l'annonce qui a tout changé
+         
+                19:48
+              
+            Foot,
+        
+            C3,
+        
+            OM
+          
+            Gasset : «Il faudra faire le match idéal»
+         
+                19:43
+              
+            Foot,
+        
+            C1,
+        
+            Real
+          
+            Tchouaméni titulaire, Camavinga remplaçant
+         
+                19:18
               
             Foot,
         
             L1,
         
-            Rennes
+            Brest
           
-            Mandanda, un vétéran qui assure
+            Lees-Melou : « Je n'ai pas bien compris certains comportements »
          
-                16:56
+                18:44
               
             Foot,
         
-            ALL,
+            L2,
         
-            Francfort
+            Saint-Étienne
           
-            Le joli but d'Ekitike contre le Bayern
+            Larsonneur incertain contre Rodez
+         
+                18:40
+              
+            Foot,
+        
+            Euro U17 (F)
+          
+            Le résumé de Norvège - France en vidéo
+         
+                18:30
+              
+            Foot,
+        
+            Bleus
+          
+            Faites votre liste pour l'Euro 2024
+         
+                18:30
+              
+            Foot,
+        
+            Un Max de C1
+          
+            Ferland Mendy, le chouchou d'Ancelotti
+         
+                18:20
+              
+            Foot,
+        
+            Euro U17 (F)
+          
+            La France écrase la Norvège
+         
+                18:20
+              
+            Foot,
+        
+            C3,
+        
+            OM
+          
+            L'Atalanta, le club où Longoria a beaucoup appris
+         
+                17:55
+              
+            Foot,
+        
+            C1,
+        
+            PSG
+          
+            Cissé : « Un hamburger froid avec des frites molles ! »
+         
+                17:43
+              
+            Foot,
+        
+            C3,
+        
+            Leverkusen
+          
+            Xabi Alonso : «C'est très positif pour la Bundesliga
+         
+                17:13
+              
+            Foot,
+        
+            Transferts
+          
+            Monaco accélère pour Mawissa (Toulouse)
          
                 16:54
               
             Foot,
         
-            L2
+            Transferts
           
-            Saint-Étienne met la pression sur Angers
+            Beye a annoncé son départ du Red Star
          
-                16:16
+                16:45
               
             Foot,
         
-            ESP
+            C1,
+        
+            Real
           
-            Gérone s'impose à Las Palmas et grimpe à la 2e place
+            Vinicius, digne successeur de Benzema
          
-                15:40
+                16:19
               
             Foot,
         
-            L1,
+            C1,
         
-            Lille
+            Real
           
-            Ounas ne rejouera plus avec l'équipe première
+            Le staff des Bleus supervisera Mendy ce soir
          
-                15:34
+                16:17
               
             Foot,
         
-            ANG
+            C3,
+        
+            Atalanta
           
-            Avec un nul à West Ham, Liverpool s'éloigne encore du titre
-         
-                15:32
-              
-            Foot,
-        
-            L1,
-        
-            Lorient
-          
-            Kari absent deux semaines
-         
-                15:29
-              
-            Foot,
-        
-            C1 (F)
-          
-            Geyoro : «Cela montrerait que le PSG est encore plus fort»
-         
-                15:28
-              
-            Foot,
-        
-            C1 (F),
-        
-            PSG
-          
-            J. Prêcheur : «Pas de doute sur leur capacité à le faire»
-         
-                15:23
-              
-            Foot,
-        
-            L1,
-        
-            Le Havre
-          
-            Le centre de formation, une Cavée d'exception
-         
-                15:13
-              
-            Foot,
-        
-            C1 (F),
-        
-            PSG
-          
-            Kiedrzynek forfait contre l'OL
-         
-                15:02
-              
-            Foot,
-        
-            L1,
-        
-            Lille
-          
-            Fonseca : «Mon futur n'est pas important»
-         
-                14:53
-              
-            Foot,
-        
-            POR,
-        
-            Sporting
-          
-            En discussions avec West Ham, Amorim s'excuse auprès des supporters
-         
-                14:51
-              
-            Foot,
-        
-            L1,
-        
-            PSG
-          
-            Les jambes au Parc, la tête à Dortmund
-         
-                14:42
-              
-            Foot,
-        
-            L1,
-        
-            Lille
-          
-            André devrait manquer deux matches
-         
-                14:31
-              
-            Foot,
-        
-            L1,
-        
-            Le Havre
-          
-            Courel, l'homme qui façonne les jeunes gardiens
-         
-                13:28
-              
-            Foot,
-        
-            ANG
-          
-            Areola supervisé ce week-end par Raviot
-         
-                13:22
-              
-            Foot,
-        
-            C1 (F),
-        
-            OL
-          
-            Bompastor : «On est sûres de nos forces»
+            Kolasinac : «Aubameyang n'est pas le seul danger à l'OM»
            
                 L'ÉQUIPE
              
@@ -730,7 +728,7 @@ Calendrier et résultats Qualif. CM Barrages 2022 : barrages cm - Football - L'�
                 accessibilité
              
                 revenir en haut
-                        
+                         
 
 
 

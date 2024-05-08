@@ -107,6 +107,7 @@ Auto News | Fahrberichte - Ratgeber und Verkehr - kicker
 
 
 
+
 auf kicker.de bleiben
 
 
@@ -833,11 +834,55 @@ Ratgeber und Verkehr
 
 
 
-                Betrug an der Tankstelle
+                Sicherheit im Straßenverkehr
             
 
+Diese Fahrassistenzsysteme sind ab Juli 2024 Pflicht
+Die EU will die Unfallzahlen auf Europas Straßen weiter senken. Deshalb schreibt sie für Neuwagen ab dem 7. Juli 2024 eine Reihe neuer Assistenzsysteme vor. Wir sagen, welche das sind - und was sie können.
+
+
+
+
+
+
+
+
+
+
+
+
+                    Öko-Diesel aus Pflanzenöl
+
+                
+Grüner Kraftstoff HVO100: Jetzt kriegt der Diesel sein Fett ab!
+
+
+
+
+
+
+
+
+
+
+                    Streiten im Straßenverkehr
+
+                
+Fluchen, beleidigen, Stinkefinger zeigen: Das kann teuer werden!
+
+
+
+
+
+
+
+
+
+
+                    Betrug an der Tankstelle
+
+                
 Der Spritklau geht um
-Tanken, ohne zu bezahlen: Das kommt immer häufiger vor. Die Strafen können drastisch sein. Doch längst nicht alle Fälle werden aufgeklärt.
 
 
 
@@ -850,74 +895,6 @@ Tanken, ohne zu bezahlen: Das kommt immer häufiger vor. Die Strafen können dra
 
 
 
-                    Was die Straßenverkehrsordnung sagt
-
-                
-Radarwarner und Blitzer-Apps: Erlaubt oder verboten?
-
-
-
-
-
-
-
-
-
-
-                    Soll Tempo 130 kommen?
-
-                
-Tempolimit auf der Autobahn: Die Mehrheit ist dafür
-
-
-
-
-
-
-
-
-
-
-                    Situative Winterreifenpflicht beachten
-
-                
-Wintereinbruch im Frühjahr: Der ADAC warnt vor Sommerreifen
-
-
-
-
-
-                    Studie zur Reparaturanfälligkeit von E-Autos
-
-                
-Muss das Elektroauto besonders oft in die Werkstatt?
-
-
-
-
-
-                    Hohes Sicherheitsrisiko
-
-                
-Bei diesem Kindersitz besteht Lebensgefahr
-
-
-
-
-
-                    16-Zoll-Fahrräder im Vergleich
-
-                
-Der ADAC testet Kinderfahrräder: Nicht an der Sicherheit sparen
-
-
-
-
-
-                    Reinigen ohne Kratzer
-
-                
-So entfernen Sie Saharastaub von Ihrem Auto
 
 
 
@@ -944,19 +921,33 @@ Neuheiten
 
 
 
+
+
+
+
+
+                VW Multivan mit Gute-Nacht-Paket
+            
+
+Der Bulli bekommt ein Bett
+Im VW Multivan lässt es sich jetzt auch komfortabel nächtigen. Das "Gute-Nacht-Paket" mit großem Bett macht den beliebten Bulli flugs zum Camper.
+
+
+
+
+
+
+
+
  
 
 
 
 
+                    Mercedes G 580 EQ
 
-                Mercedes G 580 EQ
-            
-
+                
 Gelände-Ikone auf Elektrotrip
-Die Mercedes G-Klasse ist ein Geländewagen-Klassiker. Jetzt kommt sie auch mit Elektroantrieb.
-
-
 
 
 
@@ -995,48 +986,6 @@ Mazda CX-80: Große Nummer für Familien
 
 
 
-                    Engler Automotive V12 Prototyp
-
-                
-Dieses verrückte Super-Quad leistet 1200 PS
-
-
-
-
-
-                    Aus Alfa Milano wird Alfa Junior
-
-                
-Alfa Romeo muss den Namen ändern
-
-
-
-
-
-                    Maserati GranCabrio Folgore
-
-                
-Megastark, megaschnell, megateuer: Das neue Elektro-Cabrio von Maserati
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Fahrberichte            
 
@@ -1059,13 +1008,27 @@ Fahrberichte
 
 
 
-                Fahrbericht
+                Test, Infos, Daten, Preis
             
 
+Smart #3 Brabus: Wie sportlich ist das vollelektrische SUV-Coupé?
+Smart ist erwachsen geworden. Mit dem SUV-Coupé Smart #3 bietet die Marke inzwischen schon ein zweites Modell an. Als sportliche Speerspitze im Programm fungiert der Brabus, der 428 PS und Allradantrieb aufbietet. Das hat allerdings seinen Preis. Ob sich die Investition lohnt, klärt unser Fahrbericht.
+
+
+
+
+
+
+
+
+
+
+
+
+                    Fahrbericht
+
+                
 Audi A4 Avant im Test: Kann er noch immer überzeugen?
-Der Audi A4 Avant ist ein Kombi-Klassiker. Die aktuelle Generation gibt es allerdings schon einige Jahre. Das hat aber auch seine Vorteile, wie unsere Erfahrungen zeigen. Getestet haben wir den A4 Avant 45 TFSI quattro mit 265 PS und Allradantrieb.
-
-
 
 
 
@@ -1104,10 +1067,6 @@ Opel Corsa mit Elektroantrieb: Wie alltagstauglich ist der kleine Stromer?
 
 
 
-                    Mit 55-kWh-Akku und 204 PS - Nachlass beim Preis
-
-                
-VW ID.3 Pro im Test: Was er jetzt besser macht - und was nicht
 
 
 
@@ -1115,6 +1074,13 @@ VW ID.3 Pro im Test: Was er jetzt besser macht - und was nicht
 
 
 
+
+
+ 
+
+
+Bulli mit Schlafgelegenheit
+Gute Nacht im Multivan
 
 
 
@@ -1131,13 +1097,27 @@ VW ID.3 Pro im Test: Was er jetzt besser macht - und was nicht
  
 
 
+
+
+
+Leistungsstarkes Topmodell
+Smart #3 Brabus: Elektrisches SUV-Coupé mit Sportabzeichen
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
 Mercedes G 580 EQ
 Gelände-Ikone auf Elektrotrip
-
-
-
-
-
 
 
 
@@ -1162,37 +1142,6 @@ Mazdas neues Topmodell ist ein Siebensitzer-SUV
 
 
 
- 
-
-
-
-
-
-Engler Automotive V12 Super Quad
-Das ist kein Auto, sondern ein Quad - mit Zwölfzylinder!
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-Audi A4 Avant
-Kombi-Klassiker mit Frischesiegel
-
-
-
-
-
-
-
 
 
 
@@ -1203,7 +1152,7 @@ Weitere News aus dem Auto-Ressort
 
 
 
-12.04.24 - 14:51
+23.04.24 - 22:28
 
 
 
@@ -1219,26 +1168,26 @@ Weitere News aus dem Auto-Ressort
 
 
 
-Tesla Model Y Maximale Reichweite Hinterradantrieb
+Was die Straßenverkehrsordnung sagt
 
 
-                        Tesla Model Y: Neue Antriebsvariante mit hoher Reichweite
+                        Radarwarner und Blitzer-Apps: Erlaubt oder verboten?
                     
 
 
-                    Tesla ergänzt das Antriebsportfolio seines Elektro-SUVs um eine neue Variante mit Heckantrieb. Eine Akkuladung soll für 600 Kilometer Strecke reichen.
+                    Wenn es vom Straßenrand blitzt, kann das ein teures Foto ergeben. Unter Umständen ist sogar der Führerschein weg. Da ist die Versuchung groß, sich mithilfe eines Radarwarners oder einer Blitzer-App auf "Radarfallen" aufmerksam machen zu lassen. Doch das sollte man lieber bleiben lassen.
                 
 
 
 
 
-                Tesla ergänzt das Antriebsportfolio seines Elektro-SUVs um eine neue Variante mit Heckantrieb. Eine Akkuladung soll für 600 Kilometer Strecke reichen.
+                Wenn es vom Straßenrand blitzt, kann das ein teures Foto ergeben. Unter Umständen ist sogar der Führerschein weg. Da ist die Versuchung groß, sich mithilfe eines Radarwarners oder einer Blitzer-App auf "Radarfallen" aufmerksam machen zu lassen. Doch das sollte man lieber bleiben lassen.
             
 
 
 
 
-11.04.24 - 16:51
+20.04.24 - 09:42
 
 
 
@@ -1254,26 +1203,96 @@ Tesla Model Y Maximale Reichweite Hinterradantrieb
 
 
 
-Alfa Romeo Milano
+Soll Tempo 130 kommen?
 
 
-                        Das ist das erste Elektroauto von Alfa Romeo
+                        Tempolimit auf der Autobahn: Die Mehrheit ist dafür
                     
 
 
-                    Der Milano ist das neue Einstiegsmodell von Alfa Romeo. Er fährt mit reinem Elektroantrieb vor, wird aber auch als Mildhybrid zu haben sein. Und weil es die Alfisti sportlich mögen, kommt auch eine extrastarke Veloce-Variante.
+                    Umfragen legen nahe, dass der überwiegende Teil der Deutschen inzwischen ein Tempolimit befürwortet. Als Argumente werden Klimaschutz und Sicherheit angeführt. Doch Statistiken lassen unterschiedliche Meinungen zu.
                 
 
 
 
 
-                Der Milano ist das neue Einstiegsmodell von Alfa Romeo. Er fährt mit reinem Elektroantrieb vor, wird aber auch als Mildhybrid zu haben sein. Und weil es die Alfisti sportlich mögen, kommt auch eine extrastarke Veloce-Variante.
+                Umfragen legen nahe, dass der überwiegende Teil der Deutschen inzwischen ein Tempolimit befürwortet. Als Argumente werden Klimaschutz und Sicherheit angeführt. Doch Statistiken lassen unterschiedliche Meinungen zu.
             
 
 
 
 
-11.04.24 - 16:50
+17.04.24 - 23:04
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Situative Winterreifenpflicht beachten
+
+
+                        Wintereinbruch im Frühjahr: Der ADAC warnt vor Sommerreifen
+                    
+
+
+                    Viele Autofahrer sind bereits von Winter- auf Sommerreifen umgestiegen. Doch jetzt könnte es noch einmal zu Schnee und Eisglätte kommen. Was dann? Auf eine gängige Regel kann man sich jedenfalls nicht berufen.
+                
+
+
+
+
+                Viele Autofahrer sind bereits von Winter- auf Sommerreifen umgestiegen. Doch jetzt könnte es noch einmal zu Schnee und Eisglätte kommen. Was dann? Auf eine gängige Regel kann man sich jedenfalls nicht berufen.
+            
+
+
+
+
+17.04.24 - 22:19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Engler Automotive V12 Prototyp
+
+
+                        Dieses verrückte Super-Quad leistet 1200 PS
+                    
+
+
+                    Alle Welt setzt auf Elektromobilität? Nicht Engler Automotive. Der neue Prototyp des Hauses wird von einem 1200 PS starken Zwölfzylinder befeuert. Das Ungewöhnliche an dem Boliden: Er ist ein Quad. Eigentlich.
+                
+
+
+
+
+                Alle Welt setzt auf Elektromobilität? Nicht Engler Automotive. Der neue Prototyp des Hauses wird von einem 1200 PS starken Zwölfzylinder befeuert. Das Ungewöhnliche an dem Boliden: Er ist ein Quad. Eigentlich.
+            
+
+
+
+
+17.04.24 - 22:17
 
 
 
@@ -1291,90 +1310,20 @@ Alfa Romeo Milano
 
 
 
-Neuer Alfa Romeo Milano
+Engler Automotive V12 Super Quad
 
 
-                        Auch Alfisti können jetzt elektrisch fahren
+                        Das ist kein Auto, sondern ein Quad - mit Zwölfzylinder!
                     
 
 
-                    Der Milano ist nicht nur das neue Juniormodell von Alfa Romeo. Das sportliche Kompakt-SUV markiert auch den Einstieg der Marke in die Elektromobilität. Alternativ gibt es den Milano aber auch mit Benzinmotor.
+                    Supercar oder Superquad? Die Fahrzeuge von Engler Automotive haben was aus beiden Welten. Superstark sind sie aber immer. Der jüngste Prototyp heißt Engler V12 Super Quad und ist ein ziemlich abgefahrener Bolide.
                 
 
 
 
 
-                Der Milano ist nicht nur das neue Juniormodell von Alfa Romeo. Das sportliche Kompakt-SUV markiert auch den Einstieg der Marke in die Elektromobilität. Alternativ gibt es den Milano aber auch mit Benzinmotor.
-            
-
-
-
-
-10.04.24 - 15:55
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Erste Infos zum Crossland-Nachfolger
-
-
-                        Der neue Opel Frontera wird ein Elektroauto - aber nicht nur
-                    
-
-
-                    Opel holt den Frontera zurück. Die Neuauflage wird vollelektrisch fahren, alternativ aber auch einen Mildhybrid-Antrieb bekommen. Für den neuen Frontera muss ein anderes Opel-Modell weichen.
-                
-
-
-
-
-                Opel holt den Frontera zurück. Die Neuauflage wird vollelektrisch fahren, alternativ aber auch einen Mildhybrid-Antrieb bekommen. Für den neuen Frontera muss ein anderes Opel-Modell weichen.
-            
-
-
-
-
-07.04.24 - 12:39
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Neuer Dacia Spring
-
-
-                        Elektroauto unter 17.000 Euro? Geht doch!
-                    
-
-
-                    Der Spring ist das Elektroauto von Dacia. Jetzt hat der Mini-Stromer ein Update bekommen. Verkauft wird er schon ab 16.900 Euro. Das ist ein echter Schnäppchenpreis. Doch bis vor kurzem ist der Spring sogar noch eine Ecke günstiger gewesen.
-                
-
-
-
-
-                Der Spring ist das Elektroauto von Dacia. Jetzt hat der Mini-Stromer ein Update bekommen. Verkauft wird er schon ab 16.900 Euro. Das ist ein echter Schnäppchenpreis. Doch bis vor kurzem ist der Spring sogar noch eine Ecke günstiger gewesen.
+                Supercar oder Superquad? Die Fahrzeuge von Engler Automotive haben was aus beiden Welten. Superstark sind sie aber immer. Der jüngste Prototyp heißt Engler V12 Super Quad und ist ein ziemlich abgefahrener Bolide.
             
 
 

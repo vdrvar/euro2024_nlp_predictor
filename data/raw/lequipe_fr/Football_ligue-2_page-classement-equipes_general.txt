@@ -23,6 +23,10 @@ Classement Ligue 2 2023-2024 : Championnat de France - Football - L'Équipe
                 voir les directs
               L'ÉQUIPE        réglages  accessibilité  
                         Paris 2024
+                    
+                        Giro
+                    
+                        PSG - Dortmund
                            
             lire le journal
                 
@@ -104,6 +108,8 @@ Classement Ligue 2 2023-2024 : Championnat de France - Football - L'Équipe
                 
                 NFL
                    
+            patinage de vitesse
+                
             pentathlon moderne
                 
             skateboard
@@ -207,7 +213,7 @@ Classement Ligue 2 2023-2024 : Championnat de France - Football - L'Équipe
             aide et contact
                 
             nous contacter
-                       
+                        
                 L'ÉQUIPE
              
       
@@ -262,279 +268,285 @@ Classement Ligue 2 2023-2024 : Championnat de France - Football - L'Équipe
                             1
                          
                                 Auxerre
-                              64  34 18 10 6 63 34 +29  
+                              70  36 20 10 6 68 35 +33  
                             2
                          
                                 Saint-Étienne
-                             
-                                    1
-                                 63  35 19 6 10 44 26 +18  
+                              64  36 19 7 10 46 28 +18  
                             3
                          
                                 Angers
-                             
-                                    1
-                                 61  34 18 7 9 51 37 +14  
+                              64  36 19 7 10 54 41 +13  
                             4
                          
                                 Rodez
-                              53  34 14 11 9 56 46 +10  
+                              56  36 15 11 10 59 50 +9  
                             5
                          
                                 Paris FC
-                              52  34 14 10 10 43 37 +6  
+                              55  36 15 10 11 46 40 +6  
                             6
                          
-                                Pau
-                              51  34 13 12 9 55 48 +7  
+                                Caen
+                             
+                                    2
+                                 54  36 16 6 14 46 43 +3  
                             7
                          
-                                Caen
-                              51  35 15 6 14 45 43 +2  
+                                Laval
+                             
+                                    1
+                                 52  36 14 10 12 38 43 -5  
                             8
                          
-                                Laval
-                              49  34 13 10 11 37 42 -5  
+                                Guingamp
+                             
+                                    1
+                                 51  36 13 12 11 43 37 +6  
                             9
                          
-                                Guingamp
-                              47  34 12 11 11 39 34 +5  
+                                Pau
+                             
+                                    2
+                                 51  36 13 12 11 57 52 +5  
                             10
                          
-                                Bastia
-                              46  34 13 8 13 38 41 -3  
+                                Amiens
+                              49  36 11 16 9 33 35 -2  
                             11
                          
                                 Grenoble
-                              45  34 11 12 11 38 37 +1  
+                             
+                                    2
+                                 48  36 12 12 12 40 40 0  
                             12
                          
-                                Amiens
-                              45  34 10 15 9 31 34 -3  
+                                Bordeaux
+                             
+                                    2
+                                 47  36 13 9 14 45 46 -1  
                             13
                          
-                                AC Ajaccio
-                              45  34 12 9 13 33 37 -4  
+                                Bastia
+                             
+                                    1
+                                 46  36 13 8 15 41 46 -5  
                             14
                          
-                                Bordeaux
-                              44  34 12 9 13 41 45 -4  
+                                AC Ajaccio
+                             
+                                    3
+                                 46  36 12 10 14 34 42 -8  
                             15
                          
-                                Dunkerque
-                              41  34 11 8 15 31 46 -15  
+                                Annecy
+                              45  36 12 9 15 47 47 0  
                             16
                          
-                                Annecy
-                              39  34 10 9 15 41 44 -3  
+                                Dunkerque
+                              44  36 12 8 16 34 50 -16  
                             17
                          
                                 Troyes
-                              36  34 8 12 14 39 47 -8  
+                              37  35 8 13 14 39 47 -8  
                             18
                          
-                                Concarneau
-                              35  34 9 8 17 32 47 -15  
+                                QRM
+                              35  36 6 17 13 48 52 -4  
                             19
                          
-                                QRM
-                              34  34 6 16 12 46 49 -3  
+                                Concarneau
+                              35  36 9 8 19 34 51 -17  
                             20
                          
                                 Valenciennes
-                              20  34 3 11 20 21 50 -29           
+                              23  35 4 11 20 23 50 -27           
                 L'ÉQUIPE
              
    
                 chrono
                 filtrer :  football      
-                17:34
+                21:23
               
             Foot,
         
-            ALL
+            C4
           
-            Dortmund largement battu à Leipzig avant de recevoir le PSG
+            La Fiorentina retourne en finale
          
-                17:07
+                21:03
               
             Foot,
         
-            ANG,
-        
-            Liverpool
+            C1
           
-            Échange tendu entre Salah et Klopp
+            Les sept erreurs fatales du PSG
          
-                16:57
+                20:05
+              
+            Foot,
+        
+            D1 Arkema
+          
+            Reims chipe la quatrième place à Fleury et file en play-offs
+         
+                20:02
+              
+            Foot,
+        
+            C1,
+        
+            PSG
+          
+            Mbappé, l'annonce qui a tout changé
+         
+                19:48
+              
+            Foot,
+        
+            C3,
+        
+            OM
+          
+            Gasset : «Il faudra faire le match idéal»
+         
+                19:43
+              
+            Foot,
+        
+            C1,
+        
+            Real
+          
+            Tchouaméni titulaire, Camavinga remplaçant
+         
+                19:18
               
             Foot,
         
             L1,
         
-            Rennes
+            Brest
           
-            Mandanda, un vétéran qui assure
+            Lees-Melou : « Je n'ai pas bien compris certains comportements »
          
-                16:56
+                18:44
               
             Foot,
         
-            ALL,
+            L2,
         
-            Francfort
+            Saint-Étienne
           
-            Le joli but d'Ekitike contre le Bayern
+            Larsonneur incertain contre Rodez
+         
+                18:40
+              
+            Foot,
+        
+            Euro U17 (F)
+          
+            Le résumé de Norvège - France en vidéo
+         
+                18:30
+              
+            Foot,
+        
+            Bleus
+          
+            Faites votre liste pour l'Euro 2024
+         
+                18:30
+              
+            Foot,
+        
+            Un Max de C1
+          
+            Ferland Mendy, le chouchou d'Ancelotti
+         
+                18:20
+              
+            Foot,
+        
+            Euro U17 (F)
+          
+            La France écrase la Norvège
+         
+                18:20
+              
+            Foot,
+        
+            C3,
+        
+            OM
+          
+            L'Atalanta, le club où Longoria a beaucoup appris
+         
+                17:55
+              
+            Foot,
+        
+            C1,
+        
+            PSG
+          
+            Cissé : « Un hamburger froid avec des frites molles ! »
+         
+                17:43
+              
+            Foot,
+        
+            C3,
+        
+            Leverkusen
+          
+            Xabi Alonso : «C'est très positif pour la Bundesliga
+         
+                17:13
+              
+            Foot,
+        
+            Transferts
+          
+            Monaco accélère pour Mawissa (Toulouse)
          
                 16:54
               
             Foot,
         
-            L2
+            Transferts
           
-            Saint-Étienne met la pression sur Angers
+            Beye a annoncé son départ du Red Star
          
-                16:16
+                16:45
               
             Foot,
         
-            ESP
+            C1,
+        
+            Real
           
-            Gérone s'impose à Las Palmas et grimpe à la 2e place
+            Vinicius, digne successeur de Benzema
          
-                15:40
+                16:19
               
             Foot,
         
-            L1,
+            C1,
         
-            Lille
+            Real
           
-            Ounas ne rejouera plus avec l'équipe première
+            Le staff des Bleus supervisera Mendy ce soir
          
-                15:34
+                16:17
               
             Foot,
         
-            ANG
+            C3,
+        
+            Atalanta
           
-            Avec un nul à West Ham, Liverpool s'éloigne encore du titre
-         
-                15:32
-              
-            Foot,
-        
-            L1,
-        
-            Lorient
-          
-            Kari absent deux semaines
-         
-                15:29
-              
-            Foot,
-        
-            C1 (F)
-          
-            Geyoro : «Cela montrerait que le PSG est encore plus fort»
-         
-                15:28
-              
-            Foot,
-        
-            C1 (F),
-        
-            PSG
-          
-            J. Prêcheur : «Pas de doute sur leur capacité à le faire»
-         
-                15:23
-              
-            Foot,
-        
-            L1,
-        
-            Le Havre
-          
-            Le centre de formation, une Cavée d'exception
-         
-                15:13
-              
-            Foot,
-        
-            C1 (F),
-        
-            PSG
-          
-            Kiedrzynek forfait contre l'OL
-         
-                15:02
-              
-            Foot,
-        
-            L1,
-        
-            Lille
-          
-            Fonseca : «Mon futur n'est pas important»
-         
-                14:53
-              
-            Foot,
-        
-            POR,
-        
-            Sporting
-          
-            En discussions avec West Ham, Amorim s'excuse auprès des supporters
-         
-                14:51
-              
-            Foot,
-        
-            L1,
-        
-            PSG
-          
-            Les jambes au Parc, la tête à Dortmund
-         
-                14:42
-              
-            Foot,
-        
-            L1,
-        
-            Lille
-          
-            André devrait manquer deux matches
-         
-                14:31
-              
-            Foot,
-        
-            L1,
-        
-            Le Havre
-          
-            Courel, l'homme qui façonne les jeunes gardiens
-         
-                13:28
-              
-            Foot,
-        
-            ANG
-          
-            Areola supervisé ce week-end par Raviot
-         
-                13:22
-              
-            Foot,
-        
-            C1 (F),
-        
-            OL
-          
-            Bompastor : «On est sûres de nos forces»
+            Kolasinac : «Aubameyang n'est pas le seul danger à l'OM»
            
                 L'ÉQUIPE
              
@@ -792,7 +804,7 @@ Classement Ligue 2 2023-2024 : Championnat de France - Football - L'Équipe
                 accessibilité
              
                 revenir en haut
-                        
+                         
 
 
 

@@ -20,7 +20,7 @@ Calendario Liga MGS Hockey hierba 2023 - 2024 - Fechas de los partidos
 
 
 
-Es noticia: Nadal - De MiñaurChelsea - BarcelonaAlmería - GetafeAlavés - CeltaJorge MartínCarrera sprint MotoGPMotoGP horario clasificación Nadal y AlcarazCuándo juega NadalAlineación AtléticoChelsea - Barcelona dónde verAlavés - Celta dónde verAtlético - Athletic dónde verCuándo juega AlcarazGabriela ArrocetCarlos RodríguezLotería Nacional hoyPedro SánchezNiño BecerraFirst DatesMaría del MonteGP España MotoGPMutua Madrid OpenPrecio luz hoyFútbol HoyClasificación LigaCalendario F1Portada de Marca
+Es noticia: Madrid - BayernDónde ver Real Madrid hoyAlonso Real MadridAlineación Real Madrid hoySocios Real MadridReal Madrid - Bayern árbitroBrujas - FiorentinaFinal ChampionsBarcelona - OlympiacosKipchogeCuando juega NadalEmbalses Catalunya hoyLaura EscanesRisto MejideMaría LeónIndycarCecilia Sopeña OnlyfansNiño BecerraNacho AbadPrecio luz hoyRosario PortoReal MadridBayernChampions LeagueMotoGP GP FranciaMasters RomaFútbol HoyCalendario F1Sans MbappéPortada de Marca
 
 Edición seleccionada
 ES 
@@ -265,109 +265,109 @@ PT
 
 1
 RC Polo
+20
 17
-15
 2
-0
-47
+1
+53
 
 
 2
 Club de Campo
-17
-13
+20
+16
 2
 2
-41
+50
 
 
 3
 Club Egara
-18
-9
+20
+11
 6
+3
+39
+
+
+4
+RS Tenis
+20
+11
+4
+5
+37
+
+
+5
+Atlètic Terrassa HC
+20
+8
+9
 3
 33
 
 
-4
+6
 Junior FC
-17
+20
 10
 3
-4
+7
 33
-
-
-5
-Sanse Complutense
-17
-8
-4
-5
-28
-
-
-6
-RS Tenis
-17
-8
-4
-5
-28
 
 
 7
+Sanse Complutense
+20
+9
+4
+7
+31
+
+
+8
 CD Terrassa Hockey
-17
-8
-3
-6
-27
-
-
-8
-Atlètic Terrassa HC
-17
-5
+20
 9
 3
-24
+8
+30
 
 
 9
 FC Barcelona
-18
+20
 5
 1
-12
+14
 16
 
 
 10
 RC Jolaseta
-17
-2
+20
+3
 1
-14
-7
+16
+10
 
 
 11
 UD Taburiente
-17
-1
+20
 2
-14
-5
+2
+16
+8
 
 
 12
 Atlético San Sebastián
-17
+20
 0
 1
-16
+19
 1
 
 
@@ -886,7 +886,7 @@ RC Jolaseta
 
 
 Atlético San Sebastián
-2-5
+2-6
 Sanse Complutense
 
 
@@ -1191,27 +1191,27 @@ Club Egara
 
 
 CD Terrassa Hockey
-28/04 12:30
+2-3
 Atlètic Terrassa HC
 
 
 UD Taburiente
-28/04 12:30
+7-0
 Atlético San Sebastián
 
 
 Junior FC
-28/04 12:30
+3-4
 Club de Campo
 
 
 RC Polo
-28/04 12:30
+4-2
 Sanse Complutense
 
 
 RC Jolaseta
-28/04 13:00
+1-3
 RS Tenis
 
 
@@ -1231,32 +1231,32 @@ Equipo visitante
 
 
 Atlètic Terrassa HC
-01/05 12:00
+3-0
 UD Taburiente
 
 
 Atlético San Sebastián
-01/05 12:30
+3-6
 RC Jolaseta
 
 
 Club de Campo
-01/05 13:00
+2-1
 CD Terrassa Hockey
 
 
 Club Egara
-01/05 13:00
+6-5
 Junior FC
 
 
 RS Tenis
-01/05 13:00
+2-0
 RC Polo
 
 
 Sanse Complutense
-01/05 15:00
+6-1
 FC Barcelona
 
 
@@ -1276,32 +1276,32 @@ Equipo visitante
 
 
 FC Barcelona
-05/05 11:00
+3-6
 RS Tenis
 
 
 RC Jolaseta
-05/05 12:30
+3-7
 Atlètic Terrassa HC
 
 
 UD Taburiente
-05/05 12:30
+2-5
 Club de Campo
 
 
 Sanse Complutense
-05/05 12:30
+1-4
 Club Egara
 
 
 RC Polo
-05/05 13:00
+8-0
 Atlético San Sebastián
 
 
 CD Terrassa Hockey
-05/05 13:00
+4-3
 Junior FC
 
 
@@ -1321,7 +1321,7 @@ Equipo visitante
 
 
 Junior FC
-12/05 11:00
+12/05 10:30
 UD Taburiente
 
 
@@ -1355,7 +1355,7 @@ Sanse Complutense
 
 Ir arriba
 
-Jornada 22 - 
+Jornada 22 - 19.05.2024
 
 
 Equipo local
@@ -1366,32 +1366,32 @@ Equipo visitante
 
 
 FC Barcelona
- 
+19/05 11:00
 Atlètic Terrassa HC
 
 
 Sanse Complutense
- 
+19/05 11:00
 Atlético San Sebastián
 
 
 UD Taburiente
- 
+19/05 11:00
 CD Terrassa Hockey
 
 
 RC Polo
- 
+19/05 11:00
 Club de Campo
 
 
 RC Jolaseta
- 
+19/05 11:00
 Junior FC
 
 
 Club Egara
- 
+19/05 11:00
 RS Tenis
 
 

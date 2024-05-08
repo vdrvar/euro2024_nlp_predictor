@@ -20,7 +20,7 @@ Calendario Liga Brasileña 2024 | Fechas y horarios
 
 
 
-Es noticia: Nadal - De MiñaurChelsea - BarcelonaAlmería - GetafeAlavés - CeltaJorge MartínCarrera sprint MotoGPMotoGP horario clasificación Nadal y AlcarazCuándo juega NadalAlineación AtléticoChelsea - Barcelona dónde verAlavés - Celta dónde verAtlético - Athletic dónde verCuándo juega AlcarazGabriela ArrocetCarlos RodríguezLotería Nacional hoyPedro SánchezNiño BecerraFirst DatesMaría del MonteGP España MotoGPMutua Madrid OpenPrecio luz hoyFútbol HoyClasificación LigaCalendario F1Portada de Marca
+Es noticia: Madrid - BayernDónde ver Real Madrid hoyAlonso Real MadridAlineación Real Madrid hoySocios Real MadridReal Madrid - Bayern árbitroBrujas - FiorentinaFinal ChampionsBarcelona - OlympiacosKipchogeCuando juega NadalEmbalses Catalunya hoyLaura EscanesRisto MejideMaría LeónIndycarCecilia Sopeña OnlyfansNiño BecerraNacho AbadPrecio luz hoyRosario PortoReal MadridBayernChampions LeagueMotoGP GP FranciaMasters RomaFútbol HoyCalendario F1Sans MbappéPortada de Marca
 
 Edición seleccionada
 ES 
@@ -1223,7 +1223,7 @@ Equipo visitante
 
 Vasco da Gama
 
-27/04 21:00
+0-4
 
 Criciúma
 
@@ -1238,7 +1238,7 @@ Criciúma
 
 Cuiabá
 
-27/04 23:30
+0-3
 
 Atlético Mineiro
 
@@ -1253,7 +1253,7 @@ Atlético Mineiro
 
 Bahia
 
-28/04 02:00
+1-0
 
 Grêmio
 
@@ -1268,7 +1268,7 @@ Grêmio
 
 Flamengo
 
-28/04 16:00
+0-2
 
 Botafogo
 
@@ -1283,7 +1283,7 @@ Botafogo
 
 Corinthians
 
-28/04 21:00
+3-0
 
 Fluminense
 
@@ -1298,7 +1298,7 @@ Fluminense
 
 Cruzeiro
 
-28/04 21:00
+3-1
 
 Vitória
 
@@ -1313,7 +1313,7 @@ Vitória
 
 Fortaleza
 
-28/04 23:30
+1-1
 
 RB Bragantino
 
@@ -1328,7 +1328,7 @@ RB Bragantino
 
 Juventude
 
-28/04 23:30
+1-1
 
 Athletico Paranaense
 
@@ -1343,7 +1343,7 @@ Athletico Paranaense
 
 Internacional
 
-29/04 01:00
+1-1
 
 Atlético Goianiense
 
@@ -1358,7 +1358,7 @@ Atlético Goianiense
 
 São Paulo
 
-30/04 01:00
+0-0
 
 Palmeiras
 
@@ -1390,24 +1390,9 @@ Equipo visitante
 
 
 
-Corinthians
-
-04/05 21:00
-
-Fortaleza
-
-
-
-
-
-
-
-
-
-
 Fluminense
 
-04/05 21:00
+2-2
 
 Atlético Mineiro
 
@@ -1422,7 +1407,7 @@ Atlético Mineiro
 
 RB Bragantino
 
-04/05 23:30
+1-1
 
 Flamengo
 
@@ -1435,9 +1420,24 @@ Flamengo
 
 
 
+Corinthians
+
+0-0
+
+Fortaleza
+
+
+
+
+
+
+
+
+
+
 Cruzeiro
 
-05/05 02:00
+Aplazado
 
 Internacional
 
@@ -1452,7 +1452,7 @@ Internacional
 
 Athletico Paranaense
 
-05/05 21:00
+1-0
 
 Vasco da Gama
 
@@ -1467,7 +1467,7 @@ Vasco da Gama
 
 Grêmio
 
-05/05 21:00
+Aplazado
 
 Criciúma
 
@@ -1482,7 +1482,7 @@ Criciúma
 
 Vitória
 
-05/05 21:00
+1-3
 
 São Paulo
 
@@ -1497,7 +1497,7 @@ São Paulo
 
 Botafogo
 
-05/05 23:30
+1-2
 
 Bahia
 
@@ -1512,7 +1512,7 @@ Bahia
 
 Cuiabá
 
-05/05 23:30
+0-2
 
 Palmeiras
 
@@ -1527,7 +1527,7 @@ Palmeiras
 
 Juventude
 
-07/05 01:00
+Aplazado
 
 Atlético Goianiense
 
@@ -1591,24 +1591,9 @@ Corinthians
 
 Atlético Mineiro
 
-12/05 02:00
+Aplazado
 
 Grêmio
-
-
-
-
-
-
-
-
-
-
-Vasco da Gama
-
-12/05 16:00
-
-Vitória
 
 
 
@@ -1679,9 +1664,24 @@ RB Bragantino
 
 
 
+Vasco da Gama
+
+12/05 23:30
+
+Vitória
+
+
+
+
+
+
+
+
+
+
 São Paulo
 
-14/05 00:00
+14/05 01:00
 
 Fluminense
 
@@ -1696,7 +1696,7 @@ Fluminense
 
 Internacional
 
-14/05 02:00
+Aplazado
 
 Juventude
 
@@ -1835,7 +1835,7 @@ Bahia
 
 Fluminense
 
-19/05 21:00
+Aplazado
 
 Juventude
 
@@ -1850,7 +1850,7 @@ Juventude
 
 Cuiabá
 
-19/05 23:30
+Aplazado
 
 Internacional
 
@@ -1865,7 +1865,7 @@ Internacional
 
 Grêmio
 
-19/05 23:30
+Aplazado
 
 RB Bragantino
 
@@ -1959,7 +1959,7 @@ Atlético Mineiro
 
 Internacional
 
-26/05 02:00
+Aplazado
 
 São Paulo
 
@@ -1974,7 +1974,7 @@ São Paulo
 
 Juventude
 
-26/05 16:00
+Aplazado
 
 Vitória
 
@@ -7146,6 +7146,132 @@ América
 
 
 
+Cruel mensaje de Chilavert tras la muerte de Menotti: "Los monos seguimos vivos y sin hijos drogadictos"
+
+
+
+
+Redacción: ENRIQUE CORBELLA
+
+
+
+
+
+
+
+
+
+42 comentarios
+
+
+
+
+Cruel mensaje de Chilavert tras la muerte de Menotti: "Los monos seguimos vivos y sin hijos drogadictos"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+América
+
+
+
+El gol de la momia: vendas, sangre, puntos y proeza
+
+
+
+
+Redacción: ENRIQUE CORBELLA
+
+
+
+
+
+
+
+
+
+1 comentarios
+
+
+
+
+El gol de la momia: vendas, sangre, puntos y proeza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+América
+
+
+
+Una más de Bolasie: el excéntrico 'regate' en su nueva etapa en Brasil
+
+
+
+
+Redacción: PABLO ARNAO
+
+
+
+
+
+
+
+
+
+4 comentarios
+
+
+
+
+Una más de Bolasie: el excéntrico 'regate' en su nueva etapa en Brasil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+América
+
+
+
 Romario, tras su primer entrenamiento en 16 años: "Estoy jodidamente cansado, viene la camilla a recogerme"
 
 
@@ -7812,132 +7938,6 @@ Redacción: EFE
 
 
 Robinho cumplirá en Brasil la condena de nueve años de cárcel que se le impuso en Italia por violación
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-América
-
-
-
-René Higuita sostiene que cambió las normas del fútbol con su Escorpión: "La mejor jugada de la historia"
-
-
-
-
-Redacción: ENRIQUE CORBELLA
-
-
-
-
-
-
-
-
-
-2 comentarios
-
-
-
-
-René Higuita sostiene que cambió las normas del fútbol con su Escorpión: "La mejor jugada de la historia"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-América
-
-
-
-Messi se cae de la convocatoria de Argentina por lesión
-
-
-
-
-Redacción: JAIME RINCÓN
-
-
-
-
-
-
-
-
-
-56 comentarios
-
-
-
-
-Messi se cae de la convocatoria de Argentina por lesión
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-América
-
-
-
-Altamirano sufre un ataque epiléptico en el campo y suspenden el Estudiantes vs Boca
-
-
-
-
-Redacción: EFE
-
-
-
-
-
-
-
-
-
-3 comentarios
-
-
-
-
-Altamirano sufre un ataque epiléptico en el campo y suspenden el Estudiantes vs Boca
 
 
  

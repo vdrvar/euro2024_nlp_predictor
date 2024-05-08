@@ -108,6 +108,7 @@ Bayern München | Vereinsprofil 2023/24 | Alle Teaminfos - kicker
 
 
 
+
 auf kicker.de bleiben
 
 
@@ -1184,96 +1185,9 @@ Die letzten 10 Spiele
 
 
 
-7
-1
-2
-
-
-
-
-
-
-
-
-
-
-
-
-
-FCB
-
-
-
-
+4
 3
-:
-0
-
-
-
-
-LAZ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FCB
-
-
-
-
-8
-:
-1
-
-
-
-
-M05
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-D98
-
-
-
-
-2
-:
-5
-
-
-
-
-FCB
-
-
-
+3
 
 
 
@@ -1483,6 +1397,93 @@ SGE
 
 
 
+
+
+
+
+
+
+
+FCB
+
+
+
+
+2
+:
+2
+
+
+
+
+RMA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VFB
+
+
+
+
+3
+:
+1
+
+
+
+
+FCB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RMA
+
+
+
+
+0
+:
+0
+
+
+
+
+FCB
+
+
+
+
+
+
+
+
+
  
 
 
@@ -1549,7 +1550,7 @@ Die nächsten Spiele
 
 
 
-Champions League – Halbfinale
+Bundesliga – 33. Spieltag
 
 
 
@@ -1564,38 +1565,38 @@ Bayern
 
 
 
-Di.
-21:00
+So.
+17:30
 
 
 
 
 
 
-Real Madrid 
-Real Madrid 
+VfL Wolfsburg 
+Wolfsburg 
 
 
 
 
 
 
-Bundesliga – 32. Spieltag
+Bundesliga – 34. Spieltag
 
 
 
 
 
 
-VfB Stuttgart 
-Stuttgart 
+TSG Hoffenheim 
+Hoffenheim 
 
 
 
 
 
 
-04.05.
+18.05.
 15:30
 
 
@@ -1611,23 +1612,23 @@ Bayern
 
 
 
-Champions League – Halbfinale
+Fußball-Vereine Freundschaftsspiele – KW32
 
 
 
 
 
 
-Real Madrid 
-Real Madrid 
+Tottenham Hotspur 
+Tottenham 
 
 
 
 
 
 
-08.05.
-21:00
+10.08.
+18:30
 
 
 

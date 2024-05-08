@@ -59,7 +59,7 @@
 
 
 
-Inter, venti giorni da campioni
+lo specialeGiro, venti stelle per un sogno rosa
 
 
 
@@ -96,8 +96,8 @@ In Evidenza
 
 
 
-le chiavi
-Il segreto della stella è nel mercato
+il racconto
+Ratzenberger, la morte invisibile di Imola
 
 
 
@@ -106,8 +106,8 @@ Il segreto della stella è nel mercato
 
 
 
-zhang
-Eguaglia Angelo Moratti e si tiene l'Inter
+l'intervista
+Sacchi: "Milan, senza un big tieni Pioli"
 
 
 
@@ -116,8 +116,8 @@ Eguaglia Angelo Moratti e si tiene l'Inter
 
 
 
-sport&business
-I conti in rosso del calcio inglese
+la storia
+Inzaghi, Ripert e la promessa di 24 anni fa
 
 
 
@@ -126,8 +126,8 @@ I conti in rosso del calcio inglese
 
 
 
-bellingham
-"Hey Jude", e il Bernabeu esplode
+la stella
+Wolosz, la pasionaria di Conegliano
 
 
 
@@ -136,8 +136,8 @@ bellingham
 
 
 
-la ricorrenza
-Babe Ruth, la nascita di un mito
+il campione
+Edwards, com'è nata una superstar
 
 
 
@@ -154,7 +154,7 @@ Babe Ruth, la nascita di un mito
 
 
 
-i voti gazzettaMilan-Inter, le pagelle: Dimarco 7,5, Theo 4,5
+i voti gazzettaJuve-Milan, le pagelle: Leao 5, Locatelli 5,5
 
 
 
@@ -217,85 +217,8 @@ Tennis
 
 
 
-IL RACCONTO
-Sonego e Sinner, romanzo di un'amicizia
-
-
-
-
-
-
-
-
-
-SMASH
-Ecco perché Madrid è la "terra di mezzo"
-
-
-
-
-
-
-
-
-
 L'INTERVISTA
-Vonn: "Sinner? Non pensavo fosse così...
-
-
-
-
-
-
-
-
-
-VOLÉE DI ROVESCIO
-Bertolucci: "Per diventare numero 1...
-
-
-
-
-
-
-
-
-
-L'OUTSIDER
-L'altra teoria di Darwin
-
-
-
-
-
-
-
-
-
-IL NUMERO 1
-Che Nole ci aspetta agli Internazionali?
-
-
-
-
-
-
-
-
-
-LA DINASTIA
-Una famiglia, tanti talenti: i segreti...
-
-
-
-
-
-
-
-
-
-SPORTWEEK
-Sinner: "Resto così come sono"
+Rune: "A Roma tocca a me, la lotta mi...
 
 
 
@@ -306,7 +229,7 @@ Sinner: "Resto così come sono"
 
 
 IL COMMENTO
-Nadal deve chiudere in bellezza
+Bertolucci: "Djokovic e Nadal, super test" 
 
 
 
@@ -316,8 +239,85 @@ Nadal deve chiudere in bellezza
 
 
 
-ALCARAZ
-Tutti i dolori del giovane Carlos
+L'ANALISI
+Bertolucci: "Peccato Sinner, ma meglio così"
+
+
+
+
+
+
+
+
+
+SMASH
+Cercasi Berrettini disperatamente
+
+
+
+
+
+
+
+
+
+L'AVVERSARIO
+L'ex baby d'oro che batte sempre Sinner
+
+
+
+
+
+
+
+
+
+IL COMMENTO
+Bertolucci: "Sinner più forte del dolore"
+
+
+
+
+
+
+
+
+
+L'INTERVISTA
+Reggi: "Sinner? Fortissimo ovunque"
+
+
+
+
+
+
+
+
+
+SPORT&BUSINESS
+Effetto Sinner, i conti degli Internazionali
+
+
+
+
+
+
+
+
+
+KOTOV
+Chi è l'avversario di Sinner a Madrid
+
+
+
+
+
+
+
+
+
+IL COMMENTO
+Bertolucci: "La forza di Sinner? Programma"
 
 
 
@@ -353,6 +353,286 @@ I Personaggi
 
 
 
+CAMILA GIORGIUna carriera di luci, ombre e illusioni
+
+
+
+
+
+
+
+
+
+BORUSSIA DORTMUNDTerzic, storia di un riscatto
+
+
+
+
+
+
+
+
+
+IL PERSONAGGIOChi è Joe Roberts, leader Usa della Moto2
+
+
+
+
+
+
+
+
+
+IL PERSONAGGIOAcosta, l'alter ego di Messi
+
+
+
+
+
+
+
+
+
+SPINELLII mari agitati del navigatore Aldo
+
+
+
+
+
+
+
+
+
+PEREZI segreti dell'eterno Florentino
+
+
+
+
+
+
+
+
+
+IL PERSONAGGIOMitchell,  il fenomeno sottovalutato
+
+
+
+
+
+
+
+
+
+IL PERSONAGGIONorris tra i re F1: addio a "Lando NoWins"
+
+
+
+
+
+
+
+
+
+MICHIELETTOIl gigante bambino che s'è preso l'Europa
+
+
+
+
+
+
+
+
+
+CANELOIl segreto dell'eterna giovinezza
+
+
+
+
+
+
+
+
+
+IL RITRATTOMenotti, l'uomo di sinistra e i generali
+
+
+
+
+
+
+
+
+
+LEADERSHIP WTAObiettivo Roma: le Big 3 a caccia del trofeo
+
+
+
+
+
+
+
+
+
+MARTELLINIVenti anni senza il telecronista gentiluomo
+
+
+
+
+
+
+
+
+
+CONCEIÇAODisciplina, semplicità, evoluzione
+
+
+
+
+
+
+
+
+
+MESSINHOHa superato Neymar, tutte le big lo vogliono
+
+
+
+
+
+
+
+
+
+REUSOcchi dolci, coccole e caviglie rotte
+
+
+
+
+
+
+
+
+
+IL PERSONAGGIOIl mito di Alfonsina, il Diavolo in gonnella
+
+
+
+
+
+
+
+
+
+IDZESL'idolo di Vanoli... e di Thohir
+
+
+
+
+
+
+
+
+
+ILENIKHENASognava il rap, fa gol, lotta come Nadal
+
+
+
+
+
+
+
+
+
+IL PERSONAGGIOGol e violini: i 3 anni di Gila al Milan
+
+
+
+
+
+
+
+
+
+ANDREEVAProve di grandezza a 17 anni
+
+
+
+
+
+
+
+
+
+IL PERSONAGGIOLorenzetti, un Angelo da poker, frasi,...
+
+
+
+
+
+
+
+
+
+MAIGNANChe succede a Magic Mike?
+
+
+
+
+
+
+
+
+
+L'ADDIO ALLA SELEÇAOMarta saluta il Brasile: è stata la più...
+
+
+
+
+
+
+
+
+
+KOTOVChi è l'avversario di Sinner a Madrid
+
+
+
+
+
+
+
+
+
+VILLAS BOASTutte le vite dello Special Two
+
+
+
+
+
+
+
+
+
+HOLM"L'Alce" nel mirino dell'Inter
+
+
+
+
+
+
+
+
+
+EDWARDS"Sarò il migliore". E non è arroganza
+
+
+
+
+
+
+
+
+
 CRIPPADove può arrivare l'uomo dei 7 record
 
 
@@ -364,286 +644,6 @@ CRIPPADove può arrivare l'uomo dei 7 record
 
 
 BOSKOVL'allenatore perfetto per il calcio di oggi
-
-
-
-
-
-
-
-
-
-WOLOSZImpegno politico e mani d'oro
-
-
-
-
-
-
-
-
-
-LOCATELLIIl "mini Zizou" scaricato su una panchina
-
-
-
-
-
-
-
-
-
-FORMULA 1Newey, l'uomo che "respira" aerodinamica
-
-
-
-
-
-
-
-
-
-NBANaz Reid sesto uomo dell'anno
-
-
-
-
-
-
-
-
-
-MURRAYStoria di un All Star mai stato All Star
-
-
-
-
-
-
-
-
-
-GIROUDIl triste congedo di Olivier da Milano
-
-
-
-
-
-
-
-
-
-ZHANGEguaglia Angelo Moratti e si tiene l'Inter
-
-
-
-
-
-
-
-
-
-BELLINGHAM"Hey Jude", e il Bernabeu esplode
-
-
-
-
-
-
-
-
-
-MOTO2La rincorsa al sogno di Sergio Garcia
-
-
-
-
-
-
-
-
-
-LA RICORRENZABabe Ruth, la nascita di un mito
-
-
-
-
-
-
-
-
-
-SPORTWEEKSinner: "Resto così come sono"
-
-
-
-
-
-
-
-
-
-IL RAGAZZO SI FARÀChi è Mbamba, il nuovo Xhaka del Leverkusen
-
-
-
-
-
-
-
-
-
-FABBIANMotta vuole trasformarlo in... Ferguson
-
-
-
-
-
-
-
-
-
-IL PERSONAGGIOZhegrova chiama, la Juve risponde?
-
-
-
-
-
-
-
-
-
-MOTOGPAcosta, il leoncino sarà re della foresta?
-
-
-
-
-
-
-
-
-
-ALCARAZTutti i dolori del giovane Carlos
-
-
-
-
-
-
-
-
-
-IL PERSONAGGIODe Marchi, l’ultimo romantico del ciclismo
-
-
-
-
-
-
-
-
-
-IL RETROSCENAQuando Pioli fu vicino alla Roma
-
-
-
-
-
-
-
-
-
-CUBARSÍL'ammazzagrandi del Barcellona
-
-
-
-
-
-
-
-
-
-CHUKWUEZECosì Pioli ha ritrovato un'arma
-
-
-
-
-
-
-
-
-
-WAN-BISSAKAL'ex golden boy che fa comodo all'Inter
-
-
-
-
-
-
-
-
-
-IL PERSONAGGIOTiger Woods in dieci numeri
-
-
-
-
-
-
-
-
-
-IL PERSONAGGIOMancini, un altro Materazzi
-
-
-
-
-
-
-
-
-
-IL PERSONAGGIOTutte le vite del Mago Luis Alberto
-
-
-
-
-
-
-
-
-
-L'ANALISIMilan, quando a "tradire" sono i senatori
-
-
-
-
-
-
-
-
-
-BARELLAGigi Riva e caramelle, alle radici di Nicolò
-
-
-
-
-
-
-
-
-
-SOLETSa fare tutto, comanda, l'Inter lo vuole
-
-
-
-
-
-
-
-
-
-IL PERSONAGGIO"El Mono" Burgos. storia di un vice
 
 
 
@@ -673,41 +673,8 @@ Inter
 
 
 
-BEDIN
-"Ripreso lo scudetto 'prestato' nel 2022"
-
-
-
-
-
-
-
-
-
-SERIE A NOIR
-Quando gli ultras assaltarono un asilo
-
-
-
-
-
-
-
-
-
-L'INTERVISTA
-Vecchioni: "Inter, ora assalto all’Europa"
-
-
-
-
-
-
-
-
-
-L'INTERVISTA
-Moratti: "Due stelle prima del Milan..."
+IL TEMA
+ Inter lontana? Juve e Milan, fate così...
 
 
 
@@ -718,7 +685,7 @@ Moratti: "Due stelle prima del Milan..."
 
 
 I VOTI GAZZETTA
-Inter, il pagellone dello scudetto
+Sassuolo-Inter, le pagelle
 
 
 
@@ -728,41 +695,8 @@ Inter, il pagellone dello scudetto
 
 
 
-IL RACCONTO
-SPECIALE Inter, 20 giorni da scudetto
-
-
-
-
-
-
-
-
-
-LE CHIAVI
-Il segreto della stella è nel mercato
-
-
-
-
-
-
-
-
-
-ZHANG
-Eguaglia Angelo Moratti e si tiene l'Inter
-
-
-
-
-
-
-
-
-
-L'INTERISTA
-Klinsmann: "Inter, è il titolo del...
+IL CAPITANO
+Lautaro e l'Inter sono cresciuti insieme
 
 
 
@@ -773,7 +707,73 @@ Klinsmann: "Inter, è il titolo del...
 
 
 LA STORIA
-Perché dieci scudetti valgono una stella
+Inzaghi, Ripert e la promessa di 24 anni fa
+
+
+
+
+
+
+
+
+
+IL DUELLO
+Cinque cartellini, tre espulsioni, colpi...
+
+
+
+
+
+
+
+
+
+IL COMMENTO
+Sacchi: "Inter, per aprire un ciclo devi..."
+
+
+
+
+
+
+
+
+
+I VOTI GAZZETTA
+Inter-Torino, le pagelle: Calhanoglu...
+
+
+
+
+
+
+
+
+
+SPORT&BUSINESS
+Inter, uno scudetto in autogestione
+
+
+
+
+
+
+
+
+
+E POI DOMENICA
+I destini uniti dei Facchetti e dei Mazzola
+
+
+
+
+
+
+
+
+
+BEDIN
+"Ripreso lo scudetto 'prestato' nel 2022"
 
 
 
@@ -804,7 +804,7 @@ Juventus
 
 
 L'INTERVISTA
-Stojkovic: "Vlahovic vale Haaland"
+Prandelli: "Credo nell' euro-tris italiano"
 
 
 
@@ -814,52 +814,8 @@ Stojkovic: "Vlahovic vale Haaland"
 
 
 
-LA STORIA
-Juve-Milan, storia di eleganza e occhi neri
-
-
-
-
-
-
-
-
-
-IL PROGETTO
-"Disabili? No, atleti": è la Juve Special
-
-
-
-
-
-
-
-
-
-ZAMBROTTA
-"Juve-Milan derby delle deluse. Perché..."
-
-
-
-
-
-
-
-
-
-IL TEMA
-La calda estate di Giuntoli
-
-
-
-
-
-
-
-
-
-L'INTERVISTA
-Boksic: "Juve, prendi Modric"
+IL FOCUS
+Juve, quanto vale il business del J-Hotel
 
 
 
@@ -870,7 +826,7 @@ Boksic: "Juve, prendi Modric"
 
 
 I VOTI GAZZETTA
-Lazio-Juve, le nostre pagelle
+Roma-Juve, le pagelle: Chiesa al top (7,5)
 
 
 
@@ -880,8 +836,8 @@ Lazio-Juve, le nostre pagelle
 
 
 
-SCENARI OPPOSTI
-Juve al bivio: da 0 euro a 20 milioni 
+TACKLE
+Juve, su Yildiz devi costruire il futuro
 
 
 
@@ -891,8 +847,8 @@ Juve al bivio: da 0 euro a 20 milioni 
 
 
 
-SPORT&BUSINESS
-Juve-Ronaldo: l'impatto a bilancio
+IL RAGAZZO SI FARA'
+Paolo Ceppi, con lui la Juve guarda avanti 
 
 
 
@@ -902,8 +858,52 @@ Juve-Ronaldo: l'impatto a bilancio
 
 
 
-LA STORIA
-Fagioli, un mese all'alba: come sta andando
+NUOVO CICLO
+La Juve di Giuntoli in 5 mosse
+
+
+
+
+
+
+
+
+
+JUVENTUS
+Miracolo Next Gen nell'anno più difficile
+
+
+
+
+
+
+
+
+
+IL FOCUS
+Come non svalutare il capitale Vlahovic
+
+
+
+
+
+
+
+
+
+I VOTI GAZZETTA
+Juve-Milan, le pagelle: Leao merita 5
+
+
+
+
+
+
+
+
+
+L'INTERVISTA
+Stojkovic: "Vlahovic vale Haaland"
 
 
 
@@ -928,6 +928,50 @@ Milan
 
 
  
+
+
+
+
+
+I VOTI GAZZETTA
+Milan-Genoa, le pagelle
+
+
+
+
+
+
+
+
+
+IL FOCUS
+Conceiçao-Fonseca,  calcio a confronto
+
+
+
+
+
+
+
+
+
+L'INTERVISTA
+Taarabt: "Misi le mani al collo a Kakà e..."
+
+
+
+
+
+
+
+
+
+MAIGNAN
+Che succede a Magic Mike?
+
+
+
+
 
 
 
@@ -999,50 +1043,6 @@ Milan, e se l'uomo giusto fosse Gasp?
 
 
 
-I VOTI GAZZETTA
-Milan-Inter, le pagelle
-
-
-
-
-
-
-
-
-
-IL MILANISTA
-Gullit: "Festa a casa nostra? Bisogna...
-
-
-
-
-
-
-
-
-
-L'INTERVISTA
-Albertini: "Milan, fidati di Lopetegui"
-
-
-
-
-
-
-
-
-
-VISTI DA SACCHI
-"Milan, un tecnico straniero è un rischio"
-
-
-
-
-
-
-
-
-
 Spalletti, la storia segreta di un genio
 
 
@@ -1080,30 +1080,8 @@ Nba
 
 
 
-NBA
-Naz Reid sesto uomo dell'anno
-
-
-
-
-
-
-
-
-
-NBA INSIDER
-LeBron vs Jordan, dibattito aperto
-
-
-
-
-
-
-
-
-
-MURRAY
-Storia di un All Star mai stato All Star
+LA STORIA
+Perché i Lupi fanno paura a tutti
 
 
 
@@ -1114,7 +1092,7 @@ Storia di un All Star mai stato All Star
 
 
 NBA NOIR
-Uno sparo nella notte: Early crolla a terra
+E a Reggio Calabria dissero stop a Big Ben
 
 
 
@@ -1124,8 +1102,19 @@ Uno sparo nella notte: Early crolla a terra
 
 
 
-NBA INSIDER
-Il falso mito dell'Nba in crisi di pubblico
+IL PERSONAGGIO
+Mitchell,  il fenomeno sottovalutato
+
+
+
+
+
+
+
+
+
+L'INTERVISTA
+Doctor J: "Embiid, fai come LeBron"
 
 
 
@@ -1136,7 +1125,18 @@ Il falso mito dell'Nba in crisi di pubblico
 
 
 NBA
-Warriors, la fine di una dinastia
+Embiid, altra eliminazione che fa male
+
+
+
+
+
+
+
+
+
+L'ANALISI
+Milwaukee: tutti i perché del fallimento
 
 
 
@@ -1173,13 +1173,13 @@ Le Rubriche
 
 
 
-                    STARS IN LOVE
+                    TACKLE
                     
 
-                        Anche i campioni si innamorano
+                        Protagonisti, bomber, affari e provocazioni
                     
 
-Andrea Schianchi
+Alessandro Vocalelli
 
 
 
@@ -1209,24 +1209,6 @@ Furio Zara
 
 
 
-                    TACKLE
-                    
-
-                        Protagonisti, bomber, affari e provocazioni
-                    
-
-Alessandro Vocalelli
-
-
-
-
-
-
-
-
-
-
-
                     SPORT&BUSINESS
                     
 
@@ -1234,6 +1216,24 @@ Alessandro Vocalelli
                     
 
 Marco Iaria
+
+
+
+
+
+
+
+
+
+
+
+                    STARS IN LOVE
+                    
+
+                        Anche i campioni si innamorano
+                    
+
+Andrea Schianchi
 
 
 

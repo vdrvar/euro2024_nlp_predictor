@@ -20,7 +20,7 @@ Calendario Serie A 2023 - 2024 - Liga Italiana
 
 
 
-Es noticia: Nadal - De MiñaurChelsea - BarcelonaAlmería - GetafeAlavés - CeltaJorge MartínCarrera sprint MotoGPMotoGP horario clasificación Nadal y AlcarazCuándo juega NadalAlineación AtléticoChelsea - Barcelona dónde verAlavés - Celta dónde verAtlético - Athletic dónde verCuándo juega AlcarazGabriela ArrocetCarlos RodríguezLotería Nacional hoyPedro SánchezNiño BecerraFirst DatesMaría del MonteGP España MotoGPMutua Madrid OpenPrecio luz hoyFútbol HoyClasificación LigaCalendario F1Portada de Marca
+Es noticia: Madrid - BayernDónde ver Real Madrid hoyAlonso Real MadridAlineación Real Madrid hoySocios Real MadridReal Madrid - Bayern árbitroBrujas - FiorentinaFinal ChampionsBarcelona - OlympiacosKipchogeCuando juega NadalEmbalses Catalunya hoyLaura EscanesRisto MejideMaría LeónIndycarCecilia Sopeña OnlyfansNiño BecerraNacho AbadPrecio luz hoyRosario PortoReal MadridBayernChampions LeagueMotoGP GP FranciaMasters RomaFútbol HoyCalendario F1Sans MbappéPortada de Marca
 
 Edición seleccionada
 ES 
@@ -6308,7 +6308,7 @@ Salernitana
 
 Lecce
 
-27/04 15:00
+1-1
 
 Monza
 
@@ -6323,7 +6323,7 @@ Monza
 
 Juventus
 
-27/04 18:00
+0-0
 
 Milan
 
@@ -6338,7 +6338,7 @@ Milan
 
 Lazio
 
-27/04 20:45
+1-0
 
 Hellas Verona
 
@@ -6353,7 +6353,7 @@ Hellas Verona
 
 Inter Milán
 
-28/04 12:30
+2-0
 
 Torino
 
@@ -6368,7 +6368,7 @@ Torino
 
 Bolonia
 
-28/04 15:00
+1-1
 
 Udinese
 
@@ -6383,7 +6383,7 @@ Udinese
 
 Atalanta
 
-28/04 18:00
+2-0
 
 Empoli
 
@@ -6398,7 +6398,7 @@ Empoli
 
 Nápoles
 
-28/04 18:00
+2-2
 
 Roma
 
@@ -6413,7 +6413,7 @@ Roma
 
 Fiorentina
 
-28/04 20:45
+5-1
 
 Sassuolo
 
@@ -6428,7 +6428,7 @@ Sassuolo
 
 Genoa
 
-29/04 20:45
+3-0
 
 Cagliari
 
@@ -6462,7 +6462,7 @@ Equipo visitante
 
 Torino
 
-03/05 20:45
+0-0
 
 Bolonia
 
@@ -6477,7 +6477,7 @@ Bolonia
 
 Monza
 
-04/05 18:00
+2-2
 
 Lazio
 
@@ -6492,7 +6492,7 @@ Lazio
 
 Sassuolo
 
-04/05 20:45
+1-0
 
 Inter Milán
 
@@ -6507,7 +6507,7 @@ Inter Milán
 
 Cagliari
 
-05/05 12:30
+1-1
 
 Lecce
 
@@ -6522,7 +6522,7 @@ Lecce
 
 Empoli
 
-05/05 15:00
+0-0
 
 Frosinone
 
@@ -6537,7 +6537,7 @@ Frosinone
 
 Hellas Verona
 
-05/05 15:00
+2-1
 
 Fiorentina
 
@@ -6552,7 +6552,7 @@ Fiorentina
 
 Milan
 
-05/05 18:00
+3-3
 
 Genoa
 
@@ -6567,7 +6567,7 @@ Genoa
 
 Roma
 
-05/05 20:45
+1-1
 
 Juventus
 
@@ -6582,7 +6582,7 @@ Juventus
 
 Salernitana
 
-06/05 18:00
+1-2
 
 Atalanta
 
@@ -6597,7 +6597,7 @@ Atalanta
 
 Udinese
 
-06/05 20:45
+1-1
 
 Nápoles
 
@@ -6629,39 +6629,9 @@ Equipo visitante
 
 
 
-Atalanta
-
-12/05 18:00
-
-Roma
-
-
-
-
-
-
-
-
-
-
-Fiorentina
-
-12/05 18:00
-
-Monza
-
-
-
-
-
-
-
-
-
-
 Frosinone
 
-12/05 18:00
+10/05 20:45
 
 Inter Milán
 
@@ -6674,9 +6644,54 @@ Inter Milán
 
 
 
+Nápoles
+
+11/05 18:00
+
+Bolonia
+
+
+
+
+
+
+
+
+
+
+Milan
+
+11/05 20:45
+
+Cagliari
+
+
+
+
+
+
+
+
+
+
+Lazio
+
+12/05 12:30
+
+Empoli
+
+
+
+
+
+
+
+
+
+
 Genoa
 
-12/05 18:00
+12/05 15:00
 
 Sassuolo
 
@@ -6691,7 +6706,7 @@ Sassuolo
 
 Hellas Verona
 
-12/05 18:00
+12/05 15:00
 
 Torino
 
@@ -6719,11 +6734,11 @@ Salernitana
 
 
 
-Lazio
+Atalanta
 
-12/05 18:00
+12/05 20:45
 
-Empoli
+Roma
 
 
 
@@ -6736,7 +6751,7 @@ Empoli
 
 Lecce
 
-12/05 18:00
+13/05 18:30
 
 Udinese
 
@@ -6749,26 +6764,11 @@ Udinese
 
 
 
-Milan
+Fiorentina
 
-12/05 18:00
+13/05 20:45
 
-Cagliari
-
-
-
-
-
-
-
-
-
-
-Nápoles
-
-12/05 18:00
-
-Bolonia
+Monza
 
 
 
@@ -7143,20 +7143,16 @@ Más noticias
 
 
 
-Juventus - Milan
+Serie A - Liga Italiana
 
 
 
-Juventus - Milan en directo
-
-
+El Nápoles confirma su dramática temporada: el peor campeón posible
 
 
 
 
-Juventus - Milan en directo
-
-
+Redacción: IRATI PRAT
 
 
 
@@ -7166,16 +7162,54 @@ Juventus - Milan en directo
 
 
 
-
-
-US Lecce - Monza en directo
-
+1 comentarios
 
 
 
 
+El Nápoles confirma su dramática temporada: el peor campeón posible
 
-US Lecce - Monza en directo
+
+
+
+
+
+
+
+
+
+
+
+
+Udinese - Nápoles en directo
+
+
+
+
+
+
+Udinese - Nápoles en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+Salernitana - Atalanta en directo
+
+
+
+
+
+
+Salernitana - Atalanta en directo
 
 
 
@@ -7197,7 +7231,7 @@ Serie A - Liga Italiana
 
 
 
-A Lopetegui se le abre la puerta del Milan
+El Milan pasa página con 'Nopetegui' y se lanza a por Sergio Conceição
 
 
 
@@ -7212,12 +7246,12 @@ Redacción: DIEGO PICÓ
 
 
 
-24 comentarios
+2 comentarios
 
 
 
 
-A Lopetegui se le abre la puerta del Milan
+El Milan pasa página con 'Nopetegui' y se lanza a por Sergio Conceição
 
 
 
@@ -7239,7 +7273,7 @@ Serie A - Liga Italiana
 
 
 
-Increíble, pero cierto: Simone Inzaghi no tiene quien le quiera
+#Nopetegui: el Milan vive del pasado... y en el pasado
 
 
 
@@ -7254,12 +7288,12 @@ Redacción: ALBERTO RUBIO
 
 
 
-1 comentarios
+18 comentarios
 
 
 
 
-Increíble, pero cierto: Simone Inzaghi no tiene quien le quiera
+#Nopetegui: el Milan vive del pasado... y en el pasado
 
 
 
@@ -7281,12 +7315,125 @@ Serie A - Liga Italiana
 
 
 
-La Salernitana de Boateng, 'Memo' Ochoa y Manolas desciende a la Serie B
+Svilar y Szczesny 'salvan' el empate entre Roma y Juventus
 
 
 
 
-Redacción: EFE
+Redacción: IRATI PRAT
+
+
+
+
+
+Svilar y Szczesny 'salvan' el empate entre Roma y Juventus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serie A - Liga Italiana
+
+
+
+El Milan empata con el Genoa... ¡y la Curva deja San Siro en señal de protesta!
+
+
+
+
+Redacción: IRATI PRAT
+
+
+
+
+
+
+
+
+
+2 comentarios
+
+
+
+
+El Milan empata con el Genoa... ¡y la Curva deja San Siro en señal de protesta!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roma - Juventus
+
+
+
+Roma - Juventus en directo
+
+
+
+
+
+
+
+
+
+
+1 comentarios
+
+
+
+
+Roma - Juventus en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serie A - Liga Italiana
+
+
+
+El conmovedor homenaje a Sven Goran Eriksson de la Sampdoria
+
+
+
+
+Redacción: LUIS ALBERTO DÍAZ
 
 
 
@@ -7301,28 +7448,7 @@ Redacción: EFE
 
 
 
-La Salernitana de Boateng, 'Memo' Ochoa y Manolas desciende a la Serie B
-
-
-
-
-
-
-
-
-
-
-
-
-
-Frosinone Calcio - Salernitana en directo
-
-
-
-
-
-
-Frosinone Calcio - Salernitana en directo
+El conmovedor homenaje a Sven Goran Eriksson de la Sampdoria
 
 
 
@@ -7344,121 +7470,7 @@ Serie A - Liga Italiana
 
 
 
-La Roma gana en el 95' ante Udinese en la reanudación del partido suspendido por el desplome de Ndicka
-
-
-
-
-Redacción: RODRIGO GONZÁLEZ
-
-
-
-
-
-
-
-
-
-1 comentarios
-
-
-
-
-La Roma gana en el 95' ante Udinese en la reanudación del partido suspendido por el desplome de Ndicka
-
-
-
-
-
-
-
-
-
-
-
-
-
-Udinese - Roma en directo
-
-
-
-
-
-
-
-
-
-
-1 comentarios
-
-
-
-
-Udinese - Roma en directo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Serie A - Liga Italiana
-
-
-
-La Atalanta sueña con un histórico doblete: "¿Por qué debemos elegir entre un torneo u otro?"
-
-
-
-
-Redacción: JON PRADA E IRATI PRAT
-
-
-
-
-
-
-
-
-
-3 comentarios
-
-
-
-
-La Atalanta sueña con un histórico doblete: "¿Por qué debemos elegir entre un torneo u otro?"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Coppa Italia
-
-
-
-Atalanta remonta, golea a la Fiorentina y se cita en la final de Coppa con la Juventus
+El Como de Fábregas aplaza el ascenso: las cuentas para subir el viernes
 
 
 
@@ -7473,12 +7485,234 @@ Redacción: IRATI PRAT
 
 
 
+1 comentarios
+
+
+
+
+El Como de Fábregas aplaza el ascenso: las cuentas para subir el viernes
+
+
+
+
+
+
+
+
+
+
+
+
+
+Milan - Genoa en directo
+
+
+
+
+
+
+Milan - Genoa en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hellas Verona - Fiorentina en directo
+
+
+
+
+
+
+Hellas Verona - Fiorentina en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+Empoli - Frosinone Calcio en directo
+
+
+
+
+
+
+Empoli - Frosinone Calcio en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cagliari - US Lecce en directo
+
+
+
+
+
+
+Cagliari - US Lecce en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serie A - Liga Italiana
+
+
+
+El Inter cae ante su 'bestia negra': vuelven a perder con el Sassuolo
+
+
+
+
+Redacción: IRATI PRAT
+
+
+
+
+
+El Inter cae ante su 'bestia negra': vuelven a perder con el Sassuolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sassuolo - Inter Milán en directo
+
+
+
+
+
+
+Sassuolo - Inter Milán en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monza - Lazio en directo
+
+
+
+
+
+
+Monza - Lazio en directo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serie A - Liga Italiana
+
+
+
+El cumple más feliz de Cesc: puede subir mañana a la Serie A tras siete meses de entrenador
+
+
+
+
+Redacción: IRATI PRAT Y JUAN CASTRO
+
+
+
+
+
+
+
+
+
 2 comentarios
 
 
 
 
-Atalanta remonta, golea a la Fiorentina y se cita en la final de Coppa con la Juventus
+El cumple más feliz de Cesc: puede subir mañana a la Serie A tras siete meses de entrenador
+
+
+
+
+
+
+
+
+
+
+
+
+
+Torino - Bolonia en directo
+
+
+
+
+
+
+Torino - Bolonia en directo
 
 
 
@@ -7500,40 +7734,7 @@ Serie A - Liga Italiana
 
 
 
-Milik sale al rescate de una Juventus que resiste en el Olímpico y jugará la final de 'Coppa'
-
-
-
-
-Redacción: RODRIGO GONZÁLEZ
-
-
-
-
-
-Milik sale al rescate de una Juventus que resiste en el Olímpico y jugará la final de 'Coppa'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Serie A - Liga Italiana
-
-
-
-Giroud dejará el Milan para fichar por Los Angeles Galaxy
+Rugani irá a juicio por conducir ebrio
 
 
 
@@ -7544,331 +7745,7 @@ Redacción: EFE
 
 
 
-
-
-
-
-4 comentarios
-
-
-
-
-Giroud dejará el Milan para fichar por Los Angeles Galaxy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Serie A - Liga Italiana
-
-
-
-El Inter entra en el selecto club de los 20
-
-
-
-
-Redacción: DIEGO PICÓ
-
-
-
-
-
-
-
-
-
-2 comentarios
-
-
-
-
-El Inter entra en el selecto club de los 20
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Serie A - Liga Italiana
-
-
-
-El Inter reina en Italia: "Cambiamos 12 jugadores... y aquí está la segunda estrella"
-
-
-
-
-Redacción: IRATI PRAT
-
-
-
-
-
-
-
-
-
-20 comentarios
-
-
-
-
-El Inter reina en Italia: "Cambiamos 12 jugadores... y aquí está la segunda estrella"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Serie A - Liga Italiana
-
-
-
-El Inter se lleva el 'Scudetto' en un derbi a puñetazo limpio
-
-
-
-
-Redacción: PABLO LUCENA
-
-
-
-
-
-
-
-
-
-9 comentarios
-
-
-
-
-El Inter se lleva el 'Scudetto' en un derbi a puñetazo limpio
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Milan - Inter
-
-
-
-Milan - Inter Milán | Resumen, resultado y goles del derbi de Milán
-
-
-
-
-Redacción: PABLO LUCENA
-
-
-
-
-
-
-
-
-
-5 comentarios
-
-
-
-
-Milan - Inter Milán | Resumen, resultado y goles del derbi de Milán
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Serie A - Liga Italiana
-
-
-
-El Inter gana el 'Scudetto' de la segunda estrella tras derrotar al Milan en el derbi
-
-
-
-
-Redacción: IRATI PRAT
-
-
-
-
-
-
-
-
-
-39 comentarios
-
-
-
-
-El Inter gana el 'Scudetto' de la segunda estrella tras derrotar al Milan en el derbi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Serie A - Liga Italiana
-
-
-
-El Bolonia asalta Roma y acaricia la Champions
-
-
-
-
-Redacción: IRATI PRAT
-
-
-
-
-
-
-
-
-
-1 comentarios
-
-
-
-
-El Bolonia asalta Roma y acaricia la Champions
-
-
-
-
-
-
-
-
-
-
-
-
-
-Roma - Bolonia en directo
-
-
-
-
-
-
-
-
-
-
-2 comentarios
-
-
-
-
-Roma - Bolonia en directo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Serie A - Liga Italiana
-
-
-
-Cannavaro ficha como entrenador de Udinese para salvar el descenso
-
-
-
-
-Redacción: IRATI PRAT
-
-
-
-
-
-Cannavaro ficha como entrenador de Udinese para salvar el descenso
+Rugani irá a juicio por conducir ebrio
 
 
  

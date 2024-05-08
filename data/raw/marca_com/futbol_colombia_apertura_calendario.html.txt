@@ -20,7 +20,7 @@ Calendario Liga de Colombia Apertura 2024
 
 
 
-Es noticia: Nadal - De MiñaurChelsea - BarcelonaAlmería - GetafeAlavés - CeltaJorge MartínCarrera sprint MotoGPMotoGP horario clasificación Nadal y AlcarazCuándo juega NadalAlineación AtléticoChelsea - Barcelona dónde verAlavés - Celta dónde verAtlético - Athletic dónde verCuándo juega AlcarazGabriela ArrocetCarlos RodríguezLotería Nacional hoyPedro SánchezNiño BecerraFirst DatesMaría del MonteGP España MotoGPMutua Madrid OpenPrecio luz hoyFútbol HoyClasificación LigaCalendario F1Portada de Marca
+Es noticia: Madrid - BayernDónde ver Real Madrid hoyAlonso Real MadridAlineación Real Madrid hoySocios Real MadridReal Madrid - Bayern árbitroBrujas - FiorentinaFinal ChampionsBarcelona - OlympiacosKipchogeCuando juega NadalEmbalses Catalunya hoyLaura EscanesRisto MejideMaría LeónIndycarCecilia Sopeña OnlyfansNiño BecerraNacho AbadPrecio luz hoyJorge JavierReal MadridBayernChampions LeagueMotoGP GP FranciaMasters RomaFútbol HoyCalendario F1Sans MbappéPortada de Marca
 
 Edición seleccionada
 ES 
@@ -669,6 +669,9 @@ Jornada 16
 Jornada 17
 Jornada 18
 Jornada 19
+Jornada 20
+Jornada 21
+Jornada 22
 
 
 Pulsa en tu equipo para ver sus partidos
@@ -3739,7 +3742,7 @@ Equipo visitante
 
 Atlético Nacional
 
-28/04 02:00
+3-1
 
 Deportes Tolima
 
@@ -3754,7 +3757,7 @@ Deportes Tolima
 
 Patriotas Boyacá
 
-28/04 22:00
+0-3
 
 Deportivo Pasto
 
@@ -3769,7 +3772,7 @@ Deportivo Pasto
 
 Atlético Bucaramanga
 
-29/04 00:00
+1-0
 
 Alianza
 
@@ -3784,7 +3787,7 @@ Alianza
 
 Deportivo Cali
 
-29/04 00:00
+0-0
 
 Junior
 
@@ -3799,7 +3802,7 @@ Junior
 
 Envigado
 
-29/04 00:00
+0-1
 
 Independiente Medellín
 
@@ -3814,7 +3817,7 @@ Independiente Medellín
 
 Jaguares de Córdoba
 
-29/04 00:00
+1-0
 
 Independiente Santa Fe
 
@@ -3829,7 +3832,7 @@ Independiente Santa Fe
 
 La Equidad
 
-29/04 00:00
+0-2
 
 Deportivo Pereira
 
@@ -3844,7 +3847,7 @@ Deportivo Pereira
 
 Millonarios
 
-29/04 00:00
+3-0
 
 Boyacá Chicó
 
@@ -3859,7 +3862,7 @@ Boyacá Chicó
 
 Once Caldas
 
-29/04 00:00
+0-0
 
 América de Cali
 
@@ -3874,9 +3877,246 @@ América de Cali
 
 Águilas Doradas
 
-29/04 00:00
+1-1
 
 Fortaleza CEIF
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ir arriba
+
+Jornada 20
+
+
+Equipo local
+Resultado
+Equipo visitante
+
+
+
+
+
+
+
+
+Deportivo Pereira
+
+1-0
+
+Atlético Bucaramanga
+
+
+
+
+
+
+
+
+
+
+Junior
+
+2-1
+
+Millonarios
+
+
+
+
+
+
+
+
+
+
+Independiente Santa Fe
+
+1-0
+
+Deportes Tolima
+
+
+
+
+
+
+
+
+
+
+Once Caldas
+
+2-0
+
+La Equidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ir arriba
+
+Jornada 21
+
+
+Equipo local
+Resultado
+Equipo visitante
+
+
+
+
+
+
+
+
+Atlético Bucaramanga
+
+12/05 00:15
+
+Junior
+
+
+
+
+
+
+
+
+
+
+Millonarios
+
+12/05 02:30
+
+Deportivo Pereira
+
+
+
+
+
+
+
+
+
+
+La Equidad
+
+13/05 00:15
+
+Independiente Santa Fe
+
+
+
+
+
+
+
+
+
+
+Deportes Tolima
+
+13/05 02:30
+
+Once Caldas
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ir arriba
+
+Jornada 22
+
+
+Equipo local
+Resultado
+Equipo visitante
+
+
+
+
+
+
+
+
+La Equidad
+
+19/05 00:15
+
+Deportes Tolima
+
+
+
+
+
+
+
+
+
+
+Once Caldas
+
+19/05 02:30
+
+Independiente Santa Fe
+
+
+
+
+
+
+
+
+
+
+Junior
+
+20/05 00:30
+
+Deportivo Pereira
+
+
+
+
+
+
+
+
+
+
+Millonarios
+
+20/05 03:00
+
+Atlético Bucaramanga
 
 
 

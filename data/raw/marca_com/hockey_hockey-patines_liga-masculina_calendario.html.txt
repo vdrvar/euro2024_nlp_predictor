@@ -20,7 +20,7 @@ Calendario y Clasificación OK Liga Hockey Patines 2023 - 2024 | Resultados
 
 
 
-Es noticia: Nadal - De MiñaurChelsea - BarcelonaAlmería - GetafeAlavés - CeltaJorge MartínCarrera sprint MotoGPMotoGP horario clasificación Nadal y AlcarazCuándo juega NadalAlineación AtléticoChelsea - Barcelona dónde verAlavés - Celta dónde verAtlético - Athletic dónde verCuándo juega AlcarazGabriela ArrocetCarlos RodríguezLotería Nacional hoyPedro SánchezNiño BecerraFirst DatesMaría del MonteGP España MotoGPMutua Madrid OpenPrecio luz hoyFútbol HoyClasificación LigaCalendario F1Portada de Marca
+Es noticia: Madrid - BayernDónde ver Real Madrid hoyAlonso Real MadridAlineación Real Madrid hoySocios Real MadridReal Madrid - Bayern árbitroBrujas - FiorentinaFinal ChampionsBarcelona - OlympiacosKipchogeCuando juega NadalEmbalses Catalunya hoyLaura EscanesRisto MejideMaría LeónIndycarCecilia Sopeña OnlyfansNiño BecerraNacho AbadPrecio luz hoyJorge JavierReal MadridBayernChampions LeagueMotoGP GP FranciaMasters RomaFútbol HoyCalendario F1Sans MbappéPortada de Marca
 
 Edición seleccionada
 ES 
@@ -265,127 +265,127 @@ PT
 
 1
 Barça
-24
-20
+26
+22
 2
 2
-62
+68
 
 
 2
 CE Noia Freixenet
-24
-13
-9
+26
+14
+10
 2
-48
+52
 
 
 3
 Deportivo Liceo
-24
-13
-3
+26
+14
+4
 8
-42
+46
 
 
 4
 Reus Deportiu Virginias
-24
-11
+26
+12
 6
-7
-39
+8
+42
 
 
 5
+Parlem Calafell
+26
+11
+5
+10
+38
+
+
+6
 CP Voltregà Stern Motor
-24
+26
 11
 4
-9
+11
 37
 
 
+7
+Igualada Rigat HC
+26
+10
 6
-Parlem Calafell
-24
+10
+36
+
+
+8
+HC Sant Just
+26
 10
 5
-9
+11
 35
 
 
-7
-HC Sant Just
-24
+9
+Finques Prats Lleida
+26
 10
-4
-10
-34
+5
+11
+35
 
 
-8
+10
 Pas Alcoi
-24
+26
 11
 1
-12
+14
 34
-
-
-9
-Igualada Rigat HC
-24
-9
-5
-10
-32
-
-
-10
-Finques Prats Lleida
-24
-8
-5
-11
-29
 
 
 11
 Recam Làser CH Caldes
-24
-8
+26
+10
 4
 12
-28
+34
 
 
 12
 Garatge Plana Girona CH
-24
+26
 6
 5
-13
+15
 23
 
 
 13
 Adiss Hockey Rivas
-24
+26
+6
 5
-5
-14
-20
+15
+23
 
 
 14
 CH Mataró
-24
+26
 3
 2
-19
+21
 11
 
 
@@ -1643,37 +1643,37 @@ Equipo visitante
 
 
 Igualada Rigat HC
-28/04 18:30
+4-2
 Adiss Hockey Rivas
 
 
 Parlem Calafell
-28/04 18:30
+4-1
 CH Mataró
 
 
 Pas Alcoi
-28/04 18:30
+1-4
 Deportivo Liceo
 
 
 Reus Deportiu Virginias
-28/04 18:30
+1-2
 Finques Prats Lleida
 
 
 Barça
-28/04 18:30
+7-4
 Garatge Plana Girona CH
 
 
 CE Noia Freixenet
-28/04 18:30
+5-3
 HC Sant Just
 
 
 CP Voltregà Stern Motor
-28/04 18:30
+2-3
 Recam Làser CH Caldes
 
 
@@ -1682,7 +1682,7 @@ Recam Làser CH Caldes
 
 Ir arriba
 
-Jornada 26 - 04.05.2024
+Jornada 26 - 04.05.2024 - 05.05.2024
 
 
 Equipo local
@@ -1693,37 +1693,37 @@ Equipo visitante
 
 
 CH Mataró
-04/05 20:30
+2-5
 Barça
 
 
 Deportivo Liceo
-04/05 20:30
+4-4
 CE Noia Freixenet
 
 
 Finques Prats Lleida
-04/05 20:30
+4-3
 CP Voltregà Stern Motor
 
 
 HC Sant Just
-04/05 20:30
+5-5
 Igualada Rigat HC
 
 
 Adiss Hockey Rivas
-04/05 20:30
+2-1
 Parlem Calafell
 
 
 Recam Làser CH Caldes
-04/05 20:30
+5-1
 Pas Alcoi
 
 
 Garatge Plana Girona CH
-04/05 20:30
+0-6
 Reus Deportiu Virginias
 
 

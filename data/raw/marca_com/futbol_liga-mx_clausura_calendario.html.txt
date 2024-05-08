@@ -20,7 +20,7 @@ Calendario Liga MX Torneo de Clausura 2024
 
 
 
-Es noticia: Nadal - De MiñaurChelsea - BarcelonaAlmería - GetafeAlavés - CeltaJorge MartínCarrera sprint MotoGPMotoGP horario clasificación Nadal y AlcarazCuándo juega NadalAlineación AtléticoChelsea - Barcelona dónde verAlavés - Celta dónde verAtlético - Athletic dónde verCuándo juega AlcarazGabriela ArrocetCarlos RodríguezLotería Nacional hoyPedro SánchezNiño BecerraFirst DatesMaría del MonteGP España MotoGPMutua Madrid OpenPrecio luz hoyFútbol HoyClasificación LigaCalendario F1Portada de Marca
+Es noticia: Madrid - BayernDónde ver Real Madrid hoyAlonso Real MadridAlineación Real Madrid hoySocios Real MadridReal Madrid - Bayern árbitroBrujas - FiorentinaFinal ChampionsBarcelona - OlympiacosKipchogeCuando juega NadalEmbalses Catalunya hoyLaura EscanesRisto MejideMaría LeónIndycarCecilia Sopeña OnlyfansNiño BecerraNacho AbadPrecio luz hoyRosario PortoReal MadridBayernChampions LeagueMotoGP GP FranciaMasters RomaFútbol HoyCalendario F1Sans MbappéPortada de Marca
 
 Edición seleccionada
 ES 
@@ -667,6 +667,10 @@ Jornada 14
 Jornada 15
 Jornada 16
 Jornada 17
+Jornada 18
+Jornada 19
+Jornada 20
+Jornada 21
 
 
 Pulsa en tu equipo para ver sus partidos
@@ -3189,7 +3193,7 @@ Pumas UNAM
 
 Juárez
 
-28/04 01:06
+1-1
 
 León
 
@@ -3204,7 +3208,7 @@ León
 
 Tigres
 
-28/04 03:00
+4-1
 
 Club Tijuana
 
@@ -3219,7 +3223,7 @@ Club Tijuana
 
 Toluca
 
-28/04 03:00
+0-1
 
 Cruz Azul
 
@@ -3234,7 +3238,7 @@ Cruz Azul
 
 Pachuca
 
-28/04 03:10
+1-1
 
 Mazatlán
 
@@ -3249,7 +3253,7 @@ Mazatlán
 
 Atlas
 
-28/04 05:10
+0-1
 
 Chivas
 
@@ -3264,7 +3268,7 @@ Chivas
 
 Necaxa
 
-29/04 02:00
+2-5
 
 Monterrey
 
@@ -3279,9 +3283,250 @@ Monterrey
 
 Santos Laguna
 
-29/04 02:00
+0-3
 
 Atlético San Luis
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ir arriba
+
+Jornada 18
+
+
+Equipo local
+Resultado
+Equipo visitante
+
+
+
+
+
+
+
+
+Necaxa
+
+1-1
+
+Querétaro
+
+
+
+
+
+
+
+
+
+
+Pachuca
+
+0-0
+
+Pumas UNAM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ir arriba
+
+Jornada 19
+
+
+Equipo local
+Resultado
+Equipo visitante
+
+
+
+
+
+
+
+
+Pachuca
+
+2-1
+
+Necaxa
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ir arriba
+
+Jornada 20
+
+
+Equipo local
+Resultado
+Equipo visitante
+
+
+
+
+
+
+
+
+Chivas
+
+09/05 03:05
+
+Toluca
+
+
+
+
+
+
+
+
+
+
+Pachuca
+
+09/05 05:16
+
+América
+
+
+
+
+
+
+
+
+
+
+Pumas UNAM
+
+10/05 03:00
+
+Cruz Azul
+
+
+
+
+
+
+
+
+
+
+Tigres
+
+10/05 05:10
+
+Monterrey
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ir arriba
+
+Jornada 21
+
+
+Equipo local
+Resultado
+Equipo visitante
+
+
+
+
+
+
+
+
+América
+
+12/05 02:00
+
+Pachuca
+
+
+
+
+
+
+
+
+
+
+Toluca
+
+12/05 04:10
+
+Chivas
+
+
+
+
+
+
+
+
+
+
+Cruz Azul
+
+13/05 03:00
+
+Pumas UNAM
+
+
+
+
+
+
+
+
+
+
+Monterrey
+
+13/05 05:10
+
+Tigres
 
 
 

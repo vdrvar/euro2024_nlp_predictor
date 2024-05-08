@@ -20,7 +20,7 @@ Calendario Liga Uruguay Apertura
 
 
 
-Es noticia: Nadal - De MiñaurChelsea - BarcelonaAlmería - GetafeAlavés - CeltaJorge MartínCarrera sprint MotoGPMotoGP horario clasificación Nadal y AlcarazCuándo juega NadalAlineación AtléticoChelsea - Barcelona dónde verAlavés - Celta dónde verAtlético - Athletic dónde verCuándo juega AlcarazGabriela ArrocetCarlos RodríguezLotería Nacional hoyPedro SánchezNiño BecerraFirst DatesMaría del MonteGP España MotoGPMutua Madrid OpenPrecio luz hoyFútbol HoyClasificación LigaCalendario F1Portada de Marca
+Es noticia: Madrid - BayernDónde ver Real Madrid hoyAlonso Real MadridAlineación Real Madrid hoySocios Real MadridReal Madrid - Bayern árbitroBrujas - FiorentinaFinal ChampionsBarcelona - OlympiacosKipchogeCuando juega NadalEmbalses Catalunya hoyLaura EscanesRisto MejideMaría LeónIndycarCecilia Sopeña OnlyfansNiño BecerraNacho AbadPrecio luz hoyRosario PortoReal MadridBayernChampions LeagueMotoGP GP FranciaMasters RomaFútbol HoyCalendario F1Sans MbappéPortada de Marca
 
 Edición seleccionada
 ES 
@@ -1944,7 +1944,7 @@ Equipo visitante
 
 Rampla Juniors
 
-27/04 17:30
+1-1
 
 Deportivo Maldonado
 
@@ -1959,7 +1959,7 @@ Deportivo Maldonado
 
 Cerro Largo
 
-27/04 20:00
+2-0
 
 Boston River
 
@@ -1974,7 +1974,7 @@ Boston River
 
 Miramar Misiones
 
-28/04 15:00
+3-5
 
 Danubio
 
@@ -1989,7 +1989,7 @@ Danubio
 
 Progreso
 
-28/04 20:00
+2-1
 
 Liverpool (Montevideo)
 
@@ -2004,7 +2004,7 @@ Liverpool (Montevideo)
 
 Cerro
 
-28/04 23:00
+1-2
 
 Nacional
 
@@ -2019,7 +2019,7 @@ Nacional
 
 Defensor Sporting
 
-29/04 01:30
+2-2
 
 Montevideo Wanderers
 
@@ -2034,7 +2034,7 @@ Montevideo Wanderers
 
 Racing (Montevideo)
 
-29/04 20:00
+2-0
 
 Fénix
 
@@ -2049,7 +2049,7 @@ Fénix
 
 Peñarol
 
-30/04 01:00
+3-0
 
 River Plate (Montevideo)
 
@@ -2081,9 +2081,24 @@ Equipo visitante
 
 
 
+Danubio
+
+1-1
+
+Rampla Juniors
+
+
+
+
+
+
+
+
+
+
 Liverpool (Montevideo)
 
-03/05 20:00
+2-2
 
 Peñarol
 
@@ -2098,7 +2113,7 @@ Peñarol
 
 Nacional
 
-04/05 01:00
+4-2
 
 Racing (Montevideo)
 
@@ -2113,7 +2128,7 @@ Racing (Montevideo)
 
 Boston River
 
-04/05 15:00
+3-1
 
 Miramar Misiones
 
@@ -2126,24 +2141,9 @@ Miramar Misiones
 
 
 
-Danubio
-
-04/05 20:00
-
-Rampla Juniors
-
-
-
-
-
-
-
-
-
-
 Montevideo Wanderers
 
-04/05 22:30
+2-0
 
 Progreso
 
@@ -2158,7 +2158,7 @@ Progreso
 
 River Plate (Montevideo)
 
-05/05 15:00
+2-3
 
 Cerro Largo
 
@@ -2173,7 +2173,7 @@ Cerro Largo
 
 Fénix
 
-05/05 20:00
+0-2
 
 Defensor Sporting
 
@@ -2188,7 +2188,7 @@ Defensor Sporting
 
 Deportivo Maldonado
 
-05/05 22:30
+3-0
 
 Cerro
 
@@ -2220,54 +2220,9 @@ Equipo visitante
 
 
 
-Cerro
-
-Aplazado
-
-Danubio
-
-
-
-
-
-
-
-
-
-
-Cerro Largo
-
-Aplazado
-
-Liverpool (Montevideo)
-
-
-
-
-
-
-
-
-
-
-Miramar Misiones
-
-Aplazado
-
-River Plate (Montevideo)
-
-
-
-
-
-
-
-
-
-
 Nacional
 
-Aplazado
+11/05 01:00
 
 Fénix
 
@@ -2280,13 +2235,11 @@ Fénix
 
 
 
-Peñarol
+Cerro
 
-Aplazado
+11/05 15:00
 
-Montevideo Wanderers
-
-
+Danubio
 
 
 
@@ -2295,11 +2248,13 @@ Montevideo Wanderers
 
 
 
-Progreso
 
-Aplazado
 
-Defensor Sporting
+Miramar Misiones
+
+11/05 17:30
+
+River Plate (Montevideo)
 
 
 
@@ -2312,7 +2267,7 @@ Defensor Sporting
 
 Racing (Montevideo)
 
-Aplazado
+11/05 20:00
 
 Deportivo Maldonado
 
@@ -2325,11 +2280,56 @@ Deportivo Maldonado
 
 
 
+Peñarol
+
+11/05 23:00
+
+Montevideo Wanderers
+
+
+
+
+
+
+
+
+
+
+Cerro Largo
+
+12/05 15:00
+
+Liverpool (Montevideo)
+
+
+
+
+
+
+
+
+
+
 Rampla Juniors
 
-Aplazado
+12/05 17:30
 
 Boston River
+
+
+
+
+
+
+
+
+
+
+Progreso
+
+12/05 20:00
+
+Defensor Sporting
 
 
 
@@ -2359,69 +2359,9 @@ Equipo visitante
 
 
 
-Boston River
-
-11/05 01:00
-
-Cerro
-
-
-
-
-
-
-
-
-
-
-Danubio
-
-11/05 01:00
-
-Racing (Montevideo)
-
-
-
-
-
-
-
-
-
-
-Defensor Sporting
-
-11/05 01:00
-
-Peñarol
-
-
-
-
-
-
-
-
-
-
-Deportivo Maldonado
-
-11/05 01:00
-
-Nacional
-
-
-
-
-
-
-
-
-
-
 Fénix
 
-11/05 01:00
+18/05 17:30
 
 Progreso
 
@@ -2434,11 +2374,56 @@ Progreso
 
 
 
-Liverpool (Montevideo)
+River Plate (Montevideo)
 
-11/05 01:00
+18/05 20:00
 
-Miramar Misiones
+Rampla Juniors
+
+
+
+
+
+
+
+
+
+
+Defensor Sporting
+
+18/05 23:00
+
+Peñarol
+
+
+
+
+
+
+
+
+
+
+Danubio
+
+19/05 17:30
+
+Racing (Montevideo)
+
+
+
+
+
+
+
+
+
+
+Boston River
+
+19/05 20:00
+
+Cerro
 
 
 
@@ -2451,7 +2436,7 @@ Miramar Misiones
 
 Montevideo Wanderers
 
-11/05 01:00
+19/05 22:30
 
 Cerro Largo
 
@@ -2464,11 +2449,26 @@ Cerro Largo
 
 
 
-River Plate (Montevideo)
+Liverpool (Montevideo)
 
-11/05 01:00
+20/05 20:00
 
-Rampla Juniors
+Miramar Misiones
+
+
+
+
+
+
+
+
+
+
+Deportivo Maldonado
+
+21/05 01:00
+
+Nacional
 
 
 
@@ -2500,7 +2500,7 @@ Equipo visitante
 
 Cerro
 
-18/05 01:00
+Aplazado
 
 River Plate (Montevideo)
 
@@ -2515,7 +2515,7 @@ River Plate (Montevideo)
 
 Cerro Largo
 
-18/05 01:00
+Aplazado
 
 Defensor Sporting
 
@@ -2530,7 +2530,7 @@ Defensor Sporting
 
 Deportivo Maldonado
 
-18/05 01:00
+Aplazado
 
 Fénix
 
@@ -2545,7 +2545,7 @@ Fénix
 
 Miramar Misiones
 
-18/05 01:00
+Aplazado
 
 Montevideo Wanderers
 
@@ -2560,7 +2560,7 @@ Montevideo Wanderers
 
 Nacional
 
-18/05 01:00
+Aplazado
 
 Danubio
 
@@ -2575,7 +2575,7 @@ Danubio
 
 Peñarol
 
-18/05 01:00
+Aplazado
 
 Progreso
 
@@ -2590,7 +2590,7 @@ Progreso
 
 Racing (Montevideo)
 
-18/05 01:00
+Aplazado
 
 Boston River
 
@@ -2605,7 +2605,7 @@ Boston River
 
 Rampla Juniors
 
-18/05 01:00
+Aplazado
 
 Liverpool (Montevideo)
 
@@ -2765,6 +2765,132 @@ Racing (Montevideo)
 
 
 Más noticias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+América
+
+
+
+Cruel mensaje de Chilavert tras la muerte de Menotti: "Los monos seguimos vivos y sin hijos drogadictos"
+
+
+
+
+Redacción: ENRIQUE CORBELLA
+
+
+
+
+
+
+
+
+
+42 comentarios
+
+
+
+
+Cruel mensaje de Chilavert tras la muerte de Menotti: "Los monos seguimos vivos y sin hijos drogadictos"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+América
+
+
+
+El gol de la momia: vendas, sangre, puntos y proeza
+
+
+
+
+Redacción: ENRIQUE CORBELLA
+
+
+
+
+
+
+
+
+
+1 comentarios
+
+
+
+
+El gol de la momia: vendas, sangre, puntos y proeza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+América
+
+
+
+Una más de Bolasie: el excéntrico 'regate' en su nueva etapa en Brasil
+
+
+
+
+Redacción: PABLO ARNAO
+
+
+
+
+
+
+
+
+
+4 comentarios
+
+
+
+
+Una más de Bolasie: el excéntrico 'regate' en su nueva etapa en Brasil
+
 
 
 
@@ -3451,132 +3577,6 @@ Redacción: EFE
 
 
 Robinho cumplirá en Brasil la condena de nueve años de cárcel que se le impuso en Italia por violación
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-América
-
-
-
-René Higuita sostiene que cambió las normas del fútbol con su Escorpión: "La mejor jugada de la historia"
-
-
-
-
-Redacción: ENRIQUE CORBELLA
-
-
-
-
-
-
-
-
-
-2 comentarios
-
-
-
-
-René Higuita sostiene que cambió las normas del fútbol con su Escorpión: "La mejor jugada de la historia"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-América
-
-
-
-Messi se cae de la convocatoria de Argentina por lesión
-
-
-
-
-Redacción: JAIME RINCÓN
-
-
-
-
-
-
-
-
-
-56 comentarios
-
-
-
-
-Messi se cae de la convocatoria de Argentina por lesión
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-América
-
-
-
-Altamirano sufre un ataque epiléptico en el campo y suspenden el Estudiantes vs Boca
-
-
-
-
-Redacción: EFE
-
-
-
-
-
-
-
-
-
-3 comentarios
-
-
-
-
-Altamirano sufre un ataque epiléptico en el campo y suspenden el Estudiantes vs Boca
 
 
  

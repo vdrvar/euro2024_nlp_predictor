@@ -107,6 +107,7 @@ eSport Sport Games | NBA 2K - UFL - F1 22 - Football Manager - kicker
 
 
 
+
 auf kicker.de bleiben
 
 
@@ -917,8 +918,8 @@ eSport News Update
                 News Update
             
 
-Esports World Cup terminiert: Fast acht Wochen für 19 Disziplinen
-Das kicker eSport News Update: Der Esports World Cup in Saudi-Arabien ist terminiert worden - er erstreckt sich über beinahe zwei Monate.
+FC 24: Title-Update 14 soll ein Vertragsproblem in FUT lösen
+Das kicker eSport News Update: Das 14. Title-Update für EA SPORTS FC 24 nimmt sich einem Fehler mit den Verträge-Items in FUT an.
 
 
 
@@ -955,19 +956,35 @@ Eine Dekade eSport beim kicker - Wir feiern Geburtstag
 
 
 
+
+
+
+
+
+                Produktmanagerin im Jubiläums-Interview
+            
+
+10 Jahre kicker eSport: "Boulevard ist ein absolutes No-Go"
+10 Jahre Berichterstattung zum virtuellen Wettbewerb: kicker eSport feiert großes Jubiläum. Produktmanagerin Nicole Lange spricht im Interview über Anfänge, Entwicklung und den Vergleich zum traditionellen Sport.
+
+
+
+
+
+
+
+
  
 
 
 
 
+                    Eine Dekade eSport-Extraklasse
 
-
-
-                Eine Dekade eSport-Extraklasse
-            
-
+                
 kicker eSport feiert Geburtstag: 10 Jahre Enthüllungen, Meilensteine und Erfolge!
-Ein Jahrzehnt gibt es kicker eSport nun schon. Das wollen wir feiern! Von unseren ersten Schritten bis zum kicker-Ressort - Unsere Geschichte im Video:
+
+
 
 
 
@@ -1272,13 +1289,27 @@ Football Manager 2024
 
 
 
-                Worauf es beim Angriffspressing ankommt
+                Raus aus den Schulden
             
 
+Mehr Geld im FM24: Wie ihr euren Verein reich macht
+Obwohl ihr im Football Manager vorrangig für die sportlichen Belange verantwortlich seid, könnt ihr auch auf die Finanzen Einfluss nehmen. Wir haben Tipps zusammengestellt, wie ihr euren Geldspeicher füllt.
+
+
+
+
+
+
+
+
+
+
+
+
+                    Worauf es beim Angriffspressing ankommt
+
+                
 FM 24: Die wichtigsten Attribute für das Forechecking
-Angriffspressing im Football Manager. Eine Meta-Taktik, die zum Erfolg führt. Um die Spielform zu meistern, ist jedoch Know-How vonnöten - Fettnäpfchen gibt es viele. Wir zeigen euch acht Attribute, auf die ihr achten müsst.
-
-
 
 
 
@@ -1317,20 +1348,6 @@ Brighton-Verteidiger van Hecke: "Ich habe durch den FM viel über Taktik gelernt
 
 
 
-                    Transfers, Taktik und Mitarbeiter
-
-                
-FM24: Vier große Anfängerfehler - und wie ihr sie vermeidet
-
-
-
-
-
-
-
-
-
-
 Podcast esport
 
 
@@ -1356,12 +1373,12 @@ Podcast esport
 
 
 
-Nintendo nicht auf der gamescom 2024!
-In /gg Folge 42 sprechen wir über die gamescom-Absage von Nintendo, den VBL-Gewinner 2024 und 60 Million US-Dollar-Preisgeld in Saudi-Arabien.
+Blizzard, gamescom und Helldivers II vs. Sony!
+In /gg Folge 43 geht es um den eSports World Cup, Blizzard auf der gamescom, 10 Jahre kicker eSport sowie Helldivers II und den Kampf der Community gegen Sony.
 
 
-23.04.24 - 00:01 Uhr
-41:25 Minuten
+07.05.24 - 15:00 Uhr
+47:07 Minuten
 
 
 
@@ -1479,13 +1496,41 @@ eSport Szene
 
 
 
-                Branchengespräch über Ökonomie und Gemeinnützigkeit
+                Viertes Quartal fällt ab
             
 
+FC-24-Rekordjahr: EA feiert Gewinne - aber der jüngste Trend ist negativ
+Der neue EA-Quartalsbericht rundet das Geschäftsjahr 2024 beim Videospiel-Giganten ab. Der Fokus liegt auf dem finanziellen Wachstum im Vergleich zu 2023 - und auf der Erklärung des negativen Trends.
+
+
+
+
+
+
+
+
+
+
+
+
+                    Auszahlungen nach Höhe der EWC-Zuschauer geplant
+
+                
+Esports World Cup unterstützt 30 eSport-Organisationen
+
+
+
+
+
+
+
+
+
+
+                    Branchengespräch über Ökonomie und Gemeinnützigkeit
+
+                
 "Anschluss an die Spitze schaffen": Was sich der ESBD von der Bundesregierung erhofft
-Weiterhin beschäftigt die Gemeinnützigkeit des eSports Branche wie Politik. In einem Gespräch im Wirtschaftsministerium kamen 50 Branchenvertreter zusammen, um ihre Wünsche und Visionen zu besprechen.
-
-
 
 
 
@@ -1500,34 +1545,6 @@ Weiterhin beschäftigt die Gemeinnützigkeit des eSports Branche wie Politik. In
 
                 
 EA Play bis zu 60 Prozent teurer: Mehr Kosten, aber weniger Test-Zeit
-
-
-
-
-
-
-
-
-
-
-                    Schwatzen, Zusammenkommen, nicht totgetrampelt werden
-
-                
-"Endloses Wachstum schadet" - Caggtus will gemütlich bleiben
-
-
-
-
-
-
-
-
-
-
-                    "Wenig problemlösend orientiertes Denken"
-
-                
-Gemeinnützigkeit im eSport: "Nicht mal der erste Schritt wurde gemacht"
 
 
 
@@ -1707,6 +1724,41 @@ Weitere News zu Sport Games
 
 
 
+29.03.24 - 12:42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transfers, Taktik und Mitarbeiter
+
+
+                        FM24: Vier große Anfängerfehler - und wie ihr sie vermeidet
+                    
+
+
+                    Zusammen mit FM-Experte Tery Whenett stellen wir euch vier gängige Fehler vor, zu denen der Football Manager 2024 Anfänger verleiten könnte - und geben euch Tipps an die Hand, wie ihr sie vermeidet.
+                
+
+
+
+
+                Zusammen mit FM-Experte Tery Whenett stellen wir euch vier gängige Fehler vor, zu denen der Football Manager 2024 Anfänger verleiten könnte - und geben euch Tipps an die Hand, wie ihr sie vermeidet.
+            
+
+
+
+
 26.03.24 - 14:30
 
 
@@ -1848,43 +1900,6 @@ Große Spieler für wenig Geld?
 
 
                 Per Bug lassen sich im Football Manager 2024 Haaland oder Mbappé für wenig Geld verpflichten. Mit einem Fünftligisten und Top-Stars in kurzer Zeit an die Weltspitze? Das wird unter Umständen trotzdem nicht gelingen.
-            
-
-
-
-
-18.02.24 - 17:51
-
-
-
-
-
-
-
-
- 
-
-
-
- 
-
-
-
-
-Brasilien dominiert die Liste
-
-
-                        Bayern-Trio der Zukunft? Die größten Offensiv-Talente im FM24
-                    
-
-
-                    Tery Whenett stellt euch die größten Offensiv-Talente im Football Manager 2024 vor: Drei von ihnen könnten die Zukunft des FC Bayern prägen. Dominierende Nation ist aber Brasilien, während nur ein Deutscher dabei ist.
-                
-
-
-
-
-                Tery Whenett stellt euch die größten Offensiv-Talente im Football Manager 2024 vor: Drei von ihnen könnten die Zukunft des FC Bayern prägen. Dominierende Nation ist aber Brasilien, während nur ein Deutscher dabei ist.
             
 
 

@@ -20,7 +20,7 @@ Calendario Liga Chilena 2024 - Resultado de partidos
 
 
 
-Es noticia: Nadal - De MiñaurChelsea - BarcelonaAlmería - GetafeAlavés - CeltaJorge MartínCarrera sprint MotoGPMotoGP horario clasificación Nadal y AlcarazCuándo juega NadalAlineación AtléticoChelsea - Barcelona dónde verAlavés - Celta dónde verAtlético - Athletic dónde verCuándo juega AlcarazGabriela ArrocetCarlos RodríguezLotería Nacional hoyPedro SánchezNiño BecerraFirst DatesMaría del MonteGP España MotoGPMutua Madrid OpenPrecio luz hoyFútbol HoyClasificación LigaCalendario F1Portada de Marca
+Es noticia: Madrid - BayernDónde ver Real Madrid hoyAlonso Real MadridAlineación Real Madrid hoySocios Real MadridReal Madrid - Bayern árbitroBrujas - FiorentinaFinal ChampionsBarcelona - OlympiacosKipchogeCuando juega NadalEmbalses Catalunya hoyLaura EscanesRisto MejideMaría LeónIndycarCecilia Sopeña OnlyfansNiño BecerraNacho AbadPrecio luz hoyRosario PortoReal MadridBayernChampions LeagueMotoGP GP FranciaMasters RomaFútbol HoyCalendario F1Sans MbappéPortada de Marca
 
 Edición seleccionada
 ES 
@@ -1974,7 +1974,7 @@ Unión Española
 
 Deportes Copiapó
 
-27/04 21:00
+0-1
 
 Universidad Católica
 
@@ -1989,7 +1989,7 @@ Universidad Católica
 
 Ñublense
 
-27/04 23:30
+6-0
 
 Cobreloa
 
@@ -2004,7 +2004,7 @@ Cobreloa
 
 Everton de Viña del Mar
 
-28/04 18:30
+1-2
 
 Coquimbo Unido
 
@@ -2019,7 +2019,7 @@ Coquimbo Unido
 
 Huachipato
 
-28/04 21:00
+0-4
 
 Universidad de Chile
 
@@ -2034,7 +2034,7 @@ Universidad de Chile
 
 Colo-Colo
 
-29/04 00:00
+3-1
 
 Unión La Calera
 
@@ -2049,7 +2049,7 @@ Unión La Calera
 
 Deportes Iquique
 
-29/04 02:30
+2-1
 
 Palestino
 
@@ -2064,7 +2064,7 @@ Palestino
 
 Audax Italiano
 
-30/04 02:30
+0-1
 
 Cobresal
 
@@ -2098,7 +2098,7 @@ Equipo visitante
 
 Palestino
 
-03/05 21:30
+3-1
 
 Deportes Copiapó
 
@@ -2113,7 +2113,7 @@ Deportes Copiapó
 
 Coquimbo Unido
 
-04/05 01:00
+3-1
 
 Huachipato
 
@@ -2128,7 +2128,7 @@ Huachipato
 
 Cobresal
 
-04/05 21:00
+2-2
 
 Colo-Colo
 
@@ -2143,7 +2143,7 @@ Colo-Colo
 
 Unión Española
 
-05/05 02:00
+1-2
 
 Universidad Católica
 
@@ -2158,7 +2158,7 @@ Universidad Católica
 
 Unión La Calera
 
-05/05 18:30
+2-1
 
 Ñublense
 
@@ -2171,24 +2171,9 @@ Unión La Calera
 
 
 
-Cobreloa
-
-05/05 21:00
-
-Everton de Viña del Mar
-
-
-
-
-
-
-
-
-
-
 Universidad de Chile
 
-05/05 23:30
+2-2
 
 Deportes Iquique
 
@@ -2201,9 +2186,24 @@ Deportes Iquique
 
 
 
+Cobreloa
+
+1-2
+
+Everton de Viña del Mar
+
+
+
+
+
+
+
+
+
+
 O'Higgins
 
-06/05 02:00
+0-5
 
 Audax Italiano
 
@@ -2240,21 +2240,6 @@ Huachipato
 11/05 18:30
 
 Unión Española
-
-
-
-
-
-
-
-
-
-
-Coquimbo Unido
-
-11/05 21:00
-
-Palestino
 
 
 
@@ -2345,6 +2330,21 @@ Unión La Calera
 14/05 01:00
 
 Universidad de Chile
+
+
+
+
+
+
+
+
+
+
+Coquimbo Unido
+
+07/06 02:00
+
+Palestino
 
 
 

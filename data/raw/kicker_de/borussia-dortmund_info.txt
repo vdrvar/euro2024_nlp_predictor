@@ -108,6 +108,7 @@ Borussia Dortmund | Vereinsprofil 2023/24 | Alle Teaminfos - kicker
 
 
 
+
 auf kicker.de bleiben
 
 
@@ -1200,93 +1201,6 @@ Die letzten 10 Spiele
 
 
 
-SVW
-
-
-
-
-1
-:
-2
-
-
-
-
-BVB
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-BVB
-
-
-
-
-2
-:
-0
-
-
-
-
-PSV
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-BVB
-
-
-
-
-3
-:
-1
-
-
-
-
-SGE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 FCB
 
 
@@ -1483,6 +1397,93 @@ BVB
 
 
 
+
+
+
+
+
+
+
+BVB
+
+
+
+
+1
+:
+0
+
+
+
+
+PSG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BVB
+
+
+
+
+5
+:
+1
+
+
+
+
+FCA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PSG
+
+
+
+
+0
+:
+1
+
+
+
+
+BVB
+
+
+
+
+
+
+
+
+
  
 
 
@@ -1507,7 +1508,7 @@ Wettbewerbe
 
 Bundesliga
 5. Platz
-57 Punkte
+60 Punkte
 
 
 
@@ -1549,7 +1550,23 @@ Die nächsten Spiele
 
 
 
-Champions League – Halbfinale
+Bundesliga – 33. Spieltag
+
+
+
+
+
+
+1. FSV Mainz 05 
+Mainz 
+
+
+
+
+
+
+Sa.
+18:30
 
 
 
@@ -1564,23 +1581,7 @@ Dortmund
 
 
 
-Mi.
-21:00
-
-
-
-
-
-
-Paris St. Germain 
-Paris SG 
-
-
-
-
-
-
-Bundesliga – 32. Spieltag
+Bundesliga – 34. Spieltag
 
 
 
@@ -1595,7 +1596,7 @@ Dortmund
 
 
 
-04.05.
+18.05.
 15:30
 
 
@@ -1603,31 +1604,15 @@ Dortmund
 
 
 
-FC Augsburg 
-Augsburg 
+SV Darmstadt 98 
+Darmstadt 
 
 
 
 
 
 
-Champions League – Halbfinale
-
-
-
-
-
-
-Paris St. Germain 
-Paris SG 
-
-
-
-
-
-
-07.05.
-21:00
+Champions League – Finale in Wembley
 
 
 
@@ -1636,6 +1621,22 @@ Paris SG
 
 Borussia Dortmund 
 Dortmund 
+
+
+
+
+
+
+01.06.
+21:00
+
+
+
+
+
+
+Bayern/Real 
+Bayern/Real 
 
 
 
@@ -1720,7 +1721,7 @@ Geschäftsführung
                             Hans-Joachim Watzke (Vorsitzender)
                             
                         
-                        Carsten Cramer (Vertrieb, Marketing und Digitalisierung)                        Thomas Treß (Finanzen)                    
+                        Carsten Cramer (Vertrieb, Marketing und Digitalisierung)                        Thomas Treß (Finanzen)                        Lars Ricken                    
 
 Präsident des e.V.
 
@@ -1739,6 +1740,13 @@ Schatzmeister
 Vizepräsidentin
 
                             Silke Seidel
+                            
+                        
+                    
+
+Technischer Direktor
+
+                            Sven Mislintat
                             
                         
                     

@@ -23,6 +23,10 @@ Classement Serie A 2023-2024 : Championnat d'Italie - Football - L'Équipe
                 voir les directs
               L'ÉQUIPE        réglages  accessibilité  
                         Paris 2024
+                    
+                        Giro
+                    
+                        PSG - Dortmund
                            
             lire le journal
                 
@@ -104,6 +108,8 @@ Classement Serie A 2023-2024 : Championnat d'Italie - Football - L'Équipe
                 
                 NFL
                    
+            patinage de vitesse
+                
             pentathlon moderne
                 
             skateboard
@@ -207,7 +213,7 @@ Classement Serie A 2023-2024 : Championnat d'Italie - Football - L'Équipe
             aide et contact
                 
             nous contacter
-                       
+                        
                 L'ÉQUIPE
              
       
@@ -260,279 +266,281 @@ Classement Serie A 2023-2024 : Championnat d'Italie - Football - L'Équipe
                             1
                          
                                 Inter Milan
-                              86  33 27 5 1 79 18 +61  
+                              89  35 28 5 2 81 19 +62  
                             2
                          
                                 AC Milan
-                              69  33 21 6 6 64 39 +25  
+                              71  35 21 8 6 67 42 +25  
                             3
                          
                                 Juventus Turin
-                              64  33 18 10 5 47 26 +21  
+                              66  35 18 12 5 48 27 +21  
                             4
                          
                                 Bologne
-                              62  33 17 11 5 48 26 +22  
+                              64  35 17 13 5 49 27 +22  
                             5
                          
-                                AS Rome
-                              58  33 17 7 9 59 39 +20  
+                                Atalanta Bergame
+                             
+                                    1
+                                 60  34 18 6 10 63 38 +25  
                             6
                          
-                                Atalanta Bergame
-                              54  32 16 6 10 59 37 +22  
+                                AS Rome
+                             
+                                    1
+                                 60  35 17 9 9 62 42 +20  
                             7
                          
                                 Lazio Rome
-                              52  33 16 4 13 42 35 +7  
+                              56  35 17 5 13 45 37 +8  
                             8
                          
                                 Naples
-                              49  33 13 10 10 50 41 +9  
+                             
+                                    1
+                                 51  35 13 12 10 53 44 +9  
                             9
                          
                                 Fiorentina
-                              47  32 13 8 11 45 36 +9  
+                             
+                                    1
+                                 50  34 14 8 12 51 39 +12  
                             10
                          
                                 Torino
-                              46  33 11 13 9 31 29 +2  
+                              47  35 11 14 10 31 31 0  
                             11
                          
                                 Monza
-                              44  34 11 11 12 36 44 -8  
+                              45  35 11 12 12 38 46 -8  
                             12
                          
                                 Genoa
-                              39  33 9 12 12 35 40 -5  
+                              43  35 10 13 12 41 43 -2  
                             13
                          
                                 Lecce
-                              36  34 8 12 14 31 49 -18  
+                              37  35 8 13 14 32 50 -18  
                             14
                          
-                                Cagliari
-                              32  33 7 11 15 36 56 -20  
-                            15
-                         
                                 Hellas Vérone
-                              31  33 7 10 16 31 44 -13  
-                            16
-                         
-                                Empoli
-                              31  33 8 7 18 26 48 -22  
-                            17
-                         
-                                Frosinone
                              
                                     1
-                                 31  34 7 10 17 43 63 -20  
+                                 34  35 8 10 17 33 46 -13  
+                            15
+                         
+                                Cagliari
+                             
+                                    1
+                                 33  35 7 12 16 37 60 -23  
+                            16
+                         
+                                Frosinone
+                              32  35 7 11 17 43 63 -20  
+                            17
+                         
+                                Empoli
+                              32  35 8 8 19 26 50 -24  
                             18
                          
                                 Udinese
-                             
-                                    1
-                                 28  33 4 16 13 31 50 -19  
+                              30  35 4 18 13 33 52 -19  
                             19
                          
                                 Sassuolo
-                              26  33 6 8 19 39 65 -26  
+                              29  35 7 8 20 41 70 -29  
                             20
                          
                                 Salernitana
-                              15  34 2 9 23 26 73 -47           
+                              15  35 2 9 24 27 75 -48           
                 L'ÉQUIPE
              
    
                 chrono
-                filtrer :  football      
-                17:34
+                filtrer :  tennis      
+                21:23
               
             Foot,
         
-            ALL
+            C4
           
-            Dortmund largement battu à Leipzig avant de recevoir le PSG
+            La Fiorentina retourne en finale
          
-                17:07
+                21:03
               
             Foot,
         
-            ANG,
-        
-            Liverpool
+            C1
           
-            Échange tendu entre Salah et Klopp
+            Les sept erreurs fatales du PSG
          
-                16:57
+                20:05
+              
+            Foot,
+        
+            D1 Arkema
+          
+            Reims chipe la quatrième place à Fleury et file en play-offs
+         
+                20:02
+              
+            Foot,
+        
+            C1,
+        
+            PSG
+          
+            Mbappé, l'annonce qui a tout changé
+         
+                19:48
+              
+            Foot,
+        
+            C3,
+        
+            OM
+          
+            Gasset : «Il faudra faire le match idéal»
+         
+                19:43
+              
+            Foot,
+        
+            C1,
+        
+            Real
+          
+            Tchouaméni titulaire, Camavinga remplaçant
+         
+                19:18
               
             Foot,
         
             L1,
         
-            Rennes
+            Brest
           
-            Mandanda, un vétéran qui assure
+            Lees-Melou : « Je n'ai pas bien compris certains comportements »
          
-                16:56
+                18:44
               
             Foot,
         
-            ALL,
+            L2,
         
-            Francfort
+            Saint-Étienne
           
-            Le joli but d'Ekitike contre le Bayern
+            Larsonneur incertain contre Rodez
+         
+                18:40
+              
+            Foot,
+        
+            Euro U17 (F)
+          
+            Le résumé de Norvège - France en vidéo
+         
+                18:30
+              
+            Foot,
+        
+            Bleus
+          
+            Faites votre liste pour l'Euro 2024
+         
+                18:30
+              
+            Foot,
+        
+            Un Max de C1
+          
+            Ferland Mendy, le chouchou d'Ancelotti
+         
+                18:20
+              
+            Foot,
+        
+            Euro U17 (F)
+          
+            La France écrase la Norvège
+         
+                18:20
+              
+            Foot,
+        
+            C3,
+        
+            OM
+          
+            L'Atalanta, le club où Longoria a beaucoup appris
+         
+                17:55
+              
+            Foot,
+        
+            C1,
+        
+            PSG
+          
+            Cissé : « Un hamburger froid avec des frites molles ! »
+         
+                17:43
+              
+            Foot,
+        
+            C3,
+        
+            Leverkusen
+          
+            Xabi Alonso : «C'est très positif pour la Bundesliga
+         
+                17:13
+              
+            Foot,
+        
+            Transferts
+          
+            Monaco accélère pour Mawissa (Toulouse)
          
                 16:54
               
             Foot,
         
-            L2
+            Transferts
           
-            Saint-Étienne met la pression sur Angers
+            Beye a annoncé son départ du Red Star
          
-                16:16
+                16:45
               
             Foot,
         
-            ESP
+            C1,
+        
+            Real
           
-            Gérone s'impose à Las Palmas et grimpe à la 2e place
+            Vinicius, digne successeur de Benzema
          
-                15:40
+                16:19
               
             Foot,
         
-            L1,
+            C1,
         
-            Lille
+            Real
           
-            Ounas ne rejouera plus avec l'équipe première
+            Le staff des Bleus supervisera Mendy ce soir
          
-                15:34
+                16:17
               
             Foot,
         
-            ANG
+            C3,
+        
+            Atalanta
           
-            Avec un nul à West Ham, Liverpool s'éloigne encore du titre
-         
-                15:32
-              
-            Foot,
-        
-            L1,
-        
-            Lorient
-          
-            Kari absent deux semaines
-         
-                15:29
-              
-            Foot,
-        
-            C1 (F)
-          
-            Geyoro : «Cela montrerait que le PSG est encore plus fort»
-         
-                15:28
-              
-            Foot,
-        
-            C1 (F),
-        
-            PSG
-          
-            J. Prêcheur : «Pas de doute sur leur capacité à le faire»
-         
-                15:23
-              
-            Foot,
-        
-            L1,
-        
-            Le Havre
-          
-            Le centre de formation, une Cavée d'exception
-         
-                15:13
-              
-            Foot,
-        
-            C1 (F),
-        
-            PSG
-          
-            Kiedrzynek forfait contre l'OL
-         
-                15:02
-              
-            Foot,
-        
-            L1,
-        
-            Lille
-          
-            Fonseca : «Mon futur n'est pas important»
-         
-                14:53
-              
-            Foot,
-        
-            POR,
-        
-            Sporting
-          
-            En discussions avec West Ham, Amorim s'excuse auprès des supporters
-         
-                14:51
-              
-            Foot,
-        
-            L1,
-        
-            PSG
-          
-            Les jambes au Parc, la tête à Dortmund
-         
-                14:42
-              
-            Foot,
-        
-            L1,
-        
-            Lille
-          
-            André devrait manquer deux matches
-         
-                14:31
-              
-            Foot,
-        
-            L1,
-        
-            Le Havre
-          
-            Courel, l'homme qui façonne les jeunes gardiens
-         
-                13:28
-              
-            Foot,
-        
-            ANG
-          
-            Areola supervisé ce week-end par Raviot
-         
-                13:22
-              
-            Foot,
-        
-            C1 (F),
-        
-            OL
-          
-            Bompastor : «On est sûres de nos forces»
+            Kolasinac : «Aubameyang n'est pas le seul danger à l'OM»
            
                 L'ÉQUIPE
              
@@ -790,7 +798,7 @@ Classement Serie A 2023-2024 : Championnat d'Italie - Football - L'Équipe
                 accessibilité
              
                 revenir en haut
-                        
+                         
 
 
 

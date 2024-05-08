@@ -23,6 +23,10 @@ Classement Premier League 2023-2024 : Championnat d'Angleterre - Football - L'É
                 voir les directs
               L'ÉQUIPE        réglages  accessibilité  
                         Paris 2024
+                    
+                        Giro
+                    
+                        PSG - Dortmund
                            
             lire le journal
                 
@@ -104,6 +108,8 @@ Classement Premier League 2023-2024 : Championnat d'Angleterre - Football - L'É
                 
                 NFL
                    
+            patinage de vitesse
+                
             pentathlon moderne
                 
             skateboard
@@ -207,7 +213,7 @@ Classement Premier League 2023-2024 : Championnat d'Angleterre - Football - L'É
             aide et contact
                 
             nous contacter
-                       
+                        
                 L'ÉQUIPE
              
       
@@ -262,275 +268,279 @@ Classement Premier League 2023-2024 : Championnat d'Angleterre - Football - L'É
                             1
                          
                                 Arsenal
-                              77  34 24 5 5 82 26 +56  
+                              83  36 26 5 5 88 28 +60  
                             2
                          
                                 Manchester City
-                              76  33 23 7 3 80 32 +48  
+                              82  35 25 7 3 87 33 +54  
                             3
                          
                                 Liverpool
-                              75  35 22 9 4 77 36 +41  
+                              78  36 23 9 4 81 38 +43  
                             4
                          
                                 Aston Villa
-                              66  34 20 6 8 71 50 +21  
+                              67  36 20 7 9 73 53 +20  
                             5
                          
                                 Tottenham
-                              60  32 18 6 8 65 49 +16  
+                              60  35 18 6 11 69 58 +11  
                             6
                          
-                                Manchester United
-                              53  33 16 5 12 51 50 +1  
+                                Newcastle
+                             
+                                    1
+                                 56  35 17 5 13 78 56 +22  
                             7
                          
-                                Newcastle
-                              50  33 15 5 13 69 54 +15  
+                                Chelsea
+                             
+                                    1
+                                 54  35 15 9 11 70 59 +11  
                             8
                          
-                                West Ham
-                              49  35 13 10 12 56 65 -9  
+                                Manchester United
+                             
+                                    2
+                                 54  35 16 6 13 52 55 -3  
                             9
                          
-                                Chelsea
-                              47  32 13 8 11 61 57 +4  
+                                West Ham
+                              49  36 13 10 13 56 70 -14  
                             10
                          
                                 Bournemouth
-                              45  34 12 9 13 49 60 -11  
+                              48  36 13 9 14 52 63 -11  
                             11
                          
                                 Brighton
-                              44  33 11 11 11 52 54 -2  
+                             
+                                    1
+                                 47  35 12 11 12 53 57 -4  
                             12
                          
                                 Wolverhampton
-                              43  34 12 7 15 46 54 -8  
+                             
+                                    1
+                                 46  36 13 7 16 49 60 -11  
                             13
                          
                                 Fulham
-                              42  34 12 6 16 50 54 -4  
+                              44  36 12 8 16 51 55 -4  
                             14
                          
                                 Crystal Palace
-                              39  34 10 9 15 44 56 -12  
+                              43  36 11 10 15 49 57 -8  
                             15
                          
-                                Brentford
-                              35  34 9 8 17 52 59 -7  
+                                Everton
+                              37  36 12 9 15 38 49 -11  
                             16
                          
-                                Everton
-                              33  34 11 8 15 36 48 -12  
+                                Brentford
+                              36  36 9 9 18 52 60 -8  
                             17
                          
                                 Nottingham Forest
-                              26  34 7 9 18 42 60 -18  
+                              29  36 8 9 19 45 63 -18  
                             18
                          
                                 Luton
-                              25  34 6 7 21 47 75 -28  
+                              26  36 6 8 22 49 78 -29  
                             19
                          
                                 Burnley
-                              23  34 5 8 21 37 69 -32  
+                              24  36 5 9 22 39 74 -35  
                             20
                          
                                 Sheffield United
-                              16  34 3 7 24 33 92 -59           
+                              16  36 3 7 26 35 100 -65           
                 L'ÉQUIPE
              
    
                 chrono
                 filtrer :  football      
-                17:34
+                21:23
               
             Foot,
         
-            ALL
+            C4
           
-            Dortmund largement battu à Leipzig avant de recevoir le PSG
+            La Fiorentina retourne en finale
          
-                17:07
+                21:03
               
             Foot,
         
-            ANG,
-        
-            Liverpool
+            C1
           
-            Échange tendu entre Salah et Klopp
+            Les sept erreurs fatales du PSG
          
-                16:57
+                20:05
+              
+            Foot,
+        
+            D1 Arkema
+          
+            Reims chipe la quatrième place à Fleury et file en play-offs
+         
+                20:02
+              
+            Foot,
+        
+            C1,
+        
+            PSG
+          
+            Mbappé, l'annonce qui a tout changé
+         
+                19:48
+              
+            Foot,
+        
+            C3,
+        
+            OM
+          
+            Gasset : «Il faudra faire le match idéal»
+         
+                19:43
+              
+            Foot,
+        
+            C1,
+        
+            Real
+          
+            Tchouaméni titulaire, Camavinga remplaçant
+         
+                19:18
               
             Foot,
         
             L1,
         
-            Rennes
+            Brest
           
-            Mandanda, un vétéran qui assure
+            Lees-Melou : « Je n'ai pas bien compris certains comportements »
          
-                16:56
+                18:44
               
             Foot,
         
-            ALL,
+            L2,
         
-            Francfort
+            Saint-Étienne
           
-            Le joli but d'Ekitike contre le Bayern
+            Larsonneur incertain contre Rodez
+         
+                18:40
+              
+            Foot,
+        
+            Euro U17 (F)
+          
+            Le résumé de Norvège - France en vidéo
+         
+                18:30
+              
+            Foot,
+        
+            Bleus
+          
+            Faites votre liste pour l'Euro 2024
+         
+                18:30
+              
+            Foot,
+        
+            Un Max de C1
+          
+            Ferland Mendy, le chouchou d'Ancelotti
+         
+                18:20
+              
+            Foot,
+        
+            Euro U17 (F)
+          
+            La France écrase la Norvège
+         
+                18:20
+              
+            Foot,
+        
+            C3,
+        
+            OM
+          
+            L'Atalanta, le club où Longoria a beaucoup appris
+         
+                17:55
+              
+            Foot,
+        
+            C1,
+        
+            PSG
+          
+            Cissé : « Un hamburger froid avec des frites molles ! »
+         
+                17:43
+              
+            Foot,
+        
+            C3,
+        
+            Leverkusen
+          
+            Xabi Alonso : «C'est très positif pour la Bundesliga
+         
+                17:13
+              
+            Foot,
+        
+            Transferts
+          
+            Monaco accélère pour Mawissa (Toulouse)
          
                 16:54
               
             Foot,
         
-            L2
+            Transferts
           
-            Saint-Étienne met la pression sur Angers
+            Beye a annoncé son départ du Red Star
          
-                16:16
+                16:45
               
             Foot,
         
-            ESP
+            C1,
+        
+            Real
           
-            Gérone s'impose à Las Palmas et grimpe à la 2e place
+            Vinicius, digne successeur de Benzema
          
-                15:40
+                16:19
               
             Foot,
         
-            L1,
+            C1,
         
-            Lille
+            Real
           
-            Ounas ne rejouera plus avec l'équipe première
+            Le staff des Bleus supervisera Mendy ce soir
          
-                15:34
+                16:17
               
             Foot,
         
-            ANG
+            C3,
+        
+            Atalanta
           
-            Avec un nul à West Ham, Liverpool s'éloigne encore du titre
-         
-                15:32
-              
-            Foot,
-        
-            L1,
-        
-            Lorient
-          
-            Kari absent deux semaines
-         
-                15:29
-              
-            Foot,
-        
-            C1 (F)
-          
-            Geyoro : «Cela montrerait que le PSG est encore plus fort»
-         
-                15:28
-              
-            Foot,
-        
-            C1 (F),
-        
-            PSG
-          
-            J. Prêcheur : «Pas de doute sur leur capacité à le faire»
-         
-                15:23
-              
-            Foot,
-        
-            L1,
-        
-            Le Havre
-          
-            Le centre de formation, une Cavée d'exception
-         
-                15:13
-              
-            Foot,
-        
-            C1 (F),
-        
-            PSG
-          
-            Kiedrzynek forfait contre l'OL
-         
-                15:02
-              
-            Foot,
-        
-            L1,
-        
-            Lille
-          
-            Fonseca : «Mon futur n'est pas important»
-         
-                14:53
-              
-            Foot,
-        
-            POR,
-        
-            Sporting
-          
-            En discussions avec West Ham, Amorim s'excuse auprès des supporters
-         
-                14:51
-              
-            Foot,
-        
-            L1,
-        
-            PSG
-          
-            Les jambes au Parc, la tête à Dortmund
-         
-                14:42
-              
-            Foot,
-        
-            L1,
-        
-            Lille
-          
-            André devrait manquer deux matches
-         
-                14:31
-              
-            Foot,
-        
-            L1,
-        
-            Le Havre
-          
-            Courel, l'homme qui façonne les jeunes gardiens
-         
-                13:28
-              
-            Foot,
-        
-            ANG
-          
-            Areola supervisé ce week-end par Raviot
-         
-                13:22
-              
-            Foot,
-        
-            C1 (F),
-        
-            OL
-          
-            Bompastor : «On est sûres de nos forces»
+            Kolasinac : «Aubameyang n'est pas le seul danger à l'OM»
            
                 L'ÉQUIPE
              
@@ -788,7 +798,7 @@ Classement Premier League 2023-2024 : Championnat d'Angleterre - Football - L'É
                 accessibilité
              
                 revenir en haut
-                        
+                         
 
 
 
