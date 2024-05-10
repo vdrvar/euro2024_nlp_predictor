@@ -156,8 +156,6 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
                    
                 auto-moto
                    
-                ski-glace
-                   
                 athlétisme
                    
                 natation
@@ -167,6 +165,8 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
                 golf
                    
                 combat
+                   
+                ski-glace
                    
                 esport
                    
@@ -283,6 +283,25 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
           
             podiums
                                                
+            Foot,
+        
+            AUS
+          
+                    Lydia Williams prendra sa retraite internationale après les JO
+                                                              
+            JO 2024,
+        
+            Foot
+          
+                    La Guinée, dernière qualifiée dans le groupe des Bleuets
+                                                              
+                L'ÉQUIPE
+             
+                
+            JO 2024
+          
+                    L'OM et le foot omniprésents avec la flamme à Marseille
+                                                                             
             Foot
           
                     Mbappé ne «pense pas beaucoup» aux JO
@@ -292,33 +311,10 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
             Foot
           
                     La Guinée ou l'Indonésie dans le groupe des Bleuets
-                                                              
-                L'ÉQUIPE
-             
-                  
+                                                                
             Foot
           
                     Wilfrid Mbappé ne sait pas si son fils participera aux JO
-                                                                             
-            JO 2024,
-        
-            Foot
-          
-                    Le baromètre des Bleuets
-                                                              
-            Le Magazine,
-        
-            Foot,
-        
-            ALL
-          
-                    Le Bayer Leverkusen, une douce pilule, par David Squires
-                                                              
-            Foot,
-        
-            BRE
-          
-                    Marta annonce sa retraite internationale après les Jeux
                                                               
                 L'ÉQUIPE
              
@@ -327,164 +323,162 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
              
    
                 chrono
-                filtrer :  JO 2024      
-                20:15
+                filtrer :  tous les sports      
+                12:00
+              
+            Le Magazine,
+        
+            JO 2024
+          
+            Rencontre avec les quatre médaillables des "nouveaux sports" olympiques
+         
+                11:19
+              
+            Breaking
+          
+            B-boy Dany Dann remporte le Fise de Montpellier
+         
+                10:39
+              
+            Foot,
+        
+            AUS
+          
+            Lydia Williams prendra sa retraite internationale après les JO
+         
+                10:00
+              
+            Tennis,
+        
+            Quête olympique (3/4)
+          
+            Mahut, les Bleus, une passion d'enfance
+         
+                09:16
               
             JO 2024,
         
             Flamme olympique
           
-            Le parcours du 10 mai dans le Var
+            Le parcours du 12 mai dans les Bouches-du-Rhône
          
-                20:12
+                07:52
               
             JO 2024
           
-            Jul allume le chaudron olympique à Marseille
+            À Marseille, la flamme bien entourée
          
-                19:48
+                07:00
               
             JO 2024,
         
-            Aviron
+            Flamme olympique
           
-            Tarantola et Bové face à une grosse adversité pour se qualifier
+            Programme du relais dans le Var et à Toulon
          
-                19:09
+                9 mai
               
-            Athlé
+            JO 2024
           
-            Six à huit semaines de repos pour Jordier
+            Jul, un secret bien gardé
          
-                18:32
+                9 mai
               
             JO 2024,
         
-            Plongeon
+            Flamme olympique
           
-            La paire Jandard-Bouyer deuxième du test event à Saint-Denis
+            Drogba allume le chaudron devant le Vélodrome
          
-                17:58
+                9 mai
               
-            Athlé,
+            JO 2024,
         
-            Marteau
+            Flamme olympique
           
-            Bigot, rentrée le 16 mai
+            Le parcours du 11 mai dans les Alpes-de-Haute-Provence
          
-                16:46
+                9 mai
               
+            JO 2024,
+        
+            Flamme olympique
+          
+            Gilot : «J'aurais choisi Boli pour allumer le chaudron»
+         
+                9 mai
+              
+            JO 2024,
+        
+            Volley
+          
+            Les Bleus en prépa à Cannes
+         
+                9 mai
+              
+            JO 2024,
+        
             Canoë-kayak,
         
             Sprint
           
-            Pas de quota olympique pour les biplaces français
+            Pas de nouveaux quotas olympiques pour les Bleus
          
-                16:03
+                9 mai
+              
+            Athlé,
+        
+            Perche
+          
+            Collet, programme chargé avant les JO
+         
+                9 mai
               
             JO 2024,
         
-            Reportage
+            Foot
           
-            Dans le sillage du Belem à l'approche de Marseille
+            La Guinée, dernière qualifiée dans le groupe des Bleuets
          
-                13:57
+                9 mai
               
             JO 2024
           
-            Dans les temps sur la sécurité privée
+            L'OM et le foot omniprésents avec la flamme à Marseille
          
-                12:11
+                9 mai
               
-            JO 2024,
+            Tir,
         
-            Tennis de table
+            CM,
+        
+            Bakou
           
-            Ma Long ne défendra pas son titre à Paris
+            Podium pour Kryzs
          
-                11:50
+                9 mai
               
             JO 2024,
         
             Flamme olympique
           
-            Le parcours du 9 mai à Marseille
+            Le flambeau des champions
          
-                11:48
+                9 mai
               
             JO 2024,
         
-            Tennis de table
+            Sécurité
           
-            A. Lebrun et Yuan en double mixte
+            Estanguet : «Un mouvement de foule bien géré»
          
-                11:41
+                9 mai
               
-            JO 2024,
+            Le Magazine,
         
-            Extra,
-        
-            Business
+            JO 2024 Paris
           
-            Des entreprises de la mobilité prêtes à profiter des Jeux
-         
-                11:34
-              
-            JO 2024,
-        
-            Extra,
-        
-            Business
-          
-            Coca a de la bouteille
-         
-                10:57
-              
-            Tir,
-        
-            CM
-          
-            Bessaguet en bronze à Bakou
-         
-                10:52
-              
-            JO 2024,
-        
-            Extra,
-        
-            Business
-          
-            Neuf entreprises pour accompagner la flamme
-         
-                09:23
-              
-            JO 2024
-          
-            La flamme olympique est au large de Marseille
-         
-                08:50
-              
-            JO 2024,
-        
-            Natation
-          
-            Hafnaoui incertain
-         
-                00:00
-              
-            JO 2024,
-        
-            Extra,
-        
-            Business
-          
-            Antoine de Saint-Affrique, DG de Danone : «Nos produits seront tous français»
-         
-                7 mai
-              
-            JO 2024
-          
-            Estanguet : «La flamme arrive chez nous, en France»
+            Roger Lebranchu, doyen des porteurs de la flamme olympique
            
                 L'ÉQUIPE
              
@@ -535,11 +529,11 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
                         
                             club France et fan zone des JO 2024
                          
-                    parcours
+                    parcours 
                  
-                            parcours de la flamme olympique en France
+                            carte du relais de la flamme olympique en France
                         
-                            parcours de la flamme olympique à Paris intra-muros
+                            parcours de la flamme olympique dans Paris 
                         
                             parcours marathon des JO 2024
                         
@@ -549,19 +543,83 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
                         
                             parcours du marathon paralympique et du paracyclisme 2024
                          
-                    calendrier
+                    calendrier et programme de Paris 2024
                  
                             dates de Paris 2024
                         
                             programme d'athlétisme JO 2024
                         
-                            programme natation JO 2024
+                            programme d'aviron JO 2024
                         
-                            programme judo JO 2024
+                            programme de badminton JO 2024
                         
-                            programme escrime JO 2024
+                            programme du basket JO 2024
                         
-                            programme cyclisme sur piste JO 2024
+                            programme du basket 3x3 JO 2024
+                        
+                            programme du beach-volley JO 2024
+                        
+                            programme du BMX JO 2024
+                        
+                            programme de boxe JO 2024
+                        
+                            programme du breakdance JO 2024
+                        
+                            programme de canoë-kayak JO 2024
+                        
+                            programme du cyclisme sur piste JO 2024
+                        
+                            programme cyclisme sur route aux JO 2024
+                        
+                            programme d'équitation JO 2024
+                        
+                            programme d'escrime JO 2024
+                        
+                            calendrier du foot JO 2024
+                        
+                            programme du golf JO 2024
+                        
+                            programme de gymnastique artistique JO 2024
+                        
+                            programme de gym rythmique JO 2024
+                         
+                    ---
+                 
+                            calendrier du handball JO 2024
+                        
+                            programme du hockey sur gazon JO 2024
+                        
+                            programme du judo JO 2024
+                        
+                            programme de lutte JO 2024
+                        
+                            programme de natation JO 2024
+                        
+                            programme de natation en eau libre JO 2024
+                        
+                            programme de natation artistique JO 2024
+                        
+                            programme du pentathlon JO 2024
+                        
+                            programme du plongeon JO 2024
+                        
+                            calendrier rugby à 7 jo 2024
+                        
+                            programme du tennis JO 2024
+                        
+                            programme de tennis de table JO 2024
+                        
+                            programme du tir à l'arc JO 2024
+                        
+                            programme du trampoline JO 2024
+                        
+                            programme du triathlon JO 2024
+                        
+                            programme de voile JO 2024
+                        
+                            programme du volley JO 2024
+                        
+                            programme du water-polo JO 2024
                          
                     équipe de france olympique
                  

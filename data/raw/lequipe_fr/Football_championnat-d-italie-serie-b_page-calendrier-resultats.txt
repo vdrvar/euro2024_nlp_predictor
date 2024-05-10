@@ -156,8 +156,6 @@ Calendrier des matchs de Championnat d'Italie Serie B 2023-2024 - Football - L'�
                    
                 auto-moto
                    
-                ski-glace
-                   
                 athlétisme
                    
                 natation
@@ -167,6 +165,8 @@ Calendrier des matchs de Championnat d'Italie Serie B 2023-2024 - Football - L'�
                 golf
                    
                 combat
+                   
+                ski-glace
                    
                 esport
                    
@@ -356,89 +356,15 @@ Calendrier des matchs de Championnat d'Italie Serie B 2023-2024 - Football - L'�
    
                 chrono
                 filtrer :  football      
-                21:23
+                13:30
               
             Foot,
-        
-            C4
-          
-            La Fiorentina retourne en finale
-         
-                21:03
-              
-            Foot,
-        
-            C1
-          
-            Les sept erreurs fatales du PSG
-         
-                20:05
-              
-            Foot,
-        
-            D1 Arkema
-          
-            Reims chipe la quatrième place à Fleury et file en play-offs
-         
-                20:02
-              
-            Foot,
-        
-            C1,
         
             PSG
           
-            Mbappé, l'annonce qui a tout changé
+            Où situer le nouveau maillot du PSG sur l'échelle d'«Hechter» ?
          
-                19:48
-              
-            Foot,
-        
-            C3,
-        
-            OM
-          
-            Gasset : «Il faudra faire le match idéal»
-         
-                19:43
-              
-            Foot,
-        
-            C1,
-        
-            Real
-          
-            Tchouaméni titulaire, Camavinga remplaçant
-         
-                19:18
-              
-            Foot,
-        
-            L1,
-        
-            Brest
-          
-            Lees-Melou : « Je n'ai pas bien compris certains comportements »
-         
-                18:44
-              
-            Foot,
-        
-            L2,
-        
-            Saint-Étienne
-          
-            Larsonneur incertain contre Rodez
-         
-                18:40
-              
-            Foot,
-        
-            Euro U17 (F)
-          
-            Le résumé de Norvège - France en vidéo
-         
-                18:30
+                12:30
               
             Foot,
         
@@ -446,89 +372,43 @@ Calendrier des matchs de Championnat d'Italie Serie B 2023-2024 - Football - L'�
           
             Faites votre liste pour l'Euro 2024
          
-                18:30
+                12:24
               
             Foot,
         
-            Un Max de C1
+            L1
           
-            Ferland Mendy, le chouchou d'Ancelotti
+            Nice peut encore rêver à la C1
          
-                18:20
+                11:45
               
             Foot,
-        
-            Euro U17 (F)
-          
-            La France écrase la Norvège
-         
-                18:20
-              
-            Foot,
-        
-            C3,
-        
-            OM
-          
-            L'Atalanta, le club où Longoria a beaucoup appris
-         
-                17:55
-              
-            Foot,
-        
-            C1,
         
             PSG
           
-            Cissé : « Un hamburger froid avec des frites molles ! »
+            Spectacle, mode et Mustang : l'histoire derrière le maillot Hechter
          
-                17:43
+                11:32
               
             Foot,
         
-            C3,
+            C4,
         
-            Leverkusen
+            Aston Villa
           
-            Xabi Alonso : «C'est très positif pour la Bundesliga
+            Emery : «Ce n'était pas suffisant»
          
-                17:13
+                11:11
               
             Foot,
         
-            Transferts
+            L1,
+        
+            Brest
           
-            Monaco accélère pour Mawissa (Toulouse)
+            Un destin en main mais...
          
-                16:54
-              
-            Foot,
-        
-            Transferts
-          
-            Beye a annoncé son départ du Red Star
-         
-                16:45
-              
-            Foot,
-        
-            C1,
-        
-            Real
-          
-            Vinicius, digne successeur de Benzema
-         
-                16:19
-              
-            Foot,
-        
-            C1,
-        
-            Real
-          
-            Le staff des Bleus supervisera Mendy ce soir
-         
-                16:17
+                11:10
               
             Foot,
         
@@ -536,7 +416,113 @@ Calendrier des matchs de Championnat d'Italie Serie B 2023-2024 - Football - L'�
         
             Atalanta
           
-            Kolasinac : «Aubameyang n'est pas le seul danger à l'OM»
+            Gasperini : «Notre parcours donne de l'espoir à beaucoup d'équipes»
+         
+                11:01
+              
+            Foot,
+        
+            Euro,
+        
+            Bleus
+          
+            Avec une liste de 26, les primes de victoire évoluent
+         
+                10:59
+              
+            Foot
+          
+            Le PSG dévoile son maillot domicile pour la saison 2024-2025
+         
+                10:47
+              
+            Foot,
+        
+            Médias
+          
+            Le sacre du PSG filmé avec un drone acrobatique
+         
+                10:45
+              
+            Foot,
+        
+            Podcast
+          
+            Replongez dans la saison des Invincibles d'Arsenal
+         
+                10:39
+              
+            Foot,
+        
+            AUS
+          
+            Lydia Williams prendra sa retraite internationale après les JO
+         
+                10:34
+              
+            Foot,
+        
+            L1,
+        
+            Le Havre
+          
+            La peur comme remède pour se maintenir
+         
+                10:33
+              
+            Foot
+          
+            Quels sont les joueurs dont la valeur marchande a le plus augmenté cette saison ?
+         
+                10:23
+              
+            Foot,
+        
+            L2,
+        
+            ASSE
+          
+            Le Chaudron, ferveur record
+         
+                10:22
+              
+            Foot,
+        
+            L1
+          
+            Gameiro quittera Strasbourg en fin de saison
+         
+                09:30
+              
+            Le Magazine,
+        
+            Foot
+          
+            Le rêve américain des clubs européens, par David Squires
+         
+                09:05
+              
+            Foot,
+        
+            ARS
+          
+            Al-Nassr vainqueur, Ronaldo encore buteur
+         
+                08:10
+              
+            Foot,
+        
+            Bleus
+          
+            Qui pourrait remplacer Tchouaméni ?
+         
+                08:09
+              
+            Foot,
+        
+            C3
+          
+            Pourquoi l'OM a manqué son rendez-vous avec l'Atalanta
            
                 L'ÉQUIPE
              

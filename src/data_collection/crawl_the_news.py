@@ -12,12 +12,11 @@ from crawler import crawl
 
 configs = [
     {"domain": "fourfourtwo.com", "url": "https://www.fourfourtwo.com/euro-2024", "max_depth": 1, "filter_path": None},
-    {"domain": "marca.com", "url": "https://www.marca.com/futbol/eurocopa.html?intcmp=MENUMIGA&s_kw=euro-2024", "max_depth": 1, "filter_path": None},
-    {"domain": "kicker.de", "url": "https://www.kicker.de/em/startseite", "max_depth": 1, "filter_path": None},
-    {"domain": "gazzetta.it", "url": "https://www.gazzetta.it/Calcio/Europei/?refresh_ce", "max_depth": 1, "filter_path": "Calcio/Europei"},
+    {"domain": "marca.com", "url": "https://www.marca.com/futbol/eurocopa.html?intcmp=MENUMIGA&s_kw=euro-2024", "max_depth": 1, "filter_path": "eurocopa"},
+    {"domain": "kicker.de", "url": "https://www.kicker.de/em/startseite", "max_depth": 1, "filter_path": "em"},
+    {"domain": "gazzetta.it", "url": "https://www.gazzetta.it/Calcio/Europei/?refresh_ce", "max_depth": 1, "filter_path": "Calcio_Europei"},
     {"domain": "lequipe.fr", "url": "https://www.lequipe.fr/Football/Euro/", "max_depth": 1, "filter_path": "/Football/"}  # Added configuration for L'Équipe
 ]
-
 def start_crawling(configs):
     for config in configs:
         print(f"Starting crawl for {config['domain']} at {config['url']}")

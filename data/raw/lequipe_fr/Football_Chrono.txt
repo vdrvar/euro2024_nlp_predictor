@@ -56,8 +56,6 @@ Chrono Football, le fil d'actu - L'Équipe
                    
                 auto-moto
                    
-                ski-glace
-                   
                 athlétisme
                    
                 natation
@@ -67,6 +65,8 @@ Chrono Football, le fil d'actu - L'Équipe
                 golf
                    
                 combat
+                   
+                ski-glace
                    
                 esport
                    
@@ -255,89 +255,15 @@ Chrono Football, le fil d'actu - L'Équipe
           
             vidéos
                Toutes les news football 
-                21:23
+                13:30
               
             Foot,
-        
-            C4
-          
-            La Fiorentina retourne en finale
-         
-                21:03
-              
-            Foot,
-        
-            C1
-          
-            Les sept erreurs fatales du PSG
-         
-                20:05
-              
-            Foot,
-        
-            D1 Arkema
-          
-            Reims chipe la quatrième place à Fleury et file en play-offs
-         
-                20:02
-              
-            Foot,
-        
-            C1,
         
             PSG
           
-            Mbappé, l'annonce qui a tout changé
+            Où situer le nouveau maillot du PSG sur l'échelle d'«Hechter» ?
          
-                19:48
-              
-            Foot,
-        
-            C3,
-        
-            OM
-          
-            Gasset : «Il faudra faire le match idéal»
-         
-                19:43
-              
-            Foot,
-        
-            C1,
-        
-            Real
-          
-            Tchouaméni titulaire, Camavinga remplaçant
-         
-                19:18
-              
-            Foot,
-        
-            L1,
-        
-            Brest
-          
-            Lees-Melou : « Je n'ai pas bien compris certains comportements »
-         
-                18:44
-              
-            Foot,
-        
-            L2,
-        
-            Saint-Étienne
-          
-            Larsonneur incertain contre Rodez
-         
-                18:40
-              
-            Foot,
-        
-            Euro U17 (F)
-          
-            Le résumé de Norvège - France en vidéo
-         
-                18:30
+                12:30
               
             Foot,
         
@@ -345,80 +271,144 @@ Chrono Football, le fil d'actu - L'Équipe
           
             Faites votre liste pour l'Euro 2024
          
-                18:30
+                12:24
               
             Foot,
         
-            Un Max de C1
+            L1
           
-            Ferland Mendy, le chouchou d'Ancelotti
+            Nice peut encore rêver à la C1
          
-                18:20
+                11:45
               
             Foot,
-        
-            Euro U17 (F)
-          
-            La France écrase la Norvège
-         
-                18:20
-              
-            Foot,
-        
-            C3,
-        
-            OM
-          
-            L'Atalanta, le club où Longoria a beaucoup appris
-         
-                17:55
-              
-            Foot,
-        
-            C1,
         
             PSG
           
-            Cissé : « Un hamburger froid avec des frites molles ! »
+            Spectacle, mode et Mustang : l'histoire derrière le maillot Hechter
          
-                17:43
+                11:32
+              
+            Foot,
+        
+            C4,
+        
+            Aston Villa
+          
+            Emery : «Ce n'était pas suffisant»
+         
+                11:11
+              
+            Foot,
+        
+            L1,
+        
+            Brest
+          
+            Un destin en main mais...
+         
+                11:10
               
             Foot,
         
             C3,
         
-            Leverkusen
+            Atalanta
           
-            Xabi Alonso : «C'est très positif pour la Bundesliga
+            Gasperini : «Notre parcours donne de l'espoir à beaucoup d'équipes»
+         
+                11:01
+              
+            Foot,
+        
+            Euro,
+        
+            Bleus
+          
+            Avec une liste de 26, les primes de victoire évoluent
+         
+                10:59
+              
+            Foot
+          
+            Le PSG dévoile son maillot domicile pour la saison 2024-2025
+         
+                10:47
+              
+            Foot,
+        
+            Médias
+          
+            Le sacre du PSG filmé avec un drone acrobatique
+         
+                10:45
+              
+            Foot,
+        
+            Podcast
+          
+            Replongez dans la saison des Invincibles d'Arsenal
+         
+                10:39
+              
+            Foot,
+        
+            AUS
+          
+            Lydia Williams prendra sa retraite internationale après les JO
+         
+                10:34
+              
+            Foot,
+        
+            L1,
+        
+            Le Havre
+          
+            La peur comme remède pour se maintenir
+         
+                10:33
+              
+            Foot
+          
+            Quels sont les joueurs dont la valeur marchande a le plus augmenté cette saison ?
+         
+                10:23
+              
+            Foot,
+        
+            L2,
+        
+            ASSE
+          
+            Le Chaudron, ferveur record
          
                 L'ÉQUIPE
              
  
-                17:13
+                10:22
               
             Foot,
         
-            Transferts
+            L1
           
-            Monaco accélère pour Mawissa (Toulouse)
+            Gameiro quittera Strasbourg en fin de saison
          
-                16:54
+                09:30
               
-            Foot,
+            Le Magazine,
         
-            Transferts
+            Foot
           
-            Beye a annoncé son départ du Red Star
+            Le rêve américain des clubs européens, par David Squires
          
-                16:45
+                09:05
               
             Foot,
         
-            C1,
-        
-            Real
+            ARS
           
-            Vinicius, digne successeur de Benzema
+            Al-Nassr vainqueur, Ronaldo encore buteur
              
             en direct sur la chaine
           

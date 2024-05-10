@@ -56,8 +56,6 @@ Matchs de Foot en direct : les résultats des matchs d'aujourd'hui et de ce soir
                    
                 auto-moto
                    
-                ski-glace
-                   
                 athlétisme
                    
                 natation
@@ -67,6 +65,8 @@ Matchs de Foot en direct : les résultats des matchs d'aujourd'hui et de ce soir
                 golf
                    
                 combat
+                   
+                ski-glace
                    
                 esport
                    
@@ -220,164 +220,387 @@ Matchs de Foot en direct : les résultats des matchs d'aujourd'hui et de ce soir
             accueil
            
             directs
-              mar 30mer 1jeu 2ven 3sam 4dim 5lun 6hier 7auj 8dem 9ven 10sam 11dim 12lun 13mar 14mer 15jeu 16  
+              jeu 2ven 3sam 4dim 5lun 6mar 7mer 8hier 9auj 10dem 11dim 12lun 13mar 14mer 15jeu 16ven 17sam 18  
                     Matchs en direct
-                        Football  Ligue des champions , Demi-finales Retour 
-                                                    résultats
-                                                    
-                Real Madrid
-              
-            0
-          -  
-            0
-          
-                    Bayern Munich
-                       
-            commenté
-         
-                41'
-              
-                aller : 2 - 2
-                           
-                L'ÉQUIPE
-             
-  D1 Arkema (F) , 22e journée 
+                        Football  Ligue 1 Uber Eats , 33e journée 
                                                     classement
-                                                    
-                    (5)
-                
-                Fleury (F)
-              
-            2
-          -  
-            3
-          
-                    Montpellier (F)
-                    
-                        (6)
-                       
-            commenté
-          
-                     B. Louis 46’
-                
-                     L. Le Garrec 56’
-                 
-                    04’  N. Mondésir (sp)
-                
-                    35’  M. Lakrar 
-                
-                    78’  L. Khelifi 
-                             
-                    (10)
-                
-                Guingamp (F)
-              
-            3
-          -  
-            4
-          
-                    Le Havre (F)
-                    
-                        (9)
-                         
-                     L. Teinturier 02’
-                
-                     A. Peniguel 58’
-                
-                     M. Léger 88’
-                 
-                    32’  C. Effa 
-                
-                    56’  I. Benyahia 
-                
-                    60’  I. Benyahia 
-                
-                    67’  C. Effa 
-                             
+                                                  
                     (3)
                 
-                Paris FC (F)
+                Brest
               
-            0
-          -  
-            1
-          
-                    Dijon (F)
-                    
-                        (8)
+            21h00
+           
+                Reims
+                
+                    (12)
+                 
+        commenté
+        
+                Prime Vidéo
+                         
+                    (5)
+                
+                Nice
+              
+            21h00
+           
+                Le Havre
+                
+                    (15)
+                 
+        commenté
+        
+                Prime Vidéo
                           
-                    79’  L. Declercq 
-                             
+                L'ÉQUIPE
+             
+   Ligue 2 , 37e journée 
+                                                    classement
+                                                  
+                    (16)
+                
+                Dunkerque
+              
+            20h45
+           
+                Caen
+                
+                    (6)
+                     
+                Prime Vidéo
+                         
+                    (14)
+                
+                AC Ajaccio
+              
+            20h45
+           
+                Grenoble
+                
+                    (11)
+                     
+                Prime Vidéo
+                         
+                    (10)
+                
+                Amiens
+              
+            20h45
+           
+                Auxerre
+                
+                    (1)
+                 
+        commenté
+        
+                la chaine L'Équipe, Prime Vidéo
+                         
+                    (5)
+                
+                Paris FC
+              
+            20h45
+           
+                Guingamp
+                
+                    (8)
+                     
+                Prime Vidéo
+                         
+                    (19)
+                
+                Concarneau
+              
+            20h45
+           
+                Bordeaux
+                
+                    (12)
+                     
+                Prime Vidéo
+                         
+                    (15)
+                
+                Annecy
+              
+            20h45
+           
+                Angers
+                
+                    (3)
+                 
+        commenté
+        
+                beIN Sports 2
+                         
+                    (9)
+                
+                Pau
+              
+            20h45
+           
+                Bastia
+                
+                    (13)
+                     
+                Prime Vidéo
+                         
+                    (2)
+                
+                Saint-Étienne
+              
+            20h45
+           
+                Rodez
+                
+                    (4)
+                 
+        commenté
+        
+                beIN Sports 1
+                         
+                    (20)
+                
+                Valenciennes
+              
+            20h45
+           
+                QRM
+                
+                    (18)
+                     
+                Prime Vidéo
+                         
                     (7)
                 
-                Saint-Étienne (F)
+                Laval
               
-            1
-          -  
-            1
-          
-                    Lille (F)
-                    
-                        (12)
-                         
-                    (sp) C. Caputo 20’
-                 
-                    53’  A. Ribeyra 
-                             
-                    (4)
+            20h45
+           
+                Troyes
                 
-                Reims (F)
-              
-            2
-          -  
-            1
-          
-                    Paris-SG (F)
-                    
-                        (2)
-                         
-                     R. Imuran 15’
-                
-                     A. Le Moguédec 27’
-                 
-                    28’  F. Rossi 
-                             
+                    (17)
+                     
+                Prime Vidéo
+                          Championnat d'Espagne , 35e journée 
+                                                    classement
+                                                  
                     (11)
                 
-                Bordeaux (F)
+                Alavés
               
-            2
-          -  
-            1
-          
-                    Lyon (F)
-                    
-                        (1)
-                         
-                     L. Bourgouin 45’ +4
-                
-                    (sp) L. Bourgouin 85’
-                 
-                    33’  A. Marques 
-                            Ligue Europa Conference , Demi-finales Retour 
-                                                    résultats
-                                                    
-                Club Bruges
-              
-            1
-          -  
-            1
-          
-                    Fiorentina
-                     (qualifié)  
-            commenté
+            21h00
            
-                aller : 2 - 3
+                Gérone
+                
+                    (2)
+                     
+                beIN Sports 7
+                          Championnat d'Allemagne , 33e journée 
+                                                    classement
+                                                  
+                    (9)
+                
+                Augsbourg
               
-                     H. Vanaken 20’
-                 
-                    85’  L. Beltran (sp)
-                              A propos des résultats et matchs en directs de L'Équipe Match en direct ce soir
+            20h30
+           
+                VfB Stuttgart
+                
+                    (3)
+                     
+                beIN Sports 6
+                          Championnat d'Italie , 36e journée 
+                                                    classement
+                                                  
+                    (16)
+                
+                Frosinone
+              
+            20h45
+           
+                Inter Milan
+                
+                    (1)
+                     
+                beIN Sports 5
+                          Championnat du Portugal , 33e journée 
+                                                    classement
+                                                  
+                    (17)
+                
+                Chaves
+              
+            21h15
+           
+                Famalicao
+                
+                    (8)
+                                
+                L'ÉQUIPE
+             
+  Championnat de Belgique , Play-off 2, 8e journée 
+                                                    classement
+                                                  
+                    (10)
+                
+                Standard de Liège
+              
+            20h45
+           
+                Westerlo
+                
+                    (11)
+                                Championnat de Suisse , R35e journée 
+                                                    classement
+                                                  
+                    (4)
+                
+                Lausanne-Sport
+              
+            20h30
+           
+                FC Bâle
+                
+                    (3)
+                               
+                    (1)
+                
+                FC Lucerne
+              
+            20h30
+           
+                Grasshopper Zurich
+                
+                    (5)
+                                National , 33e journée 
+                                                    classement
+                                                  
+                    (4)
+                
+                Nancy
+              
+            21h00
+           
+                Châteauroux
+                
+                    (12)
+                               
+                    (3)
+                
+                Niort
+              
+            21h00
+           
+                Le Mans
+                
+                    (6)
+                               
+                    (11)
+                
+                Orléans
+              
+            21h00
+           
+                Red Star
+                
+                    (1)
+                               
+                    (17)
+                
+                Épinal
+              
+            21h00
+           
+                Villefranche Beaujolais
+                
+                    (13)
+                               
+                    (16)
+                
+                Marignane-Gignac
+              
+            21h00
+           
+                Rouen
+                
+                    (5)
+                               
+                    (7)
+                
+                Dijon
+              
+            21h00
+           
+                Martigues
+                
+                    (2)
+                               
+                    (9)
+                
+                Versailles
+              
+            21h00
+           
+                GOAL FC
+                
+                    (15)
+                               
+                    (10)
+                
+                Nîmes
+              
+            21h00
+           
+                Sochaux
+                
+                    (8)
+                               
+                    (18)
+                
+                Cholet
+              
+            21h00
+           
+                Avranches
+                
+                    (14)
+                                Championnat d'Arabie Saoudite , 31e journée 
+                                                    classement
+                                                  
+                    (16)
+                
+                Abha Club
+              
+            17h00
+           
+                Damac FC
+                
+                    (10)
+                               
+                    (5)
+                
+                Al-Ittihad Club
+              
+            20h00
+           
+                Al-Ettifaq FC
+                
+                    (9)
+                     
+                Multisports 6
+                         
+                    (11)
+                
+                Khaleej
+              
+            20h00
+           
+                Al-Wehda
+                
+                    (12)
+                                  A propos des résultats et matchs en directs de L'Équipe Match en direct ce soir
                 Les directs de L’Équipe sont une façon simple et pratique de suivre les scores en direct de vos clubs et vos joueurs préférés. Nous proposons des directs complets avec des commentaires de la rédaction, des statistiques et des photos exclusives. Le livescore permet de suivre tous les résultats sportifs du jour, il est mis à jour en temps réel (live) et vous permet de suivre l'évolution des scores des différents matchs en directs que vous suivez. Vous pouvez également suivre les résultats en direct des principaux sports tels que le football, le tennis, le basket-ball, le rugby, le cyclisme, le handball et le golf.
                 Retrouvez nous sur les différentes applications L'Équipe (iOs/Android) pour recevoir des notifications en live sur l'évolution des scores des matchs présents dans la page des directs.
                 Les résultats de foot en direct de L'Équipe recouvrent tous les scores de Ligue 1, Premier League, Bundesliga, la Liga, Serie A, de la Ligue des Champions, Ligue Europa ainsi que les autres compétitions majeures comme l'Euro ou la Coupe du monde.Retrouvez les prévisions des compositions d'équipes le matin des matchs, les compos officielles sont annoncées environ 1h avant les matchs. Les stats des matchs de foot sont fournies par Opta.
@@ -392,89 +615,15 @@ L'Équipe, c'est toute l'info du sport en direct : résultats, mercato, transfer
    
                 chrono
                 filtrer :  football      
-                21:23
+                13:30
               
             Foot,
-        
-            C4
-          
-            La Fiorentina retourne en finale
-         
-                21:03
-              
-            Foot,
-        
-            C1
-          
-            Les sept erreurs fatales du PSG
-         
-                20:05
-              
-            Foot,
-        
-            D1 Arkema
-          
-            Reims chipe la quatrième place à Fleury et file en play-offs
-         
-                20:02
-              
-            Foot,
-        
-            C1,
         
             PSG
           
-            Mbappé, l'annonce qui a tout changé
+            Où situer le nouveau maillot du PSG sur l'échelle d'«Hechter» ?
          
-                19:48
-              
-            Foot,
-        
-            C3,
-        
-            OM
-          
-            Gasset : «Il faudra faire le match idéal»
-         
-                19:43
-              
-            Foot,
-        
-            C1,
-        
-            Real
-          
-            Tchouaméni titulaire, Camavinga remplaçant
-         
-                19:18
-              
-            Foot,
-        
-            L1,
-        
-            Brest
-          
-            Lees-Melou : « Je n'ai pas bien compris certains comportements »
-         
-                18:44
-              
-            Foot,
-        
-            L2,
-        
-            Saint-Étienne
-          
-            Larsonneur incertain contre Rodez
-         
-                18:40
-              
-            Foot,
-        
-            Euro U17 (F)
-          
-            Le résumé de Norvège - France en vidéo
-         
-                18:30
+                12:30
               
             Foot,
         
@@ -482,89 +631,43 @@ L'Équipe, c'est toute l'info du sport en direct : résultats, mercato, transfer
           
             Faites votre liste pour l'Euro 2024
          
-                18:30
+                12:24
               
             Foot,
         
-            Un Max de C1
+            L1
           
-            Ferland Mendy, le chouchou d'Ancelotti
+            Nice peut encore rêver à la C1
          
-                18:20
+                11:45
               
             Foot,
-        
-            Euro U17 (F)
-          
-            La France écrase la Norvège
-         
-                18:20
-              
-            Foot,
-        
-            C3,
-        
-            OM
-          
-            L'Atalanta, le club où Longoria a beaucoup appris
-         
-                17:55
-              
-            Foot,
-        
-            C1,
         
             PSG
           
-            Cissé : « Un hamburger froid avec des frites molles ! »
+            Spectacle, mode et Mustang : l'histoire derrière le maillot Hechter
          
-                17:43
+                11:32
               
             Foot,
         
-            C3,
+            C4,
         
-            Leverkusen
+            Aston Villa
           
-            Xabi Alonso : «C'est très positif pour la Bundesliga
+            Emery : «Ce n'était pas suffisant»
          
-                17:13
+                11:11
               
             Foot,
         
-            Transferts
+            L1,
+        
+            Brest
           
-            Monaco accélère pour Mawissa (Toulouse)
+            Un destin en main mais...
          
-                16:54
-              
-            Foot,
-        
-            Transferts
-          
-            Beye a annoncé son départ du Red Star
-         
-                16:45
-              
-            Foot,
-        
-            C1,
-        
-            Real
-          
-            Vinicius, digne successeur de Benzema
-         
-                16:19
-              
-            Foot,
-        
-            C1,
-        
-            Real
-          
-            Le staff des Bleus supervisera Mendy ce soir
-         
-                16:17
+                11:10
               
             Foot,
         
@@ -572,7 +675,113 @@ L'Équipe, c'est toute l'info du sport en direct : résultats, mercato, transfer
         
             Atalanta
           
-            Kolasinac : «Aubameyang n'est pas le seul danger à l'OM»
+            Gasperini : «Notre parcours donne de l'espoir à beaucoup d'équipes»
+         
+                11:01
+              
+            Foot,
+        
+            Euro,
+        
+            Bleus
+          
+            Avec une liste de 26, les primes de victoire évoluent
+         
+                10:59
+              
+            Foot
+          
+            Le PSG dévoile son maillot domicile pour la saison 2024-2025
+         
+                10:47
+              
+            Foot,
+        
+            Médias
+          
+            Le sacre du PSG filmé avec un drone acrobatique
+         
+                10:45
+              
+            Foot,
+        
+            Podcast
+          
+            Replongez dans la saison des Invincibles d'Arsenal
+         
+                10:39
+              
+            Foot,
+        
+            AUS
+          
+            Lydia Williams prendra sa retraite internationale après les JO
+         
+                10:34
+              
+            Foot,
+        
+            L1,
+        
+            Le Havre
+          
+            La peur comme remède pour se maintenir
+         
+                10:33
+              
+            Foot
+          
+            Quels sont les joueurs dont la valeur marchande a le plus augmenté cette saison ?
+         
+                10:23
+              
+            Foot,
+        
+            L2,
+        
+            ASSE
+          
+            Le Chaudron, ferveur record
+         
+                10:22
+              
+            Foot,
+        
+            L1
+          
+            Gameiro quittera Strasbourg en fin de saison
+         
+                09:30
+              
+            Le Magazine,
+        
+            Foot
+          
+            Le rêve américain des clubs européens, par David Squires
+         
+                09:05
+              
+            Foot,
+        
+            ARS
+          
+            Al-Nassr vainqueur, Ronaldo encore buteur
+         
+                08:10
+              
+            Foot,
+        
+            Bleus
+          
+            Qui pourrait remplacer Tchouaméni ?
+         
+                08:09
+              
+            Foot,
+        
+            C3
+          
+            Pourquoi l'OM a manqué son rendez-vous avec l'Atalanta
            
                 L'ÉQUIPE
              

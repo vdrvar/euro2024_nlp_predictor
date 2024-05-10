@@ -156,8 +156,6 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                    
                 auto-moto
                    
-                ski-glace
-                   
                 athlétisme
                    
                 natation
@@ -167,6 +165,8 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                 golf
                    
                 combat
+                   
+                ski-glace
                    
                 esport
                    
@@ -314,19 +314,19 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                             1
                          
                                 Fluminense-RJ
-                              5  3 1 2 0 3 2 +1 
+                              8  4 2 2 0 4 2 +2 
                             2
                          
-                                Colo-Colo
-                              4  3 1 1 1 2 2 0 
+                                Cerro Porteño
+                              5  4 1 2 1 2 2 0 
                             3
                          
-                                Cerro Porteño
-                              4  3 1 1 1 1 1 0 
+                                Colo-Colo
+                              4  4 1 1 2 2 3 -1 
                             4
                          
                                 Alianza Lima
-                              2  3 0 2 1 1 2 -1                  
+                              3  4 0 3 1 2 3 -1                  
                             1re journée - 4 avr.
                             Colo-Colo    1 - 0  Cerro Porteño        Alianza Lima    1 - 1  Fluminense-RJ              
                             2e journée - 10 avr.
@@ -338,13 +338,9 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                             3e journée - 26 avr.
                             Cerro Porteño    0 - 0  Fluminense-RJ              
                             4e journée - 9 mai.
-                            Alianza Lima     
-                            02h00
-                           Cerro Porteño              
+                            Alianza Lima    1 - 1  Cerro Porteño              
                             4e journée - 10 mai.
-                            Colo-Colo     
-                            02h00
-                           Fluminense-RJ              
+                            Colo-Colo    0 - 1  Fluminense-RJ              
                             5e journée - 16 mai.
                             Alianza Lima     
                             02h00
@@ -364,19 +360,19 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                             1
                          
                                 Talleres Cordoba
-                              7  3 2 1 0 6 3 +3 
+                              10  4 3 1 0 9 4 +5 
                             2
                          
                                 São Paulo FC-SP
-                              6  3 2 0 1 5 2 +3 
+                              9  4 3 0 1 8 3 +5 
                             3
                          
                                 Barcelona Guayaquil
-                              2  3 0 2 1 3 5 -2 
+                              2  4 0 2 2 4 8 -4 
                             4
                          
                                 Cobresal
-                              1  3 0 1 2 1 5 -4                  
+                              1  4 0 1 3 2 8 -6                  
                             1re journée - 3 avr.
                             Cobresal    1 - 1  Barcelona Guayaquil              
                             1re journée - 5 avr.
@@ -386,11 +382,7 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                             3e journée - 26 avr.
                             Cobresal    0 - 2  Talleres Cordoba        Barcelona Guayaquil    0 - 2  São Paulo FC-SP              
                             4e journée - 9 mai.
-                            Talleres Cordoba     
-                            00h00
-                           Barcelona Guayaquil        Cobresal     
-                            02h30
-                           São Paulo FC-SP              
+                            Talleres Cordoba    3 - 1  Barcelona Guayaquil        Cobresal    1 - 3  São Paulo FC-SP              
                             5e journée - 15 mai.
                             Talleres Cordoba     
                             00h00
@@ -409,16 +401,16 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                                     pts  J. G. N. P. p. c. +/-    
                             1
                          
-                                Huachipato
-                              5  3 1 2 0 3 1 +2 
+                                The Strongest
+                              7  4 2 1 1 4 2 +2 
                             2
                          
-                                The Strongest
-                              4  3 1 1 1 3 2 +1 
+                                Huachipato
+                              5  3 1 2 0 3 1 +2 
                             3
                          
                                 Estudiantes de La Plata
-                              4  3 1 1 1 3 3 0 
+                              4  4 1 1 2 3 4 -1 
                             4
                          
                                 Grêmio-RS
@@ -434,13 +426,9 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                             3e journée - 25 avr.
                             Huachipato    0 - 0  The Strongest              
                             4e journée - 9 mai.
-                            Huachipato     
-                            00h00
-                           Grêmio-RS              
+                            Huachipato   reporté    Grêmio-RS              
                             4e journée - 10 mai.
-                            The Strongest     
-                            02h00
-                           Estudiantes de La Plata              
+                            The Strongest    1 - 0  Estudiantes de La Plata              
                             5e journée - 16 mai.
                             Grêmio-RS     
                             00h00
@@ -461,16 +449,16 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                               6  4 1 3 0 6 4 +2 
                             2
                          
-                                Universitario Lima
-                              5  4 1 2 1 5 6 -1 
+                                Botafogo-RJ
+                              6  4 2 0 2 6 6 0 
                             3
                          
-                                LDU Quito
-                              4  3 1 1 1 3 3 0 
+                                Universitario Lima
+                              5  4 1 2 1 5 6 -1 
                             4
                          
-                                Botafogo-RJ
-                              3  3 1 0 2 4 5 -1                  
+                                LDU Quito
+                              4  4 1 1 2 4 5 -1                  
                             1re journée - 3 avr.
                             Universitario Lima    2 - 1  LDU Quito              
                             1re journée - 4 avr.
@@ -486,9 +474,7 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                             4e journée - 8 mai.
                             Universitario Lima    1 - 1  Junior Barranquilla              
                             4e journée - 9 mai.
-                            Botafogo-RJ     
-                            02h30
-                           LDU Quito              
+                            Botafogo-RJ    2 - 1  LDU Quito              
                             5e journée - 15 mai.
                             LDU Quito     
                             00h00
@@ -508,7 +494,7 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                             1
                          
                                 Bolivar
-                              9  3 3 0 0 9 3 +6 
+                              10  4 3 1 0 10 4 +6 
                             2
                          
                                 Palestino Santiago
@@ -520,7 +506,7 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                             4
                          
                                 Millonarios Bogota
-                              1  3 0 1 2 4 7 -3                  
+                              2  4 0 2 2 5 8 -3                  
                             1re journée - 3 avr.
                             Millonarios Bogota    1 - 1  Flamengo-RJ              
                             1re journée - 5 avr.
@@ -536,9 +522,7 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                             4e journée - 8 mai.
                             Palestino Santiago    1 - 0  Flamengo-RJ              
                             4e journée - 9 mai.
-                            Millonarios Bogota     
-                            04h00
-                           Bolivar              
+                            Millonarios Bogota    1 - 1  Bolivar              
                             5e journée - 15 mai.
                             Millonarios Bogota     
                             04h00
@@ -558,19 +542,19 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                             1
                          
                                 Palmeiras-SP
-                              7  3 2 1 0 7 4 +3 
+                              10  4 3 1 0 12 4 +8 
                             2
                          
                                 Independiente del Valle
-                              4  3 1 1 1 5 4 +1 
+                              4  4 1 1 2 5 6 -1 
                             3
                          
-                                Liverpool Montevideo
-                              4  3 1 1 1 3 4 -1 
+                                San Lorenzo
+                              4  4 1 1 2 3 4 -1 
                             4
                          
-                                San Lorenzo
-                              1  3 0 1 2 1 4 -3                  
+                                Liverpool Montevideo
+                              4  4 1 1 2 3 9 -6                  
                             1re journée - 4 avr.
                             San Lorenzo    1 - 1  Palmeiras-SP              
                             1re journée - 5 avr.
@@ -584,11 +568,7 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
                             3e journée - 25 avr.
                             Independiente del Valle    2 - 3  Palmeiras-SP              
                             4e journée - 10 mai.
-                            Liverpool Montevideo     
-                            00h00
-                           Palmeiras-SP        San Lorenzo     
-                            00h00
-                           Independiente del Valle              
+                            Liverpool Montevideo    0 - 5  Palmeiras-SP        San Lorenzo    2 - 0  Independiente del Valle              
                             5e journée - 16 mai.
                             Palmeiras-SP     
                             02h30
@@ -692,89 +672,15 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
    
                 chrono
                 filtrer :  football      
-                21:23
+                13:30
               
             Foot,
-        
-            C4
-          
-            La Fiorentina retourne en finale
-         
-                21:03
-              
-            Foot,
-        
-            C1
-          
-            Les sept erreurs fatales du PSG
-         
-                20:05
-              
-            Foot,
-        
-            D1 Arkema
-          
-            Reims chipe la quatrième place à Fleury et file en play-offs
-         
-                20:02
-              
-            Foot,
-        
-            C1,
         
             PSG
           
-            Mbappé, l'annonce qui a tout changé
+            Où situer le nouveau maillot du PSG sur l'échelle d'«Hechter» ?
          
-                19:48
-              
-            Foot,
-        
-            C3,
-        
-            OM
-          
-            Gasset : «Il faudra faire le match idéal»
-         
-                19:43
-              
-            Foot,
-        
-            C1,
-        
-            Real
-          
-            Tchouaméni titulaire, Camavinga remplaçant
-         
-                19:18
-              
-            Foot,
-        
-            L1,
-        
-            Brest
-          
-            Lees-Melou : « Je n'ai pas bien compris certains comportements »
-         
-                18:44
-              
-            Foot,
-        
-            L2,
-        
-            Saint-Étienne
-          
-            Larsonneur incertain contre Rodez
-         
-                18:40
-              
-            Foot,
-        
-            Euro U17 (F)
-          
-            Le résumé de Norvège - France en vidéo
-         
-                18:30
+                12:30
               
             Foot,
         
@@ -782,89 +688,43 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
           
             Faites votre liste pour l'Euro 2024
          
-                18:30
+                12:24
               
             Foot,
         
-            Un Max de C1
+            L1
           
-            Ferland Mendy, le chouchou d'Ancelotti
+            Nice peut encore rêver à la C1
          
-                18:20
+                11:45
               
             Foot,
-        
-            Euro U17 (F)
-          
-            La France écrase la Norvège
-         
-                18:20
-              
-            Foot,
-        
-            C3,
-        
-            OM
-          
-            L'Atalanta, le club où Longoria a beaucoup appris
-         
-                17:55
-              
-            Foot,
-        
-            C1,
         
             PSG
           
-            Cissé : « Un hamburger froid avec des frites molles ! »
+            Spectacle, mode et Mustang : l'histoire derrière le maillot Hechter
          
-                17:43
+                11:32
               
             Foot,
         
-            C3,
+            C4,
         
-            Leverkusen
+            Aston Villa
           
-            Xabi Alonso : «C'est très positif pour la Bundesliga
+            Emery : «Ce n'était pas suffisant»
          
-                17:13
+                11:11
               
             Foot,
         
-            Transferts
+            L1,
+        
+            Brest
           
-            Monaco accélère pour Mawissa (Toulouse)
+            Un destin en main mais...
          
-                16:54
-              
-            Foot,
-        
-            Transferts
-          
-            Beye a annoncé son départ du Red Star
-         
-                16:45
-              
-            Foot,
-        
-            C1,
-        
-            Real
-          
-            Vinicius, digne successeur de Benzema
-         
-                16:19
-              
-            Foot,
-        
-            C1,
-        
-            Real
-          
-            Le staff des Bleus supervisera Mendy ce soir
-         
-                16:17
+                11:10
               
             Foot,
         
@@ -872,7 +732,113 @@ Calendrier et résultats Copa Libertadores 2024 : tous les groupes - Football - 
         
             Atalanta
           
-            Kolasinac : «Aubameyang n'est pas le seul danger à l'OM»
+            Gasperini : «Notre parcours donne de l'espoir à beaucoup d'équipes»
+         
+                11:01
+              
+            Foot,
+        
+            Euro,
+        
+            Bleus
+          
+            Avec une liste de 26, les primes de victoire évoluent
+         
+                10:59
+              
+            Foot
+          
+            Le PSG dévoile son maillot domicile pour la saison 2024-2025
+         
+                10:47
+              
+            Foot,
+        
+            Médias
+          
+            Le sacre du PSG filmé avec un drone acrobatique
+         
+                10:45
+              
+            Foot,
+        
+            Podcast
+          
+            Replongez dans la saison des Invincibles d'Arsenal
+         
+                10:39
+              
+            Foot,
+        
+            AUS
+          
+            Lydia Williams prendra sa retraite internationale après les JO
+         
+                10:34
+              
+            Foot,
+        
+            L1,
+        
+            Le Havre
+          
+            La peur comme remède pour se maintenir
+         
+                10:33
+              
+            Foot
+          
+            Quels sont les joueurs dont la valeur marchande a le plus augmenté cette saison ?
+         
+                10:23
+              
+            Foot,
+        
+            L2,
+        
+            ASSE
+          
+            Le Chaudron, ferveur record
+         
+                10:22
+              
+            Foot,
+        
+            L1
+          
+            Gameiro quittera Strasbourg en fin de saison
+         
+                09:30
+              
+            Le Magazine,
+        
+            Foot
+          
+            Le rêve américain des clubs européens, par David Squires
+         
+                09:05
+              
+            Foot,
+        
+            ARS
+          
+            Al-Nassr vainqueur, Ronaldo encore buteur
+         
+                08:10
+              
+            Foot,
+        
+            Bleus
+          
+            Qui pourrait remplacer Tchouaméni ?
+         
+                08:09
+              
+            Foot,
+        
+            C3
+          
+            Pourquoi l'OM a manqué son rendez-vous avec l'Atalanta
            
                 L'ÉQUIPE
              

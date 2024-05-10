@@ -828,13 +828,28 @@ FC 24 Galerien
 
 
 
-                Von FIFA 13 bis FC 24
+                Im Sommer beendet der Torjäger seine Karriere
             
 
+Rekordtorschütze und Aufstiegsheld: So gut war Simon Terodde in FIFA
+177 Tore in 310 Partien in der 2. Bundesliga: Als Rekordtorschütze des Unterhauses beendet der 36-Jährige im Sommer seine Karriere als aktiver Fußballer. Eine Reise durch seine Zeit in FIFA Ultimate Team (FUT).
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+                    Von FIFA 13 bis FC 24
+
+                
 FUT-Historie einer BVB-Ikone: Marco Reus und seine besten Karten
-Marco Reus verlässt Borussia Dortmund zum Saisonende nach zwölf Jahren als schwarz-gelbe Legende. Wir werfen einen Blick zurück auf seine stärksten FUT-Karten im BVB-Dress - von FIFA 13 bis FC 24.
-
-
 
 
 
@@ -871,16 +886,131 @@ Von Kobel bis Ducksch: Alle TOTS-Kandidaten der Bundesliga
 
 
 
- 
 
 
 
 
-                    Glorreiche VfB-Zeiten?
+
+eSport Szene            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Zukunftspläne beim FC-Entwickler
+            
+
+"Risikoreiche Angelegenheit" mit Potenzial: EA will Mobile-Geschäft ausbauen
+In Zukunft will Electronic Arts das Mobile-Geschäft ausbauen. Die Gründe sind naheliegend. CEO Andrew Wilson erklärt, warum dies lukrativ sein könnte - aber auch mit Risiken verbunden ist.
+
+
+
+
+
+
+
+
+
+
+
+
+                    Viertes Quartal fällt ab
 
                 
-Die jungen Wilden 2.0: Stuttgarts Talente in FC 24 und im echten Leben
+FC-24-Rekordjahr: EA feiert Gewinne - aber der jüngste Trend ist negativ
 
+
+
+
+
+
+
+
+
+
+                    Auszahlungen nach Höhe der EWC-Zuschauer geplant
+
+                
+Esports World Cup unterstützt 30 eSport-Organisationen
+
+
+
+
+
+
+
+
+
+
+                    Branchengespräch über Ökonomie und Gemeinnützigkeit
+
+                
+"Anschluss an die Spitze schaffen": Was sich der ESBD von der Bundesregierung erhofft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kicker eSport Streams            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Fehlerfrei durchkombinieren
+            
+
+EA SPORTS FC 24: So gelingt euch der ideale Spielaufbau
+Worum geht es im Spielaufbau in FC 24? Von Fehler vermeiden und Fehler erzwingen bis hin zu detaillierten Anweisungen. In Pro Bono führt FC-24-Coach Alexander Rauch durch die Themenpunkte.
 
 
 
@@ -971,100 +1101,41 @@ FIFA 23: Fans attackieren EA für Kaka-Karte von eCL-Sieger 'EmreYilmaz'
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-eSport Szene            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                Viertes Quartal fällt ab
-            
-
-FC-24-Rekordjahr: EA feiert Gewinne - aber der jüngste Trend ist negativ
-Der neue EA-Quartalsbericht rundet das Geschäftsjahr 2024 beim Videospiel-Giganten ab. Der Fokus liegt auf dem finanziellen Wachstum im Vergleich zu 2023 - und auf der Erklärung des negativen Trends.
-
-
-
-
-
-
-
-
-
-
-
-
-                    Auszahlungen nach Höhe der EWC-Zuschauer geplant
-
-                
-Esports World Cup unterstützt 30 eSport-Organisationen
-
-
-
-
-
-
-
-
-
-
-                    Branchengespräch über Ökonomie und Gemeinnützigkeit
-
-                
-"Anschluss an die Spitze schaffen": Was sich der ESBD von der Bundesregierung erhofft
-
-
-
-
-
-
-
-
-
-
-                    Preiserhöhung für Abo-Service
-
-                
-EA Play bis zu 60 Prozent teurer: Mehr Kosten, aber weniger Test-Zeit
-
-
-
-
-
-
-
-
-
-
-
 Aktuelles
+
+
+
+
+09.05.24 - 16:26
+
+
+
+
+
+
+
+eSport
+
+
+"Risikoreiche Angelegenheit" mit Potenzial: EA will Mobile-Geschäft ausbauen
+In Zukunft will EA das Mobile-Geschäft ausbauen. Die Gründe sind naheliegend. CEO Wilson erklärt, warum dies lukrativ sein könnte - aber auch mit Risi...
+
+
+
+
+09.05.24 - 13:52
+
+
+
+
+
+
+
+eSport
+
+
+EA SPORTS FC 24: So gelingt euch der ideale Spielaufbau
+Worum geht es im Spielaufbau in FC 24? Von Fehler vermeiden und erzwingen bis hin zu detaillierten Anweisungen. In Pro Bono führt Alexander Rauch durc...
 
 
 
@@ -1116,40 +1187,6 @@ eSport Mehr eSport
 
 Esports World Cup unterstützt 30 eSport-Organisationen
 Mit dem Support-Programm der EWC-Stiftung wendet sich Saudi-Arabien 30 internationalen Top-eSport-Organisationen zu. Dadurch soll der EWC zum Zuschaue...
-
-
-
-
-06.05.24 - 15:41
-
-
-
-
-
-
-
-eSport Valorant
-
-
-Titel-Hattrick perfekt: CGN Esports nach Overtime-Krimi erneut Challengers-Champion
-CGN Esports ist auch 2024 eine heiße Aktie im deutschsprachigen Valorant-eSport. Beim ersten Split der Challengers fuhr das Team den dritten Titel in ...
-
-
-
-
-06.05.24 - 14:10
-
-
-
-
-
-
-
-eSport Mehr eSport
-
-
-Sony knickt ein: Helldivers 2 entgeht PSN-Zwang
-Nicht immer stoßen Publisher auf Gegenliebe aus der Community. Wie die sich behaupten und Konzerne zum Umdenken bewegen kann, zeigte sich nun bei Hell...
 
 
 
@@ -1249,6 +1286,7 @@ Hearthstone trifft RPG - Cross Blitz und die Fusion zweier Genres
 
 
 
+
 FC 24 News - das Neueste zum Spiel            
 
 
@@ -1319,7 +1357,6 @@ FC 24: EA SPORTS lässt Spieler an Profiratings und Aussehen schrauben
 
                 
 "Das bin ich nicht": Neu-Meister Frimpong kritisiert EA SPORTS FC 24
-
 
 
 
@@ -2294,13 +2331,28 @@ FIFA-Legenden im Wandel der Zeit
 
 
 
-                Von FIFA 13 bis FC 24
+                Im Sommer beendet der Torjäger seine Karriere
             
 
+Rekordtorschütze und Aufstiegsheld: So gut war Simon Terodde in FIFA
+177 Tore in 310 Partien in der 2. Bundesliga: Als Rekordtorschütze des Unterhauses beendet der 36-Jährige im Sommer seine Karriere als aktiver Fußballer. Eine Reise durch seine Zeit in FIFA Ultimate Team (FUT).
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+                    Von FIFA 13 bis FC 24
+
+                
 FUT-Historie einer BVB-Ikone: Marco Reus und seine besten Karten
-Marco Reus verlässt Borussia Dortmund zum Saisonende nach zwölf Jahren als schwarz-gelbe Legende. Wir werfen einen Blick zurück auf seine stärksten FUT-Karten im BVB-Dress - von FIFA 13 bis FC 24.
-
-
 
 
 
@@ -2316,21 +2368,6 @@ Marco Reus verlässt Borussia Dortmund zum Saisonende nach zwölf Jahren als sch
 
                 
 Bayers Meistermacher: So gut war Xabi Alonso in FIFA
-
-
-
-
-
-
- 
-
-
-
-
-                    Von Bronze zu Gold
-
-                
-FIFA 23: Stars im Wandel ihrer Zeit - ihre erste und aktuellste FUT-Karte
 
 
 
@@ -2633,43 +2670,6 @@ FC-24-Matchprognosen
 
 FC-24-Matchprognose: Nächstes BVB-Festspiel gegen PSG?
 In der Bundesliga herrscht bei Borussia Dortmund eher Tristesse - auf europäischer Bühne konnte der BVB zuletzt aber glänzen. Auch im Halbfinale gegen Paris St. Germain? Wir befragen das FC-24-Orakel.
-
-
-
-
-
-
-
-
-
-kicker eSport Streams            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                Dominiert der neue Meister?
-            
-
-EA SPORTS FC 24: Wer schafft es ins Bundesliga-TOTS?
-Das Team of the Season (TOTS) der Bundesliga steht kurz bevor. Welche Profis schaffen es in die FC-24-Auswahl? Darüber diskutieren wir im kicker eSport Talk.
 
 
 
