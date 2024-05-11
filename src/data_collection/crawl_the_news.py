@@ -18,6 +18,7 @@ configs = [
     {"domain": "lequipe.fr", "url": "https://www.lequipe.fr/Football/Euro/", "max_depth": 1, "filter_path": "/Football/"}  # Added configuration for L'Équipe
 ]
 def start_crawling(configs):
+    print("Crawling the predefined football magazines...")
     for config in configs:
         print(f"Starting crawl for {config['domain']} at {config['url']}")
         crawl(config['url'], config['domain'], config['max_depth'], config['filter_path'])

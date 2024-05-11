@@ -268,111 +268,171 @@ Classement Ligue 2 2023-2024 : Championnat de France - Football - L'Équipe
                             1
                          
                                 Auxerre
-                              70  36 20 10 6 68 35 +33  
+                              71  37 20 11 6 68 35 +33  
                             2
                          
-                                Saint-Étienne
-                              64  36 19 7 10 46 28 +18  
+                                Angers
+                             
+                                    1
+                                 67  37 20 7 10 56 42 +14  
                             3
                          
-                                Angers
-                              64  36 19 7 10 54 41 +13  
+                                Saint-Étienne
+                             
+                                    1
+                                 65  37 19 8 10 47 29 +18  
                             4
                          
-                                Rodez
-                              56  36 15 11 10 59 50 +9  
+                                Paris FC
+                             
+                                    1
+                                 58  37 16 10 11 48 41 +7  
                             5
                          
-                                Paris FC
-                              55  36 15 10 11 46 40 +6  
+                                Rodez
+                             
+                                    1
+                                 57  37 15 12 10 60 51 +9  
                             6
                          
                                 Caen
-                             
-                                    2
-                                 54  36 16 6 14 46 43 +3  
+                              55  37 16 7 14 48 45 +3  
                             7
                          
                                 Laval
-                             
-                                    1
-                                 52  36 14 10 12 38 43 -5  
+                              52  37 14 10 13 39 45 -6  
                             8
                          
                                 Guingamp
-                             
-                                    1
-                                 51  36 13 12 11 43 37 +6  
+                              51  37 13 12 12 44 39 +5  
                             9
                          
                                 Pau
-                             
-                                    2
-                                 51  36 13 12 11 57 52 +5  
+                              51  37 13 12 12 58 54 +4  
                             10
-                         
-                                Amiens
-                              49  36 11 16 9 33 35 -2  
-                            11
                          
                                 Grenoble
                              
-                                    2
-                                 48  36 12 12 12 40 40 0  
-                            12
+                                    1
+                                 51  37 13 12 12 42 41 +1  
+                            11
                          
-                                Bordeaux
+                                Amiens
                              
-                                    2
-                                 47  36 13 9 14 45 46 -1  
-                            13
+                                    1
+                                 50  37 11 17 9 33 35 -2  
+                            12
                          
                                 Bastia
                              
                                     1
-                                 46  36 13 8 15 41 46 -5  
+                                 49  37 14 8 15 43 47 -4  
+                            13
+                         
+                                Bordeaux
+                             
+                                    1
+                                 47  37 13 9 15 47 50 -3  
                             14
                          
                                 AC Ajaccio
-                             
-                                    3
-                                 46  36 12 10 14 34 42 -8  
+                              46  37 12 10 15 35 44 -9  
                             15
                          
                                 Annecy
-                              45  36 12 9 15 47 47 0  
+                              45  37 12 9 16 48 49 -1  
                             16
                          
                                 Dunkerque
-                              44  36 12 8 16 34 50 -16  
+                              45  37 12 9 16 36 52 -16  
                             17
                          
                                 Troyes
-                              37  35 8 13 14 39 47 -8  
+                              40  36 9 13 14 41 48 -7  
                             18
                          
-                                QRM
-                              35  36 6 17 13 48 52 -4  
+                                Concarneau
+                             
+                                    1
+                                 38  37 10 8 19 38 53 -15  
                             19
                          
-                                Concarneau
-                              35  36 9 8 19 34 51 -17  
+                                QRM
+                             
+                                    1
+                                 35  37 6 17 14 49 54 -5  
                             20
                          
                                 Valenciennes
-                              23  35 4 11 20 23 50 -27           
+                              26  36 5 11 20 25 51 -26           
                 L'ÉQUIPE
              
    
                 chrono
                 filtrer :  football      
-                13:30
+                14:41
+              
+            Foot,
+        
+            L1,
+        
+            Lille
+          
+            André : «Objectif Ligue des champions»
+         
+                14:19
+              
+            Foot,
+        
+            L1,
+        
+            PSG
+          
+            Luis Enrique : «Mbappé a toujours tout donné pour le club»
+         
+                13:59
+              
+            Foot,
+        
+            Transferts
+          
+            À Madrid, on se prépare à accueillir Mbappé
+         
+                13:46
               
             Foot,
         
             PSG
           
-            Où situer le nouveau maillot du PSG sur l'échelle d'«Hechter» ?
+            Un hommage minime pour Mbappé au Parc ?
+         
+                13:26
+              
+            Foot,
+        
+            L1,
+        
+            OM
+          
+            La peur du vide
+         
+                13:08
+              
+            Foot,
+        
+            L1,
+        
+            Lille
+          
+            Piano, culture, bonne humeur : les multiples talents de Tiago Santos
+         
+                12:34
+              
+            Foot,
+        
+            Édito
+          
+            Duluc sur le départ de Mbappé : «C'est fini, tout commence»
          
                 12:30
               
@@ -382,157 +442,107 @@ Classement Ligue 2 2023-2024 : Championnat de France - Football - L'Équipe
           
             Faites votre liste pour l'Euro 2024
          
-                12:24
+                12:07
               
             Foot,
         
-            L1
+            Transferts
           
-            Nice peut encore rêver à la C1
+            L'Hellas Vérone a fait une offre pour Nadje (Versailles)
          
-                11:45
+                11:53
               
             Foot,
         
-            PSG
+            JO 2024
           
-            Spectacle, mode et Mustang : l'histoire derrière le maillot Hechter
+            Macron «compte sur le Real Madrid» pour libérer Mbappé cet été
          
-                11:32
+                11:37
               
             Foot,
         
-            C4,
+            PSG,
         
-            Aston Villa
+            Data
           
-            Emery : «Ce n'était pas suffisant»
+            Mbappé, sept saisons d'un buteur au sommet
          
-                11:11
+                11:36
               
             Foot,
         
-            L1,
+            D1 Arkema,
         
-            Brest
+            PFC
           
-            Un destin en main mais...
+            Bussy, la fusée du PFC
          
-                11:10
-              
-            Foot,
-        
-            C3,
-        
-            Atalanta
-          
-            Gasperini : «Notre parcours donne de l'espoir à beaucoup d'équipes»
-         
-                11:01
-              
-            Foot,
-        
-            Euro,
-        
-            Bleus
-          
-            Avec une liste de 26, les primes de victoire évoluent
-         
-                10:59
-              
-            Foot
-          
-            Le PSG dévoile son maillot domicile pour la saison 2024-2025
-         
-                10:47
+                11:18
               
             Foot,
         
             Médias
           
-            Le sacre du PSG filmé avec un drone acrobatique
+            Des discussions sans fin autour des droits TV de la L1
          
-                10:45
-              
-            Foot,
-        
-            Podcast
-          
-            Replongez dans la saison des Invincibles d'Arsenal
-         
-                10:39
-              
-            Foot,
-        
-            AUS
-          
-            Lydia Williams prendra sa retraite internationale après les JO
-         
-                10:34
+                10:28
               
             Foot,
         
             L1,
         
-            Le Havre
+            Nice
           
-            La peur comme remède pour se maintenir
+            L'Europe, objectif accompli
          
-                10:33
-              
-            Foot
-          
-            Quels sont les joueurs dont la valeur marchande a le plus augmenté cette saison ?
-         
-                10:23
+                09:50
               
             Foot,
         
-            L2,
-        
-            ASSE
+            ANG
           
-            Le Chaudron, ferveur record
+            Où en est la course au titre ?
          
-                10:22
+                09:05
+              
+            Foot
+          
+            Quels clubs ont le plus fait l'ascenseur entre L1 et L2 au 21e siècle ?
+         
+                08:36
+              
+            Foot,
+        
+            L1,
+        
+            PSG
+          
+            Lizarazu : «Mbappé, ni une machine ni un robot !»
+         
+                07:35
+              
+            Foot,
+        
+            L1,
+        
+            HAC
+          
+            La déception et l'attente
+         
+                07:28
               
             Foot,
         
             L1
           
-            Gameiro quittera Strasbourg en fin de saison
+            Fonseca, toujours la priorité de l'OM
          
-                09:30
+                07:16
               
-            Le Magazine,
-        
             Foot
           
-            Le rêve américain des clubs européens, par David Squires
-         
-                09:05
-              
-            Foot,
-        
-            ARS
-          
-            Al-Nassr vainqueur, Ronaldo encore buteur
-         
-                08:10
-              
-            Foot,
-        
-            Bleus
-          
-            Qui pourrait remplacer Tchouaméni ?
-         
-                08:09
-              
-            Foot,
-        
-            C3
-          
-            Pourquoi l'OM a manqué son rendez-vous avec l'Atalanta
+            Le programme TV des matchs du jour en direct
            
                 L'ÉQUIPE
              

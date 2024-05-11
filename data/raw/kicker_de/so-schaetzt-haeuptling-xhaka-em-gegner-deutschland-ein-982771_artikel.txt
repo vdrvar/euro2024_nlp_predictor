@@ -784,6 +784,9 @@ Spielplan
 Tabellen
 
 
+Turnierrechner
+
+
 Statistiken
 
 
