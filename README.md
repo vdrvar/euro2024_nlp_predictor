@@ -1,4 +1,4 @@
-# Euro 2024 NLP Predictor
+# Predicting Euro 2024 with Transformers
 
 ## Project Overview
 The `euro2024_nlp_predictor` is a comprehensive project that leverages advanced Natural Language Processing (NLP) and machine learning techniques to predict the outcomes of UEFA Euro 2024 matches. By analyzing the sentiment and content from prominent football news sources, this project aims to provide insights into team performances and public sentiment.
