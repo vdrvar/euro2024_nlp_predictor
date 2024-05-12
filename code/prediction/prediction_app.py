@@ -68,6 +68,13 @@ def process_sentiment_scores():
     st.bar_chart(df.set_index('Nation')['Chance'])
     st.table(df.assign(Chance=df['Chance'].apply(lambda x: f"{x:.2f}%")))
 
+    # Save the percentage_scores to a file
+    output_path = "../../data/percentage_scores.pkl"
+    with open(output_path, 'wb') as output_file:
+        pickle.dump(percentage_scores, output_file)
+
+    st.success(f"Percentage scores saved successfully to {output_path}")
+
 st.title('Euro 2024 Transformer Predictor')
 
 if st.button('Crawl News'):
