@@ -19,14 +19,6 @@ The `euro2024_nlp_predictor` is a comprehensive project that leverages advanced 
 - **Subprocess**: For managing script execution within the Python environment.
 
 
-## Installation
-Clone the repository and install dependencies:
-```
-git clone https://github.com/yourusername/euro2024_nlp_predictor.git
-cd euro2024_nlp_predictor
-pip install -r requirements.txt
-```
-
 ## Usage
 The Euro 2024 NLP Predictor project utilizes a Streamlit dashboard to manage the entire data processing pipeline, from data collection to displaying predictive analytics. Follow these steps to get started:
 
