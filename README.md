@@ -1,47 +1,67 @@
 # Euro 2024 NLP Predictor
 
 ## Project Overview
-The `euro2024_nlp_predictor` is an innovative project leveraging Natural Language Processing (NLP) to analyze the world's leading football newspapers. Our goal is to predict the outcomes of Euro 2024 matches by extracting insights from vast amounts of football-related news, expert opinions, and match analyses.
+The `euro2024_nlp_predictor` is a comprehensive project that leverages advanced Natural Language Processing (NLP) and machine learning techniques to predict the outcomes of UEFA Euro 2024 matches. By analyzing the sentiment and content from prominent football news sources, this project aims to provide insights into team performances and public sentiment.
 
 ## Features
-- **News Aggregation**: Automated scraping of top football news sources for the latest insights, with adjustable depth and segment targeting.
-- **Sentiment Analysis**: Gauge the sentiment surrounding teams and players using NLP techniques.
-- **Prediction Modeling**: Utilize historical data and current sentiment to predict match outcomes.
-- **Interactive Dashboard**: A user-friendly interface for visualizing predictions and underlying data.
-- **Configurable Crawler**: Enhanced web crawler configurable for specific domains and path segments to focus on relevant content efficiently.
+- **News Aggregation**: Automated scraping of renowned football news websites.
+- **Sentiment Analysis**: Analysis of the sentiment surrounding teams, providing insights into public opinion and media portrayal.
+- **Nation Classification**: Identification of the primary nation discussed in each article to tailor sentiment analysis.
+- **Interactive Predictions Dashboard**: A Streamlit-based dashboard that presents the predictions and sentiment analysis in an interactive format.
+- **Automated Data Pipeline**: From news aggregation to data processing and visualization, all components are automated for ease of use.
 
 ## Technology Stack
-- Python for backend operations, including NLP and machine learning tasks.
-- Beautiful Soup for web scraping.
-- NLTK and spaCy for text processing and sentiment analysis.
-- TensorFlow or PyTorch for developing predictive models.
-- Streamlit or Dash for creating interactive web dashboards.
+- **Python**: Core programming language for data collection, processing, and dashboard.
+- **Beautiful Soup & Requests**: Tools for efficient web scraping.
+- **NLTK and spaCy**: Libraries for text processing and sentiment analysis.
+- **Streamlit**: Framework for creating the interactive dashboard.
+- **Pandas**: For data manipulation and analysis.
+- **Subprocess**: For managing script execution within the Python environment.
+
+## File Structure
+euro2024_nlp_predictor/
+│
+├── code/ # All executable scripts and notebooks
+│ ├── data_collection/ # Scripts for data scraping
+│ │ ├── crawl_the_news.py # Main script for news crawling
+│ │ ├── crawler.py # Helper functions for crawling
+│ │ └── testing_crawling.ipynb # Testing and examples
+│ │
+│ ├── data_processing/ # Scripts for data processing and analysis
+│ │ ├── analyze_sentiment.py # Sentiment analysis script
+│ │ ├── filter_relevant.py # Filter relevant articles
+│ │ ├── classify_nations.py # Classify articles by nation
+│ │ └── final_ranking.ipynb # Notebook for final ranking computation
+│ │
+│ └── prediction/ # Prediction and visualization scripts
+│ └── prediction_app.py # Streamlit dashboard application
+│
+├── data/ # Stored data from the crawlers and analyses
+│ ├── raw/ # Raw scraped data
+│ ├── filtered_file_paths.txt # Paths to filtered relevant articles
+│ ├── country_file_paths.txt # Classified articles by country
+│ └── sentiment_scores.pkl # Output from sentiment analysis
+│
+├── magazines.txt # List of target magazines and URLs
+├── requirements.txt # Project dependencies
+└── README.md # Project README file
 
 ## Installation
-To set up the project environment, follow these steps:
-
-
-```bash
+Clone the repository and install dependencies:
+```
 git clone https://github.com/yourusername/euro2024_nlp_predictor.git
 cd euro2024_nlp_predictor
 pip install -r requirements.txt
 ```
 
-
 ## Usage
-To start collecting data, use the configurable crawler which can be tailored to specific news sections or entire websites:
+To run the full pipeline from data collection to prediction display:
 
-1. **Configure the crawler**: Adjust `configs` in `crawler.py` to target different news sections or set depth limits for scraping.
-2. **Run the crawler**: Execute the script to begin scraping and collecting data.
-3. **Process the data**: Use provided scripts to clean and analyze the collected data.
-4. **Train the models**: Follow instructions in `model_training.py` to build and train your prediction models.
-5. **Launch the dashboard**: Run `dashboard.py` to start the web interface.
+Start the data collection: Run crawl_the_news.py from the data_collection directory.
+Process the collected data: Execute scripts in data_processing to filter and analyze data.
+View predictions: Launch prediction_app.py from the prediction directory to view the interactive dashboard.
+Contribution
+Contributions are welcome! Please fork the repository and submit pull requests with your proposed changes.
 
-Detailed instructions on using each component are available in the respective scripts within the project repository.
-
-## Contribution
-Contributions to `euro2024_nlp_predictor` are welcome! Please refer to our contribution guidelines for more details on how to contribute to the project.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+License
+This project is released under the MIT License - see the LICENSE file for details.

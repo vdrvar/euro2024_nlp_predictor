@@ -356,99 +356,23 @@ Calendrier des matchs de Championnat d'Italie Serie B 2023-2024 - Football - L'�
    
                 chrono
                 filtrer :  football      
-                18:02
+                20:49
               
             Foot,
         
-            L1,
-        
-            Toulouse
+            ITA
           
-            Une saison à deux vitesses pour Martinez Novell
+            Côme, un modèle à la Disney
          
-                17:53
+                20:35
               
             Foot,
         
-            ANG,
-        
-            Championship
+            ITA
           
-            Pas de vainqueur lors des demi-finales des play-offs
+            La Juventus tenue en échec à domicile par la Salernitana
          
-                17:39
-              
-            Foot,
-        
-            L1,
-        
-            Nice
-          
-            Les Aiglons se préparent à tout changer
-         
-                17:36
-              
-            Foot,
-        
-            ANG (F)
-          
-            Première Cup pour Manchester United
-         
-                17:18
-              
-            Foot,
-        
-            L1,
-        
-            OL
-          
-            Entretenir le rêve européen sans hypothéquer la Coupe
-         
-                16:52
-              
-            Foot,
-        
-            L1,
-        
-            Monaco
-          
-            Plus qu'un point pour la C1... et la vente ?
-         
-                16:48
-              
-            Foot,
-        
-            L1,
-        
-            Strasbourg
-          
-            Sissoko va quitter le club à la fin de la saison
-         
-                16:45
-              
-            Foot,
-        
-            D2 (F)
-          
-            Strasbourg promu en D1
-         
-                16:42
-              
-            Foot
-          
-            Où en est la sonorisation des arbitres en Europe ?
-         
-                16:23
-              
-            Foot,
-        
-            L1,
-        
-            Lorient
-          
-            Cette descente qui chamboulerait le club
-         
-                16:04
+                20:35
               
             Foot,
         
@@ -456,45 +380,9 @@ Calendrier des matchs de Championnat d'Italie Serie B 2023-2024 - Football - L'�
         
             PSG
           
-            Mbappé-Luis Enrique, un profond respect malgré les anicroches
+            Luis Enrique fait tourner contre Toulouse
          
-                15:54
-              
-            Foot,
-        
-            ESP
-          
-            Le Real célèbre son 36e titre de champion
-         
-                15:31
-              
-            Foot,
-        
-            ALL
-          
-            Sankt Pauli, un promu pas comme les autres
-         
-                15:11
-              
-            Foot,
-        
-            L1,
-        
-            OL
-          
-            Entretenir le rêve européen sans hypothéquer la Coupe
-         
-                15:01
-              
-            Foot,
-        
-            L1,
-        
-            Toulouse
-          
-            Une saison à deux vitesses pour Martinez Novell
-         
-                14:30
+                20:30
               
             Foot,
         
@@ -502,21 +390,7 @@ Calendrier des matchs de Championnat d'Italie Serie B 2023-2024 - Football - L'�
           
             Faites votre liste pour l'Euro 2024
          
-                14:10
-              
-            Foot
-          
-            Où en est la sonorisation des arbitres en Europe ?
-         
-                14:05
-              
-            Foot,
-        
-            Podcast
-          
-            Replongez dans la saison des Invincibles d'Arsenal
-         
-                14:01
+                20:30
               
             Foot,
         
@@ -526,7 +400,7 @@ Calendrier des matchs de Championnat d'Italie Serie B 2023-2024 - Football - L'�
           
             Une drôle d'atmosphère pour fêter le titre
          
-                13:26
+                20:29
               
             Foot,
         
@@ -534,7 +408,131 @@ Calendrier des matchs de Championnat d'Italie Serie B 2023-2024 - Football - L'�
         
             PSG
           
-            Mbappé-Luis Enrique, un profond respect malgré les anicroches
+            Mbappé sifflé par le Parc des Princes
+         
+                19:58
+              
+            Foot,
+        
+            ITA
+          
+            Bienvenue à Côme, petit nouveau de Serie A
+         
+                19:28
+              
+            Foot,
+        
+            ALL
+          
+            Le Bayern bat Wolfsburg et repasse deuxième
+         
+                19:25
+              
+            Foot,
+        
+            ANG
+          
+            Vainqueur à Manchester United, Arsenal reprend la tête
+         
+                19:14
+              
+            Foot,
+        
+            L1,
+        
+            OM
+          
+            L'Europe, besoin crucial
+         
+                19:12
+              
+            Foot,
+        
+            L1
+          
+            Le PSG en Chine pour sa tournée estivale et le Trophée des champions
+         
+                19:11
+              
+            Foot,
+        
+            L1,
+        
+            PSG
+          
+            Mbappé titulaire contre Toulouse
+         
+                18:51
+              
+            Foot,
+        
+            C1,
+        
+            Real
+          
+            Tchouaméni pense être remis pour la finale
+         
+                18:50
+              
+            Foot,
+        
+            Édito
+          
+            Mbappé, «comment lui dire adieu»
+         
+                18:47
+              
+            Foot,
+        
+            D1 Arkema
+          
+            L'OL rejoint le PSG en finale
+         
+                18:37
+              
+            Foot,
+        
+            L1,
+        
+            Metz
+          
+            Oukidja, l'imprévisible
+         
+                18:34
+              
+            Foot,
+        
+            ESP
+          
+            L'Atlético arrache la victoire contre le Celta
+         
+                18:25
+              
+            Foot,
+        
+            L1
+          
+            Le multiplex de la 33e journée en direct
+         
+                18:21
+              
+            Foot,
+        
+            L1,
+        
+            Montpellier
+          
+            L'heure de Bertaud
+         
+                18:02
+              
+            Foot,
+        
+            L1,
+        
+            Toulouse
+          
+            Une saison à deux vitesses pour Martinez Novell
            
                 L'ÉQUIPE
              
