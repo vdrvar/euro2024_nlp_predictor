@@ -367,134 +367,28 @@ L'Équipe - L'actualité du sport en continu. - L'Équipe
              
    
                 chrono
-                filtrer :  football      
-                14:52
+                filtrer :  cyclisme      
+                18:02
               
             Foot,
         
             L1,
         
-            Lille
+            Toulouse
           
-            Fonseca dément un accord avec l'OM
+            Une saison à deux vitesses pour Martinez Novell
          
-                14:41
+                17:53
               
             Foot,
         
-            L1,
+            ANG,
         
-            Lille
+            Championship
           
-            André : «Objectif Ligue des champions»
+            Pas de vainqueur lors des demi-finales des play-offs
          
-                14:19
-              
-            Foot,
-        
-            L1,
-        
-            PSG
-          
-            Luis Enrique : «Mbappé a toujours tout donné pour le club»
-         
-                13:59
-              
-            Foot,
-        
-            Transferts
-          
-            À Madrid, on se prépare à accueillir Mbappé
-         
-                13:46
-              
-            Foot,
-        
-            PSG
-          
-            Un hommage minime pour Mbappé au Parc ?
-         
-                13:26
-              
-            Foot,
-        
-            L1,
-        
-            OM
-          
-            La peur du vide
-         
-                13:08
-              
-            Foot,
-        
-            L1,
-        
-            Lille
-          
-            Piano, culture, bonne humeur : les multiples talents de Tiago Santos
-         
-                12:34
-              
-            Foot,
-        
-            Édito
-          
-            Duluc sur le départ de Mbappé : «C'est fini, tout commence»
-         
-                12:30
-              
-            Foot,
-        
-            Bleus
-          
-            Faites votre liste pour l'Euro 2024
-         
-                12:07
-              
-            Foot,
-        
-            Transferts
-          
-            L'Hellas Vérone a fait une offre pour Nadje (Versailles)
-         
-                11:53
-              
-            Foot,
-        
-            JO 2024
-          
-            Macron «compte sur le Real Madrid» pour libérer Mbappé cet été
-         
-                11:37
-              
-            Foot,
-        
-            PSG,
-        
-            Data
-          
-            Mbappé, sept saisons d'un buteur au sommet
-         
-                11:36
-              
-            Foot,
-        
-            D1 Arkema,
-        
-            PFC
-          
-            Bussy, la fusée du PFC
-         
-                11:18
-              
-            Foot,
-        
-            Médias
-          
-            Des discussions sans fin autour des droits TV de la L1
-         
-                10:28
+                17:39
               
             Foot,
         
@@ -502,23 +396,71 @@ L'Équipe - L'actualité du sport en continu. - L'Équipe
         
             Nice
           
-            L'Europe, objectif accompli
+            Les Aiglons se préparent à tout changer
          
-                09:50
+                17:36
               
             Foot,
         
-            ANG
+            ANG (F)
           
-            Où en est la course au titre ?
+            Première Cup pour Manchester United
          
-                09:05
+                17:18
+              
+            Foot,
+        
+            L1,
+        
+            OL
+          
+            Entretenir le rêve européen sans hypothéquer la Coupe
+         
+                16:52
+              
+            Foot,
+        
+            L1,
+        
+            Monaco
+          
+            Plus qu'un point pour la C1... et la vente ?
+         
+                16:48
+              
+            Foot,
+        
+            L1,
+        
+            Strasbourg
+          
+            Sissoko va quitter le club à la fin de la saison
+         
+                16:45
+              
+            Foot,
+        
+            D2 (F)
+          
+            Strasbourg promu en D1
+         
+                16:42
               
             Foot
           
-            Quels clubs ont le plus fait l'ascenseur entre L1 et L2 au 21e siècle ?
+            Où en est la sonorisation des arbitres en Europe ?
          
-                08:36
+                16:23
+              
+            Foot,
+        
+            L1,
+        
+            Lorient
+          
+            Cette descente qui chamboulerait le club
+         
+                16:04
               
             Foot,
         
@@ -526,25 +468,85 @@ L'Équipe - L'actualité du sport en continu. - L'Équipe
         
             PSG
           
-            Lizarazu : «Mbappé, ni une machine ni un robot !»
+            Mbappé-Luis Enrique, un profond respect malgré les anicroches
          
-                07:35
+                15:54
+              
+            Foot,
+        
+            ESP
+          
+            Le Real célèbre son 36e titre de champion
+         
+                15:31
+              
+            Foot,
+        
+            ALL
+          
+            Sankt Pauli, un promu pas comme les autres
+         
+                15:11
               
             Foot,
         
             L1,
         
-            HAC
+            OL
           
-            La déception et l'attente
+            Entretenir le rêve européen sans hypothéquer la Coupe
          
-                07:28
+                15:01
               
             Foot,
         
-            L1
+            L1,
+        
+            Toulouse
           
-            Fonseca, toujours la priorité de l'OM
+            Une saison à deux vitesses pour Martinez Novell
+         
+                14:30
+              
+            Foot,
+        
+            Bleus
+          
+            Faites votre liste pour l'Euro 2024
+         
+                14:10
+              
+            Foot
+          
+            Où en est la sonorisation des arbitres en Europe ?
+         
+                14:05
+              
+            Foot,
+        
+            Podcast
+          
+            Replongez dans la saison des Invincibles d'Arsenal
+         
+                14:01
+              
+            Foot,
+        
+            L1,
+        
+            PSG
+          
+            Une drôle d'atmosphère pour fêter le titre
+         
+                13:26
+              
+            Foot,
+        
+            L1,
+        
+            PSG
+          
+            Mbappé-Luis Enrique, un profond respect malgré les anicroches
            
                 L'ÉQUIPE
              

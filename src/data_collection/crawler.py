@@ -61,7 +61,7 @@ def crawl(start_url, local_domain, max_depth, filter_path=None):
         url, depth = queue.popleft()
         if depth > max_depth:
             continue  # Skip processing if depth exceeds the max_depth
-        print(f"Crawling: {url} at depth {depth}")
+        #print(f"Crawling: {url} at depth {depth}")
 
         try:
             response = requests.get(url)

@@ -267,12 +267,16 @@ Classement Premier League 2023-2024 : Championnat d'Angleterre - Football - L'É
                          
                             1
                          
-                                Arsenal
-                              83  36 26 5 5 88 28 +60  
+                                Manchester City
+                             
+                                    1
+                                 85  36 26 7 3 91 33 +58  
                             2
                          
-                                Manchester City
-                              82  35 25 7 3 87 33 +54  
+                                Arsenal
+                             
+                                    1
+                                 83  36 26 5 5 88 28 +60  
                             3
                          
                                 Liverpool
@@ -284,209 +288,103 @@ Classement Premier League 2023-2024 : Championnat d'Angleterre - Football - L'É
                             5
                          
                                 Tottenham
-                              60  35 18 6 11 69 58 +11  
+                              63  36 19 6 11 71 59 +12  
                             6
                          
                                 Newcastle
-                             
-                                    1
-                                 56  35 17 5 13 78 56 +22  
+                              57  36 17 6 13 79 57 +22  
                             7
                          
                                 Chelsea
-                             
-                                    1
-                                 54  35 15 9 11 70 59 +11  
+                              57  36 16 9 11 73 61 +12  
                             8
                          
                                 Manchester United
-                             
-                                    2
-                                 54  35 16 6 13 52 55 -3  
+                              54  35 16 6 13 52 55 -3  
                             9
                          
                                 West Ham
-                              49  36 13 10 13 56 70 -14  
+                              52  37 14 10 13 59 71 -12  
                             10
-                         
-                                Bournemouth
-                              48  36 13 9 14 52 63 -11  
-                            11
                          
                                 Brighton
                              
                                     1
-                                 47  35 12 11 12 53 57 -4  
+                                 48  36 12 12 12 54 58 -4  
+                            11
+                         
+                                Bournemouth
+                             
+                                    1
+                                 48  37 13 9 15 53 65 -12  
                             12
+                         
+                                Crystal Palace
+                             
+                                    2
+                                 46  37 12 10 15 52 58 -6  
+                            13
                          
                                 Wolverhampton
                              
                                     1
-                                 46  36 13 7 16 49 60 -11  
-                            13
-                         
-                                Fulham
-                              44  36 12 8 16 51 55 -4  
+                                 46  37 13 7 17 50 63 -13  
                             14
                          
-                                Crystal Palace
-                              43  36 11 10 15 49 57 -8  
+                                Fulham
+                             
+                                    1
+                                 44  37 12 8 17 51 59 -8  
                             15
                          
                                 Everton
-                              37  36 12 9 15 38 49 -11  
+                              40  37 13 9 15 39 49 -10  
                             16
                          
                                 Brentford
-                              36  36 9 9 18 52 60 -8  
+                              39  37 10 9 18 54 61 -7  
                             17
                          
                                 Nottingham Forest
-                              29  36 8 9 19 45 63 -18  
+                              29  37 8 9 20 47 66 -19  
                             18
                          
                                 Luton
-                              26  36 6 8 22 49 78 -29  
+                              26  37 6 8 23 50 81 -31  
                             19
                          
                                 Burnley
-                              24  36 5 9 22 39 74 -35  
+                              24  37 5 9 23 40 76 -36  
                             20
                          
                                 Sheffield United
-                              16  36 3 7 26 35 100 -65           
+                              16  37 3 7 27 35 101 -66           
                 L'ÉQUIPE
              
    
                 chrono
                 filtrer :  football      
-                14:52
+                18:02
               
             Foot,
         
             L1,
         
-            Lille
+            Toulouse
           
-            Fonseca dément un accord avec l'OM
+            Une saison à deux vitesses pour Martinez Novell
          
-                14:41
+                17:53
               
             Foot,
         
-            L1,
+            ANG,
         
-            Lille
+            Championship
           
-            André : «Objectif Ligue des champions»
+            Pas de vainqueur lors des demi-finales des play-offs
          
-                14:19
-              
-            Foot,
-        
-            L1,
-        
-            PSG
-          
-            Luis Enrique : «Mbappé a toujours tout donné pour le club»
-         
-                13:59
-              
-            Foot,
-        
-            Transferts
-          
-            À Madrid, on se prépare à accueillir Mbappé
-         
-                13:46
-              
-            Foot,
-        
-            PSG
-          
-            Un hommage minime pour Mbappé au Parc ?
-         
-                13:26
-              
-            Foot,
-        
-            L1,
-        
-            OM
-          
-            La peur du vide
-         
-                13:08
-              
-            Foot,
-        
-            L1,
-        
-            Lille
-          
-            Piano, culture, bonne humeur : les multiples talents de Tiago Santos
-         
-                12:34
-              
-            Foot,
-        
-            Édito
-          
-            Duluc sur le départ de Mbappé : «C'est fini, tout commence»
-         
-                12:30
-              
-            Foot,
-        
-            Bleus
-          
-            Faites votre liste pour l'Euro 2024
-         
-                12:07
-              
-            Foot,
-        
-            Transferts
-          
-            L'Hellas Vérone a fait une offre pour Nadje (Versailles)
-         
-                11:53
-              
-            Foot,
-        
-            JO 2024
-          
-            Macron «compte sur le Real Madrid» pour libérer Mbappé cet été
-         
-                11:37
-              
-            Foot,
-        
-            PSG,
-        
-            Data
-          
-            Mbappé, sept saisons d'un buteur au sommet
-         
-                11:36
-              
-            Foot,
-        
-            D1 Arkema,
-        
-            PFC
-          
-            Bussy, la fusée du PFC
-         
-                11:18
-              
-            Foot,
-        
-            Médias
-          
-            Des discussions sans fin autour des droits TV de la L1
-         
-                10:28
+                17:39
               
             Foot,
         
@@ -494,23 +392,71 @@ Classement Premier League 2023-2024 : Championnat d'Angleterre - Football - L'É
         
             Nice
           
-            L'Europe, objectif accompli
+            Les Aiglons se préparent à tout changer
          
-                09:50
+                17:36
               
             Foot,
         
-            ANG
+            ANG (F)
           
-            Où en est la course au titre ?
+            Première Cup pour Manchester United
          
-                09:05
+                17:18
+              
+            Foot,
+        
+            L1,
+        
+            OL
+          
+            Entretenir le rêve européen sans hypothéquer la Coupe
+         
+                16:52
+              
+            Foot,
+        
+            L1,
+        
+            Monaco
+          
+            Plus qu'un point pour la C1... et la vente ?
+         
+                16:48
+              
+            Foot,
+        
+            L1,
+        
+            Strasbourg
+          
+            Sissoko va quitter le club à la fin de la saison
+         
+                16:45
+              
+            Foot,
+        
+            D2 (F)
+          
+            Strasbourg promu en D1
+         
+                16:42
               
             Foot
           
-            Quels clubs ont le plus fait l'ascenseur entre L1 et L2 au 21e siècle ?
+            Où en est la sonorisation des arbitres en Europe ?
          
-                08:36
+                16:23
+              
+            Foot,
+        
+            L1,
+        
+            Lorient
+          
+            Cette descente qui chamboulerait le club
+         
+                16:04
               
             Foot,
         
@@ -518,25 +464,85 @@ Classement Premier League 2023-2024 : Championnat d'Angleterre - Football - L'É
         
             PSG
           
-            Lizarazu : «Mbappé, ni une machine ni un robot !»
+            Mbappé-Luis Enrique, un profond respect malgré les anicroches
          
-                07:35
+                15:54
+              
+            Foot,
+        
+            ESP
+          
+            Le Real célèbre son 36e titre de champion
+         
+                15:31
+              
+            Foot,
+        
+            ALL
+          
+            Sankt Pauli, un promu pas comme les autres
+         
+                15:11
               
             Foot,
         
             L1,
         
-            HAC
+            OL
           
-            La déception et l'attente
+            Entretenir le rêve européen sans hypothéquer la Coupe
          
-                07:28
+                15:01
               
             Foot,
         
-            L1
+            L1,
+        
+            Toulouse
           
-            Fonseca, toujours la priorité de l'OM
+            Une saison à deux vitesses pour Martinez Novell
+         
+                14:30
+              
+            Foot,
+        
+            Bleus
+          
+            Faites votre liste pour l'Euro 2024
+         
+                14:10
+              
+            Foot
+          
+            Où en est la sonorisation des arbitres en Europe ?
+         
+                14:05
+              
+            Foot,
+        
+            Podcast
+          
+            Replongez dans la saison des Invincibles d'Arsenal
+         
+                14:01
+              
+            Foot,
+        
+            L1,
+        
+            PSG
+          
+            Une drôle d'atmosphère pour fêter le titre
+         
+                13:26
+              
+            Foot,
+        
+            L1,
+        
+            PSG
+          
+            Mbappé-Luis Enrique, un profond respect malgré les anicroches
            
                 L'ÉQUIPE
              
