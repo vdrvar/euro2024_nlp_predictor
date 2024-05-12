@@ -56,13 +56,39 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-To run the full pipeline from data collection to prediction display:
+The Euro 2024 NLP Predictor project utilizes a Streamlit dashboard to manage the entire data processing pipeline, from data collection to displaying predictive analytics. Follow these steps to get started:
 
-Start the data collection: Run crawl_the_news.py from the data_collection directory.
-Process the collected data: Execute scripts in data_processing to filter and analyze data.
-View predictions: Launch prediction_app.py from the prediction directory to view the interactive dashboard.
-Contribution
-Contributions are welcome! Please fork the repository and submit pull requests with your proposed changes.
+### Setup and Installation
+1. Clone the Repository:
+   git clone https://github.com/yourusername/euro2024_nlp_predictor.git
+   cd euro2024_nlp_predictor
 
-License
+2. Install Dependencies:
+   Ensure you have Python installed, then run:
+   pip install -r requirements.txt
+
+### Running the Streamlit Dashboard
+1. Start the Dashboard:
+   - Navigate to the prediction directory:
+     cd code/prediction
+   - Launch the Streamlit app:
+     streamlit run prediction_app.py
+   - This will open the dashboard in your default web browser, typically at http://localhost:8501.
+
+### Interacting with the Dashboard
+The dashboard is designed to guide you through the entire workflow:
+- Crawl News: Begin by collecting news articles from configured sources.
+- Filter Relevant Articles: Automatically filter out irrelevant content based on predefined criteria.
+- Classify Nations: Classify news articles by the relevant nation for further analysis.
+- Analyze Sentiment: Perform sentiment analysis on the classified articles to gauge public sentiment and perceptions.
+- Run All Processes: Alternatively, you can use this button to execute all scripts sequentially and see the entire pipeline in action.
+- Calculate Winning Probabilities: After running the analysis, view the calculated probabilities for each nation's chances of winning based on sentiment scores.
+
+## Contribution
+Contributions to the euro2024_nlp_predictor project are welcome! If you have suggestions for improvements or new features, please follow these steps:
+- Fork the repository: Create a fork of this repository on GitHub.
+- Make your changes: Implement your changes and enhancements in your forked version.
+- Submit a Pull Request: Create a pull request against the original repository with a clear list of what you've done and why it's beneficial to the project.
+
+## License
 This project is released under the MIT License - see the LICENSE file for details.
