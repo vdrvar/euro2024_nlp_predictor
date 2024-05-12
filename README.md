@@ -70,14 +70,14 @@ The Euro 2024 NLP Predictor project utilizes a Streamlit dashboard to manage the
 ### Running the Streamlit Dashboard
 3. Start the Dashboard:
    - Navigate to the prediction directory:
-     ´´´
+     ```
      cd code/prediction
-     ´´´
+     ```
    - Launch the Streamlit app:
-     ´´´
+     ```
      streamlit run prediction_app.py
-     ´´´
-   - This will open the dashboard in your default web browser, typically at ´http://localhost:8501´.
+     ```
+   - This will open the dashboard in your default web browser, typically at `http://localhost:8501`.
 
 ### Interacting with the Dashboard
 The dashboard is designed to guide you through the entire workflow:
