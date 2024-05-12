@@ -32,12 +32,16 @@ The Euro 2024 NLP Predictor project utilizes a Streamlit dashboard to manage the
 
 ### Setup and Installation
 1. Clone the Repository:
+   ```
    git clone https://github.com/yourusername/euro2024_nlp_predictor.git
    cd euro2024_nlp_predictor
+   ```
 
 2. Install Dependencies:
    Ensure you have Python installed, then run:
+   ```
    pip install -r requirements.txt
+   ```
 
 ### Running the Streamlit Dashboard
 3. Start the Dashboard:
