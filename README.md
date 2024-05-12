@@ -13,10 +13,11 @@ The `euro2024_nlp_predictor` is a comprehensive project that leverages advanced 
 ## Technology Stack
 - **Python**: Core programming language for data collection, processing, and dashboard.
 - **Beautiful Soup & Requests**: Tools for efficient web scraping.
-- **NLTK and spaCy**: Libraries for text processing and sentiment analysis.
+- **Hugging Face Transformers**: Library providing pre-trained models for Natural Language Processing (NLP), including text classification, information extraction, question answering, and more.
 - **Streamlit**: Framework for creating the interactive dashboard.
 - **Pandas**: For data manipulation and analysis.
 - **Subprocess**: For managing script execution within the Python environment.
+
 
 ## File Structure
 euro2024_nlp_predictor/
