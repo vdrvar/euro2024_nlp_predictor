@@ -19,33 +19,6 @@ The `euro2024_nlp_predictor` is a comprehensive project that leverages advanced 
 - **Subprocess**: For managing script execution within the Python environment.
 
 
-## File Structure
-euro2024_nlp_predictor/
-├── code/  # Folder containing all executable scripts and notebooks
-│   ├── data_collection/  # Scripts for data scraping news articles
-│   │   ├── crawl_the_news.py  # Main script for crawling news articles
-│   │   ├── crawler.py  # Helper functions for crawling
-│   │   └── testing_crawling.ipynb  # Testing and examples notebooks
-│   │
-│   ├── data_processing/  # Scripts for data processing and analysis
-│   │   ├── analyze_sentiment.py  # Script to analyze sentiment of articles
-│   │   ├── filter_relevant.py  # Script to filter relevant articles
-│   │   ├── classify_nations.py  # Script to classify articles by nation
-│   │   └── final_ranking.ipynb  # Notebook for computing the final ranking
-│   │
-│   └── prediction/  # Scripts for prediction and visualizations
-│       └── prediction_app.py  # Streamlit application for interactive prediction
-│
-├── data/  # Folder containing processed data
-│   ├── raw/  # Folder containing raw scraped data
-│   ├── filtered_file_paths.txt  # Text file with paths to filtered relevant articles
-│   ├── country_file_paths.txt  # Text file with paths to articles classified by country
-│   └── sentiment_scores.pkl  # Pickled file containing sentiment analysis scores
-│
-├── magazines.txt  # Text file listing target magazines and their URLs
-├── requirements.txt  # Text file listing project dependencies
-└── README.md  # This file (project documentation)
-
 ## Installation
 Clone the repository and install dependencies:
 ```
