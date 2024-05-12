@@ -1,7 +1,16 @@
 # Predicting Euro 2024 with Transformers
 
 ## Project Overview
-The `euro2024_nlp_predictor` is a comprehensive project that leverages advanced Natural Language Processing (NLP) and machine learning techniques to predict the outcomes of UEFA Euro 2024 matches. By analyzing the sentiment and content from prominent football news sources, this project aims to provide insights into team performances and public sentiment.
+The `euro2024_nlp_predictor` is a comprehensive project that leverages advanced Natural Language Processing (NLP) and machine learning techniques to analyze football news from prominent magazines and predict public sentiment for UEFA Euro 2024. This project aims to provide insights into team performances and public sentiment by scraping and analyzing content from key sports magazines, including:
+
+1. **L'Équipe (France)** - More than just a sports newspaper, L'Équipe is essential for daily sports news in France, with a strong focus on football.
+2. **FourFourTwo (United Kingdom)** - A global football magazine known for its comprehensive coverage, including in-depth features and tactical analysis.
+3. **Kicker (Germany)** - A staple in German sports journalism, Kicker extensively covers both domestic and international football.
+4. **La Gazzetta dello Sport (Italy)** - Italy's leading sports daily, renowned for its thorough focus on Serie A and international football.
+5. **Marca (Spain)** - A major Spanish sports newspaper known for its detailed coverage of La Liga and Spanish football.
+
+By extracting and analyzing data from these sources, the project provides a detailed view of the evolving dynamics in football as the Euro 2024 approaches.
+
 
 ## Features
 - **News Aggregation**: Automated scraping of renowned football news websites.
