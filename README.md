@@ -21,31 +21,30 @@ The `euro2024_nlp_predictor` is a comprehensive project that leverages advanced 
 
 ## File Structure
 euro2024_nlp_predictor/
+├── code/  # Folder containing all executable scripts and notebooks
+│   ├── data_collection/  # Scripts for data scraping news articles
+│   │   ├── crawl_the_news.py  # Main script for crawling news articles
+│   │   ├── crawler.py  # Helper functions for crawling
+│   │   └── testing_crawling.ipynb  # Testing and examples notebooks
+│   │
+│   ├── data_processing/  # Scripts for data processing and analysis
+│   │   ├── analyze_sentiment.py  # Script to analyze sentiment of articles
+│   │   ├── filter_relevant.py  # Script to filter relevant articles
+│   │   ├── classify_nations.py  # Script to classify articles by nation
+│   │   └── final_ranking.ipynb  # Notebook for computing the final ranking
+│   │
+│   └── prediction/  # Scripts for prediction and visualizations
+│       └── prediction_app.py  # Streamlit application for interactive prediction
 │
-├── code/ # All executable scripts and notebooks
-│ ├── data_collection/ # Scripts for data scraping
-│ │ ├── crawl_the_news.py # Main script for news crawling
-│ │ ├── crawler.py # Helper functions for crawling
-│ │ └── testing_crawling.ipynb # Testing and examples
-│ │
-│ ├── data_processing/ # Scripts for data processing and analysis
-│ │ ├── analyze_sentiment.py # Sentiment analysis script
-│ │ ├── filter_relevant.py # Filter relevant articles
-│ │ ├── classify_nations.py # Classify articles by nation
-│ │ └── final_ranking.ipynb # Notebook for final ranking computation
-│ │
-│ └── prediction/ # Prediction and visualization scripts
-│ └── prediction_app.py # Streamlit dashboard application
+├── data/  # Folder containing processed data
+│   ├── raw/  # Folder containing raw scraped data
+│   ├── filtered_file_paths.txt  # Text file with paths to filtered relevant articles
+│   ├── country_file_paths.txt  # Text file with paths to articles classified by country
+│   └── sentiment_scores.pkl  # Pickled file containing sentiment analysis scores
 │
-├── data/ # Stored data from the crawlers and analyses
-│ ├── raw/ # Raw scraped data
-│ ├── filtered_file_paths.txt # Paths to filtered relevant articles
-│ ├── country_file_paths.txt # Classified articles by country
-│ └── sentiment_scores.pkl # Output from sentiment analysis
-│
-├── magazines.txt # List of target magazines and URLs
-├── requirements.txt # Project dependencies
-└── README.md # Project README file
+├── magazines.txt  # Text file listing target magazines and their URLs
+├── requirements.txt  # Text file listing project dependencies
+└── README.md  # This file (project documentation)
 
 ## Installation
 Clone the repository and install dependencies:
