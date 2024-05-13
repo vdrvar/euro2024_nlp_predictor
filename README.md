@@ -61,11 +61,11 @@ The Euro 2024 NLP Predictor project utilizes a Streamlit dashboard to manage the
 ### Interacting with the Dashboard
 The dashboard is designed to guide you through the entire workflow:
 - Crawl News: Begin by collecting news articles from configured sources.
-  ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/0e7af70a-f6e3-44cb-90db-a1c9a498be9e)
+  ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/18e6bc57-42f4-469e-9fd9-953e76d4a807)
 - Filter Relevant Articles: Automatically filter out irrelevant content based on predefined criteria.
    ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/3cd2a3d6-3437-44f1-91db-ab969b33a858)
 - Classify Nations: Classify news articles by the relevant nation for further analysis.
-- ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/6ed5ed91-8641-4810-a945-aec20042bf1e)
+ ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/6ed5ed91-8641-4810-a945-aec20042bf1e)
 - Analyze Sentiment: Perform sentiment analysis on the classified articles to gauge public sentiment and perceptions.
 - Run All Processes: Alternatively, you can use this button to execute all scripts sequentially and see the entire pipeline in action.
 - Calculate Winning Probabilities: After running the analysis, view the calculated probabilities for each nation's chances of winning based on sentiment scores.
