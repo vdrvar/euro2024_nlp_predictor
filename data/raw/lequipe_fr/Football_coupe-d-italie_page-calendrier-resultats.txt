@@ -25,8 +25,6 @@ Calendrier et résultats Coupe d'Italie 2023-2024 : phase finale - Football - L'
                         Paris 2024
                     
                         Giro
-                    
-                        PSG - Dortmund
                            
             lire le journal
                 
@@ -397,34 +395,60 @@ Calendrier et résultats Coupe d'Italie 2023-2024 : phase finale - Football - L'
              
    
                 chrono
-                filtrer :  football      
-                20:49
-              
-            Foot,
-        
-            ITA
-          
-            Côme, un modèle à la Disney
-         
-                20:35
-              
-            Foot,
-        
-            ITA
-          
-            La Juventus tenue en échec à domicile par la Salernitana
-         
-                20:35
+                filtrer :  tennis      
+                20:19
               
             Foot,
         
             L1,
         
+            Trophées UNFP
+          
+            Labrune félicite les clubs pour leurs parcours européens
+         
+                20:19
+              
+            Foot,
+        
+            ALL,
+        
+            Bayern
+          
+            Pavlovic sélectionné pour l'Euro
+         
+                20:10
+              
+            Foot,
+        
             PSG
           
-            Luis Enrique fait tourner contre Toulouse
+            Mbappé et Al-Khelaïfi se sont vus avant Toulouse
          
-                20:30
+                19:50
+              
+            Foot,
+        
+            Tophées UNFP
+          
+            Létang : « Pas de triomphalisme, il reste une étape »
+         
+                19:44
+              
+            Foot,
+        
+            Trophées UNFP
+          
+            Elsner : « Une reconnaissance pour le travail du club »
+         
+                18:42
+              
+            Foot,
+        
+            Trophées UNFP
+          
+            Le tapis rouge de la 32e cérémonie en direct vidéo
+         
+                18:30
               
             Foot,
         
@@ -432,79 +456,103 @@ Calendrier et résultats Coupe d'Italie 2023-2024 : phase finale - Football - L'
           
             Faites votre liste pour l'Euro 2024
          
-                20:30
+                18:27
+              
+            Foot,
+        
+            L2
+          
+            Saint-Étienne confirme le projet de vente
+         
+                18:23
               
             Foot,
         
             L1,
         
-            PSG
+            Les notes
           
-            Une drôle d'atmosphère pour fêter le titre
+            Dembélé - Lees-Melou, l'absent n'aura pas forcément tort
          
-                20:29
+                18:15
               
             Foot,
         
-            L1,
-        
-            PSG
+            Le débrief du lundi
           
-            Mbappé sifflé par le Parc des Princes
+            Lille, attention à la boulette !
          
-                19:58
-              
-            Foot,
-        
-            ITA
-          
-            Bienvenue à Côme, petit nouveau de Serie A
-         
-                19:28
-              
-            Foot,
-        
-            ALL
-          
-            Le Bayern bat Wolfsburg et repasse deuxième
-         
-                19:25
-              
-            Foot,
-        
-            ANG
-          
-            Vainqueur à Manchester United, Arsenal reprend la tête
-         
-                19:14
-              
-            Foot,
-        
-            L1,
-        
-            OM
-          
-            L'Europe, besoin crucial
-         
-                19:12
+                18:06
               
             Foot,
         
             L1
           
-            Le PSG en Chine pour sa tournée estivale et le Trophée des champions
+            Rennes, drôle de saison et fin de cycle
          
-                19:11
+                17:59
+              
+            Foot,
+        
+            Coupe
+          
+            Letexier désigné arbitre de la finale
+         
+                17:51
+              
+            Foot,
+        
+            Décryptage,
+        
+            L1
+          
+            Les secrets des meilleurs buteurs
+         
+                17:13
+              
+            Foot,
+        
+            C1
+          
+            Slavko Vincic arbitrera la finale Real-Dortmund
+         
+                17:11
               
             Foot,
         
             L1,
         
-            PSG
+            Brest
           
-            Mbappé titulaire contre Toulouse
+            Denis Le Saint : «Ne retardons pas le projet» de l'Arkéa Park
          
-                18:51
+                17:10
+              
+            Foot
+          
+            L'équipe type des Français du week-end
+         
+                17:02
+              
+            Foot,
+        
+            ANG,
+        
+            City
+          
+            Guardiola : «Si on ne bat pas Tottenham, on ne remportera pas la Premier League»
+         
+                16:55
+              
+            Foot,
+        
+            ITA,
+        
+            AC Milan
+          
+            Giroud confirme son départ pour la MLS
+         
+                15:45
               
             Foot,
         
@@ -512,69 +560,15 @@ Calendrier et résultats Coupe d'Italie 2023-2024 : phase finale - Football - L'
         
             Real
           
-            Tchouaméni pense être remis pour la finale
+            Tchouaméni «pas encore forfait» pour la finale
          
-                18:50
-              
-            Foot,
-        
-            Édito
-          
-            Mbappé, «comment lui dire adieu»
-         
-                18:47
-              
-            Foot,
-        
-            D1 Arkema
-          
-            L'OL rejoint le PSG en finale
-         
-                18:37
-              
-            Foot,
-        
-            L1,
-        
-            Metz
-          
-            Oukidja, l'imprévisible
-         
-                18:34
+                15:40
               
             Foot,
         
             ESP
           
-            L'Atlético arrache la victoire contre le Celta
-         
-                18:25
-              
-            Foot,
-        
-            L1
-          
-            Le multiplex de la 33e journée en direct
-         
-                18:21
-              
-            Foot,
-        
-            L1,
-        
-            Montpellier
-          
-            L'heure de Bertaud
-         
-                18:02
-              
-            Foot,
-        
-            L1,
-        
-            Toulouse
-          
-            Une saison à deux vitesses pour Martinez Novell
+            Lucas Pérez fait remonter La Corogne en D2
            
                 L'ÉQUIPE
              

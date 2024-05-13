@@ -25,8 +25,6 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
                         Paris 2024
                     
                         Giro
-                    
-                        PSG - Dortmund
                            
             lire le journal
                 
@@ -285,25 +283,33 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
                                                
             Foot,
         
+            L1,
+        
+            Lille
+          
+                    Chevalier va être opéré d'un genou
+                                                              
+            Foot,
+        
             JO 2024
           
                     Macron «compte sur le Real Madrid» pour libérer Mbappé cet été
                                                               
+                L'ÉQUIPE
+             
+                
             Foot,
         
             AUS
           
                     Lydia Williams prendra sa retraite internationale après les JO
-                                                              
-                L'ÉQUIPE
-             
-                
+                                                                             
             JO 2024,
         
             Foot
           
                     La Guinée, dernière qualifiée dans le groupe des Bleuets
-                                                                             
+                                                              
             JO 2024
           
                     L'OM et le foot omniprésents avec la flamme à Marseille
@@ -311,12 +317,6 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
             Foot
           
                     Mbappé ne «pense pas beaucoup» aux JO
-                                                              
-            JO 2024,
-        
-            Foot
-          
-                    La Guinée ou l'Indonésie dans le groupe des Bleuets
                                                               
                 L'ÉQUIPE
              
@@ -332,9 +332,55 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
         
             Flamme olympique
           
+            Le parcours du 15 mai dans les Pyrénées-Orientales
+         
+                19:41
+              
+            JO 2024
+          
+            Objectif Paris, le journal du 13 mai 2024
+         
+                17:05
+              
+            JO 2024,
+        
+            Flamme olympique
+          
+            Programme du relais à Montpellier et dans l'Hérault
+         
+                14:23
+              
+            JO 2024
+          
+            La flamme montera les marches du Festival de Cannes
+         
+                11:36
+              
+            Foot,
+        
+            L1,
+        
+            Lille
+          
+            Chevalier va être opéré d'un genou
+         
+                12 mai
+              
+            JO 2024,
+        
+            Sécurité
+          
+            Tout savoir sur le Pass Jeux
+         
+                12 mai
+              
+            JO 2024,
+        
+            Flamme olympique
+          
             Le parcours du 14 mai en Corse
          
-                20:02
+                12 mai
               
             Athlé,
         
@@ -342,7 +388,7 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
           
             Amusan brille sur 100m haies, les Bleus intéressants
          
-                15:58
+                12 mai
               
             Judo,
         
@@ -352,7 +398,7 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
           
             Dicko intouchable
          
-                15:29
+                12 mai
               
             Lutte,
         
@@ -360,7 +406,7 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
           
             Pas de qualification française à Istanbul
          
-                14:31
+                12 mai
               
             Extra,
         
@@ -368,7 +414,7 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
           
             Overdose littéraire avant les Jeux de Paris
          
-                12:11
+                12 mai
               
             Tir à l'arc,
         
@@ -376,7 +422,7 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
           
             Les Bleus remportent le titre par équipes
          
-                11:30
+                12 mai
               
             Tir à l'arc,
         
@@ -384,13 +430,13 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
           
             Les Françaises championnes d'Europe par équipes
          
-                08:58
+                12 mai
               
             JO 2024
           
             Le chaudron olympique a refusé de s'allumer à Manosque
          
-                07:00
+                12 mai
               
             JO 2024,
         
@@ -426,14 +472,6 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
          
                 11 mai
               
-            Podcast,
-        
-            Quartiers Olympiques
-          
-            Grâce Zaadi et Villepinte
-         
-                11 mai
-              
             JO 2024,
         
             Flamme olympique
@@ -447,44 +485,6 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
             Flamme olympique
           
             Programme du relais dans les Alpes-de-Haute-Provence
-         
-                10 mai
-              
-            JO 2024
-          
-            Objectif Paris, le journal du 10 mai 2024
-         
-                10 mai
-              
-            Tennis,
-        
-            ATP,
-        
-            Rome
-          
-            Mannarino : «Faire acte de présence aux JO, ça ne m'intéresse pas»
-         
-                10 mai
-              
-            Le Magazine,
-        
-            JO 2024
-          
-            Rencontre avec les quatre médaillables des "nouveaux sports" olympiques
-         
-                10 mai
-              
-            Breaking
-          
-            B-boy Dany Dann remporte le Fise de Montpellier
-         
-                10 mai
-              
-            Foot,
-        
-            AUS
-          
-            Lydia Williams prendra sa retraite internationale après les JO
            
                 L'ÉQUIPE
              
@@ -629,6 +629,28 @@ Football - JO Paris 2024 - Actualités et résultats - L'Équipe
                          
                     équipe de france olympique
                  
+                            Titouan Castryck
+                        
+                            Bassa Mawem
+                        
+                            Lisa Barbelin
+                        
+                            Charline Picon
+                        
+                            Félix Lebrun
+                        
+                            Johanne Defay
+                        
+                            Sarah Léonie Cysique
+                        
+                            Davina Michel
+                        
+                            Mathilde Gros
+                        
+                            Clarisse Agbegnenou
+                        
+                            Teddy Riner
+                        
                             chances de médailles françaises au JO 2024
                         
                             jeunes espoirs français aux JO 2024
