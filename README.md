@@ -55,6 +55,8 @@ The Euro 2024 NLP Predictor project utilizes a Streamlit dashboard to manage the
      streamlit run prediction_app.py
      ```
    - This will open the dashboard in your default web browser, typically at `http://localhost:8501`.
+     ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/4c5c7cc4-4ccb-491a-9dce-977a861ff7cd)
+
 
 ### Interacting with the Dashboard
 The dashboard is designed to guide you through the entire workflow:
