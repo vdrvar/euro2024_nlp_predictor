@@ -67,6 +67,7 @@ The dashboard is designed to guide you through the entire workflow:
 - Classify Nations: Classify news articles by the relevant nation for further analysis.
  ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/6ed5ed91-8641-4810-a945-aec20042bf1e)
 - Analyze Sentiment: Perform sentiment analysis on the classified articles to gauge public sentiment and perceptions.
+  ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/a626dcd0-0d71-4cd7-b6c2-29b34114f161)
 - Run All Processes: Alternatively, you can use this button to execute all scripts sequentially and see the entire pipeline in action.
 - Calculate Winning Probabilities: After running the analysis, view the calculated probabilities for each nation's chances of winning based on sentiment scores.
 
