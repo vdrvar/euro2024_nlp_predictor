@@ -61,7 +61,7 @@ The Euro 2024 NLP Predictor project utilizes a Streamlit dashboard to manage the
 ### Interacting with the Dashboard
 The dashboard is designed to guide you through the entire workflow:
 - Crawl News: Begin by collecting news articles from configured sources.
-  ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/ef3d9932-7638-4022-b7ce-3b2a31ed3dd6)
+  ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/0e7af70a-f6e3-44cb-90db-a1c9a498be9e)
 - Filter Relevant Articles: Automatically filter out irrelevant content based on predefined criteria.
    ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/3cd2a3d6-3437-44f1-91db-ab969b33a858)
 - Classify Nations: Classify news articles by the relevant nation for further analysis.
