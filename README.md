@@ -70,6 +70,8 @@ The dashboard is designed to guide you through the entire workflow:
   ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/a626dcd0-0d71-4cd7-b6c2-29b34114f161)
 - Run All Processes: Alternatively, you can use this button to execute all scripts sequentially and see the entire pipeline in action.
 - Calculate Winning Probabilities: After running the analysis, view the calculated probabilities for each nation's chances of winning based on sentiment scores.
+![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/7b2bd753-c3d2-474a-ad3b-6e9ff959c5bb)
+
 
 ## Contribution
 Contributions to the euro2024_nlp_predictor project are welcome! If you have suggestions for improvements or new features, please follow these steps:
