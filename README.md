@@ -70,8 +70,35 @@ The dashboard is designed to guide you through the entire workflow:
   ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/a626dcd0-0d71-4cd7-b6c2-29b34114f161)
 - Run All Processes: Alternatively, you can use this button to execute all scripts sequentially and see the entire pipeline in action.
 - Calculate Winning Probabilities: After running the analysis, view the calculated probabilities for each nation's chances of winning based on sentiment scores.
-![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/7b2bd753-c3d2-474a-ad3b-6e9ff959c5bb)
+  ![image](https://github.com/vdrvar/euro2024_nlp_predictor/assets/48907543/c06c5138-4c4d-44d3-ac5b-ff60fb431072)
 
+```
+Percentage scores loaded successfully:
+Portugal: 10.11%
+Georgia: 7.36%
+Albania: 7.22%
+Türkiye: 6.20%
+Scotland: 5.60%
+Germany: 5.18%
+Czechia: 5.08%
+Belgium: 4.72%
+Italy: 4.51%
+Hungary: 4.03%
+Slovenia: 4.00%
+Ukraine: 3.95%
+Denmark: 3.86%
+England: 3.68%
+France: 3.67%
+Poland: 3.19%
+Spain: 2.82%
+Slovakia: 2.53%
+Switzerland: 2.53%
+Austria: 2.40%
+Romania: 2.18%
+Serbia: 1.93%
+Netherlands: 1.75%
+Croatia: 1.49%
+```
 
 ## Contribution
 Contributions to the euro2024_nlp_predictor project are welcome! If you have suggestions for improvements or new features, please follow these steps:
