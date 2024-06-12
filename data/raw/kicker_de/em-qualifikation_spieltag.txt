@@ -7,7 +7,12 @@
 
 
 
+
 EM-Qualifikation heute | Spielplan & Ergebnisse | 10. Spieltag | 2022/23 - kicker
+
+
+
+
 
 
 
@@ -358,6 +363,12 @@ Fußball
 
 
 
+EM
+
+
+
+
+
 Bundesliga
 
 
@@ -425,12 +436,6 @@ Nationalelf
 
 
 WM
-
-
-
-
-
-EM
 
 
 
@@ -689,12 +694,6 @@ TikTok
 
 
 
-
-
-Snapchat
-
-
-
 Sonstiges
 
 
@@ -738,23 +737,23 @@ Mediadaten
 
 
 
+EM
 Bundesliga
 2. Bundesliga
 3. Liga
 Regionalliga
 Amateure
+
+
 DFB-Pokal
-
-
 Int. Fußball
 Champions League
 Europa League
 Conference League
 Nationalelf
+
+
 WM
-
-
-EM
 Nations League
 Frauen
 Junioren
@@ -1908,11 +1907,71 @@ Aktuelle Videos
 
 
 
-0:30
+16:29
 
 
-"Er hatte ein paar schwierige Jahre"
-Southgate über Sancho: "Ich glaube nicht, dass er im Sommer dabei sein wird"
+Was geht, EM? - Deutschland gegen Schottland
+"Canback", Mutmacher, Gefahren: Die große Prognose vorm Eröffnungsspiel
+
+
+
+
+
+
+
+0:36
+
+
+Verteidiger vor Bayern-Abgang?
+Koeman bügelt Frage zu de Ligt ab: "Es geht nicht um die Zukunft"
+
+
+
+
+
+
+
+1:09
+
+
+Sprechchöre beim öffentlichen Training der Engländer
+Ausgelassener Kane jubelt in Jena - und wird gefeiert
+
+
+
+
+
+
+
+7:04
+
+
+Über 10.000 schottische Fans im Stadion erwartet
+Kroos warnt vor Schottland: "Die Kategorie Gegner, mit der wir uns schwer getan haben"
+
+
+
+
+
+
+
+1:30
+
+
+Direktor Tami optimistisch wegen Deutscher Bahn
+"Ungenügend" - Schweizer Ärger über Platzverhältnisse in Stuttgart
+
+
+
+
+
+
+
+0:47
+
+
+Schweizer starten am Samstag gegen Ungarn
+Stergiou über "Vorbild" Xhaka und Gruppe mit Deutschland
 
 
 
@@ -3789,12 +3848,6 @@ Tools & Services
 
 
 
-                                                    Snapchat
-                                                
-
-
-
-
                                                     RSS
                                                 
 
@@ -3831,6 +3884,7 @@ Weitere Angebote des Olympia-Verlags:
 
 alpin.de
 olympia-verlag.de
+
 
 
 

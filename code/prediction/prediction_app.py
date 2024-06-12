@@ -51,7 +51,7 @@ def process_sentiment_scores():
 
     min_score = min(sentiment_scores.values())
     adjustment = abs(min_score) if min_score < 0 else 0
-    epsilon = 0.001
+    epsilon = 0.01
 
     for key in sentiment_scores:
         sentiment_scores[key] += adjustment + epsilon

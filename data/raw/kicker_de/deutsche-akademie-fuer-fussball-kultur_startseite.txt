@@ -7,7 +7,12 @@
 
 
 
+
 Deutsche Akademie für Fußball-Kultur - kicker
+
+
+
+
 
 
 
@@ -360,6 +365,12 @@ Fußball
 
 
 
+EM
+
+
+
+
+
 Bundesliga
 
 
@@ -427,12 +438,6 @@ Nationalelf
 
 
 WM
-
-
-
-
-
-EM
 
 
 
@@ -691,12 +696,6 @@ TikTok
 
 
 
-
-
-Snapchat
-
-
-
 Sonstiges
 
 
@@ -740,23 +739,23 @@ Mediadaten
 
 
 
+EM
 Bundesliga
 2. Bundesliga
 3. Liga
 Regionalliga
 Amateure
+
+
 DFB-Pokal
-
-
 Int. Fußball
 Champions League
 Europa League
 Conference League
 Nationalelf
+
+
 WM
-
-
-EM
 Nations League
 Frauen
 Junioren
@@ -796,17 +795,16 @@ Deutsche Akademie für Fußball-Kultur
 
 
 
- 
 
 
 
 
 
-                Deutsche Akademie für Fußballkultur
+                Deutsche Akademie für Fußball-Kultur
             
 
-Fußballspruch des Jahres: Aytekin sorgt für eine Premiere
-Es ist eine Auszeichnung der ganz besonderen Art für Deniz Aytekin. Der Bundesliga-Schiedsrichter bekommt von der Deutschen Akademie für Fußballkultur den begehrten "Max" für den Fußballspruch des Jahres überreicht. Dank des Spruchs rückt die Leistung der deutschen Elite-Schiedsrichter in den Fokus.
+Nachwuchs für die Kurve - Jetzt für Fanpreis bewerben!
+Die Deutsche Akademie für Fußball-Kultur prämiert in diesem Jahr Angebote, die jungen Fans eine Stimme geben und sie zur Beteiligung anregen. Bewerbungen können bis Ende Mai eingereicht werden.
 
 
 
@@ -1532,12 +1530,6 @@ Tools & Services
 
 
 
-                                                    Snapchat
-                                                
-
-
-
-
                                                     RSS
                                                 
 
@@ -1574,6 +1566,7 @@ Weitere Angebote des Olympia-Verlags:
 
 alpin.de
 olympia-verlag.de
+
 
 
 

@@ -7,7 +7,12 @@
 
 
 
+
 EM 2024: Die Quartiere der Nationalmannschaften - kicker
+
+
+
+
 
 
 
@@ -359,6 +364,12 @@ Fußball
 
 
 
+EM
+
+
+
+
+
 Bundesliga
 
 
@@ -426,12 +437,6 @@ Nationalelf
 
 
 WM
-
-
-
-
-
-EM
 
 
 
@@ -690,12 +695,6 @@ TikTok
 
 
 
-
-
-Snapchat
-
-
-
 Sonstiges
 
 
@@ -739,23 +738,23 @@ Mediadaten
 
 
 
+EM
 Bundesliga
 2. Bundesliga
 3. Liga
 Regionalliga
 Amateure
+
+
 DFB-Pokal
-
-
 Int. Fußball
 Champions League
 Europa League
 Conference League
 Nationalelf
+
+
 WM
-
-
-EM
 Nations League
 Frauen
 Junioren
@@ -828,7 +827,7 @@ EM 2024: Die Quartiere der Nationalmannschaften
 
 
 
-15.04.24 - 17:54
+11.06.24 - 14:59
 
 
 
@@ -865,7 +864,7 @@ Im Juni und Juli 2024 findet die Europameisterschaft in Deutschland statt. Dafü
 
 Gruppe A
 
-        Deutschland: Herzogenaurach (Bayern) - adidas Home GroundSchottland: Garmisch-Partenkirchen - Hotel ObermühleUngarn: Weiler im Allgäu (Bayern) - Hotel TannenhofSchweiz: Stuttgart (Baden-Württemberg) - Waldhotel in Degerloch
+        Deutschland: Herzogenaurach (Bayern) - adidas Home GroundSchottland: Garmisch-Partenkirchen (Bayern) - Hotel ObermühleUngarn: Weiler im Allgäu (Bayern) - Hotel TannenhofSchweiz: Stuttgart (Baden-Württemberg) - Waldhotel in Degerloch
     
 
 Gruppe B
@@ -887,7 +886,7 @@ Hier kommen Sie zum Spielplan der Europameisterschaft 2024
 
 Gruppe C
 
-        Slowenien: Wuppertal (Nordrhein-Westfalen) - Hotel "Das Vesper"Dänemark: Freudenstadt (Baden-Württemberg) - Hotel Fritz Lauterbad Serbien: Augsburg (Bayern) - Hotel Maximilian’s England: Blankenhain (Thüringen) - Spa & GolfResort "Weimarer Land"
+        Slowenien: Sprockhövel (Nordrhein-Westfalen) - Hotel "Das Vesper"Dänemark: Freudenstadt (Baden-Württemberg) - Hotel Fritz Lauterbad Serbien: Augsburg (Bayern) - Hotel Maximilian’s England: Blankenhain (Thüringen) - Spa & GolfResort "Weimarer Land"
     
 Gruppe D
 
@@ -1147,12 +1146,6 @@ Tools & Services
 
 
 
-                                                    Snapchat
-                                                
-
-
-
-
                                                     RSS
                                                 
 
@@ -1189,6 +1182,7 @@ Weitere Angebote des Olympia-Verlags:
 
 alpin.de
 olympia-verlag.de
+
 
 
 
