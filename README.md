@@ -100,6 +100,11 @@ Netherlands: 1.75%
 Croatia: 1.49%
 ```
 
+## Project Conclusion
+
+The euro2024_nlp_predictor project demonstrates the potential of using NLP and machine learning to analyze football news and predict public sentiment for UEFA Euro 2024. The interactive dashboard and sentiment analysis provide valuable insights, but the project is limited by the small transformer model used, necessary for running on a single CPU. Stronger results could be achieved with more powerful infrastructure, such as advanced transformer models requiring GPU acceleration.
+
+
 ## Contribution
 Contributions to the euro2024_nlp_predictor project are welcome! If you have suggestions for improvements or new features, please follow these steps:
 - Fork the repository: Create a fork of this repository on GitHub.
